@@ -1,0 +1,1168 @@
+name,id1,birth_date,birth_city,birth_state,birth_country,bats,throws,height_in,weight_lbs,hall_of_fame,seasons_played,career_ops,career_g,career_ab,career_h,career_hr,career_rbi,career_bb,career_war,tie_lahman_id,tie_name,relation
+A. J. Jimenez,jimea001,1990-05-01,San Juan,,P.R.,R,R,72,195,,1,0.166,7,12,1,0,0,0,-0.25,jimej003,,Brother
+Aaron Boone,boona001,1973-03-09,La Mesa,CA,USA,R,R,74,190,,12,0.865,1152,3871,1017,126,555,303,17.67,boonb001,Bob Boone,Son
+Aaron Boone,boona001,1973-03-09,La Mesa,CA,USA,R,R,74,190,,12,0.865,1152,3871,1017,126,555,303,17.67,boonb002,Bret Boone,Brother
+Aaron Boone,boona001,1973-03-09,La Mesa,CA,USA,R,R,74,190,,12,0.865,1152,3871,1017,126,555,303,17.67,boonr101,,Grandson
+Aaron Holbert,holba001,1973-01-09,Torrance,CA,USA,R,R,72,160,,2,0.564,23,30,6,0,2,3,-0.44,holbr001,Ray Holbert,Brother
+Aaron Rowand,rowaa001,1977-08-29,Portland,OR,USA,R,R,72,210,,11,0.766,1358,4374,1193,136,536,261,20.85,shiej002,,Cousin
+Aaron Whitefield,whita102,1996-09-02,Brisbane,QLD,Australia,R,R,76,210,,2,0.0,8,12,0,0,0,0,-0.22,whitf102,Fred Whitfield,Brother
+Adam LaRoche,laroa001,1979-11-06,Orange County,CA,USA,L,L,74,205,,12,0.964,1605,5593,1452,255,882,649,18.7,laroa002,Andy LaRoche,Brother
+Adam LaRoche,laroa001,1979-11-06,Orange County,CA,USA,L,L,74,205,,12,0.964,1605,5593,1452,255,882,649,18.7,larod101,,Son
+Addison Russell,russa101,1994-01-23,Pensacola,FL,USA,R,R,72,200,,5,0.704,615,1987,480,60,253,186,11.74,russl101,,Brother
+Adonis Garcia,garca005,1985-04-12,Ciego de Ávila,Ciego de Ávila,Cuba,R,R,69,205,,3,0.714,244,896,239,29,110,36,-0.18,garca004,Amaury Garcia,Brother
+Adrian Garrett,garra101,1943-01-03,Brooksville,FL,USA,L,R,75,185,,7,0.81,159,273,51,11,37,31,-0.08,garrw101,Wayne Garrett,Brother
+Al Martin,marta002,1967-11-24,West Covina,CA,USA,L,L,74,220,,11,0.864,1232,4242,1172,132,485,390,7.82,marta008,Andy Marte,Father
+Al Montreuil,monta103,1943-08-23,New Orleans,LA,USA,R,R,65,158,,1,0.258,5,11,1,0,0,1,-0.13,montr101,Ray Montgomery,Son
+Alan Ashby,ashba002,1951-07-08,Long Beach,CA,USA,B,R,74,185,,17,0.681,1370,4123,1010,90,513,461,11.08,ashba003,,Uncle
+Alejandro Osuna,osuna002,2002-10-10,Ahome,Sinaloa,México,L,L,69,185,,1,0.59,63,151,32,2,15,21,0.12,osuna003,,Uncle
+Alejandro Osuna,osuna002,2002-10-10,Ahome,Sinaloa,México,L,L,69,185,,1,0.59,63,151,32,2,15,21,0.12,osunr001,,Uncle
+Alex Cabrera,cabra001,1971-12-24,Caripito,Monagas,Venezuela,R,R,74,217,,1,0.799,31,80,21,5,14,4,0.38,cabrr001,Ramon Cabrera,Father
+Alex Cora,coraa001,1975-10-18,Caguas,,P.R.,L,R,72,200,,14,0.723,1273,3408,828,35,286,248,7.83,coraj001,Joey Cora,Brother
+Alex Diaz,diaza004,1968-10-05,Brooklyn,NY,USA,B,R,71,175,,8,0.594,366,816,195,8,75,33,-2.81,diaze006,Edgar Diaz,Brother
+Alex Gonzalez,gonza003,1973-04-08,Miami,FL,USA,R,R,72,180,,13,0.761,1396,4977,1209,137,536,392,9.38,gonze003,Edgar Gonzalez,Brother
+Alex Trevino,treva001,1957-08-26,Monterrey,Nuevo León,México,R,R,70,165,,13,0.743,939,2430,604,23,244,205,9.3,trevb101,Bobby Trevino,Brother
+Alfonso Soriano,soria001,1976-01-07,San Pedro de Macoris,San Pedro de Macorís,D.R.,R,R,73,195,,16,0.88,1975,7750,2095,412,1159,496,31.48,sorig001,,Cousin
+Amaury Garcia,garca004,1975-05-20,Santo Domingo,Distrito Nacional,D.R.,R,R,70,160,,1,0.916,10,24,6,2,2,3,0.24,garca005,Adonis Garcia,Brother
+Andrew Romine,romia001,1985-12-24,Winter Haven,FL,USA,B,R,73,190,,11,0.588,613,1262,294,11,86,86,0.54,romia002,Austin Romine,Brother
+Andrew Romine,romia001,1985-12-24,Winter Haven,FL,USA,B,R,73,190,,11,0.588,613,1262,294,11,86,86,0.54,romik001,Kevin Romine,Son
+Andruw Jones,jonea901,1977-04-23,Willemstad,,Curaçao,R,R,73,225,,17,0.823,2196,7599,1933,434,1289,891,62.71,jonet901,Tracy Jones,Brother
+Andujar Cedeno,cedea001,1969-08-21,La Romana,La Romana,D.R.,R,R,73,170,,7,0.83,616,2051,485,47,223,143,-6.41,ceded001,Domingo Cedeno,Brother
+Andy LaRoche,laroa002,1983-09-13,Fort Scott,KS,USA,R,R,72,205,,6,0.752,404,1184,267,22,113,121,-1.32,laroa001,Adam LaRoche,Brother
+Andy LaRoche,laroa002,1983-09-13,Fort Scott,KS,USA,R,R,72,205,,6,0.752,404,1184,267,22,113,121,-1.32,larod101,,Son
+Andy Marte,marta008,1983-10-21,Villa Tapia,Hermanas Mirabal,D.R.,R,R,73,205,,7,0.634,308,854,186,21,99,67,-1.0,marta002,Al Martin,Son
+Andy Mota,motaa001,1966-03-04,Santo Domingo,Distrito Nacional,D.R.,R,R,70,180,,1,0.442,27,90,17,1,6,1,-0.5,motaj001,Jose Mota,Brother
+Andy Mota,motaa001,1966-03-04,Santo Domingo,Distrito Nacional,D.R.,R,R,70,180,,1,0.442,27,90,17,1,6,1,-0.5,baezj101,Jose Baez,Cousin
+Andy Mota,motaa001,1966-03-04,Santo Domingo,Distrito Nacional,D.R.,R,R,70,180,,1,0.442,27,90,17,1,6,1,-0.5,motam101,Manny Mota,Son
+Andy Sheets,sheea001,1971-11-19,Baton Rouge,LA,USA,R,R,74,180,,7,0.592,356,960,207,19,113,76,-1.63,sheeb001,,Cousin
+Angel Berroa,berra001,1978-01-27,Santo Domingo,Distrito Nacional,D.R.,R,R,72,195,,9,0.684,746,2575,665,46,254,117,0.01,silvl101,Luis Silverio,Son-in-Law
+Angel Escobar,escoa003,1965-05-12,La Sabana,Vargas,Venezuela,B,R,72,160,,1,0.666,3,3,1,0,0,0,0.0,acunl001,Luisangel Acuña,Cousin
+Angel Escobar,escoa003,1965-05-12,La Sabana,Vargas,Venezuela,B,R,72,160,,1,0.666,3,3,1,0,0,0,0.0,acunr001,Ronald Acuña Jr.,Cousin
+Angel Escobar,escoa003,1965-05-12,La Sabana,Vargas,Venezuela,B,R,72,160,,1,0.666,3,3,1,0,0,0,0.0,campv001,,Cousin
+Angel Escobar,escoa003,1965-05-12,La Sabana,Vargas,Venezuela,B,R,72,160,,1,0.666,3,3,1,0,0,0,0.0,escoe002,Eduardo Escobar,Cousin
+Angel Escobar,escoa003,1965-05-12,La Sabana,Vargas,Venezuela,B,R,72,160,,1,0.666,3,3,1,0,0,0,0.0,escok001,,Cousin
+Angel Escobar,escoa003,1965-05-12,La Sabana,Vargas,Venezuela,B,R,72,160,,1,0.666,3,3,1,0,0,0,0.0,escoj001,Jose Escobar,Nephew
+Angel Mangual,manga101,1947-03-19,Juana Diaz,,P.R.,R,R,70,178,,7,0.625,450,1241,304,22,125,59,2.1,mangp101,Pepe Mangual,Brother
+Angel Mangual,manga101,1947-03-19,Juana Diaz,,P.R.,R,R,70,178,,7,0.625,450,1241,304,22,125,59,2.1,laboc101,Coco Laboy,Cousin
+Antone Williamson,willa004,1973-07-18,Harbor City,CA,USA,L,R,73,195,,1,0.513,24,54,11,0,6,4,-0.8,mitcr001,Russ Mitchell,Cousin
+Art Gardner,garda104,1952-09-21,Madden,MS,USA,L,L,71,175,,3,0.371,86,99,16,0,5,4,-0.92,gardd101,,Brother
+Aurelio Rodriguez,rodra001,1947-12-28,Cananea,Sonora,México,R,R,70,180,,16,0.728,1988,6481,1539,123,640,322,18.67,dunaj001,Joe Dunand,Uncle
+Austin Barnes,barna001,1989-12-28,Fullerton,CA,USA,R,R,70,187,,11,0.66,612,1516,338,35,162,196,4.39,gallm001,Mike Gallego,Nephew
+Austin Meadows,meada001,1995-05-03,Atlanta,GA,USA,L,L,75,225,,6,0.891,417,1507,390,70,238,156,6.09,meadp001,Parker Meadows,Brother
+Austin Nola,nolaa001,1989-12-28,Baton Rouge,LA,USA,R,R,72,197,,6,0.804,360,1087,268,24,137,109,5.62,nolaa002,,Brother
+Austin Romine,romia002,1988-11-22,Lake Forest,CA,USA,R,R,73,216,,11,0.701,485,1352,311,31,166,69,-2.82,romia001,Andrew Romine,Brother
+Austin Romine,romia002,1988-11-22,Lake Forest,CA,USA,R,R,73,216,,11,0.701,485,1352,311,31,166,69,-2.82,romik001,Kevin Romine,Son
+B. J. Surhoff,surhb001,1964-08-04,Bronx,NY,USA,L,R,73,185,,19,0.796,2313,8258,2326,188,1153,640,37.23,morab001,,Uncle
+B. J. Surhoff,surhb001,1964-08-04,Bronx,NY,USA,L,R,73,185,,19,0.796,2313,8258,2326,188,1153,640,37.23,morac001,Colin Moran,Uncle
+B. J. Surhoff,surhb001,1964-08-04,Bronx,NY,USA,L,R,73,185,,19,0.796,2313,8258,2326,188,1153,640,37.23,surhr001,,Brother
+B. J. Upton,uptob001,1984-08-21,Norfolk,VA,USA,R,R,75,185,,12,0.782,1469,5175,1260,164,586,589,17.71,uptoj001,Justin Upton,Brother
+Barbaro Garbey,garbb102,1956-12-04,Santiago de Cuba,Santiago de Cuba,Cuba,R,R,70,170,,3,0.679,226,626,167,11,86,36,0.12,garbm101,,Brother
+Barry Bonds,bondb101,1964-07-24,Riverside,CA,USA,L,L,73,185,,22,1.051,2986,9847,2935,762,1996,2558,162.78,bondb001,Bobby Bonds,Father
+Barry Larkin,larkb001,1964-04-28,Cincinnati,OH,USA,R,R,72,185,HOF,19,0.815,2180,7937,2340,198,960,939,70.53,larks001,Stephen Larkin,Brother
+Beau Taylor,taylb108,1990-02-13,Rockledge,FL,USA,L,R,71,205,,3,0.536,25,51,6,2,4,7,-0.18,taylc104,Chris Taylor,Brother
+Beau Taylor,taylb108,1990-02-13,Rockledge,FL,USA,L,R,71,205,,3,0.536,25,51,6,2,4,7,-0.18,taylj104,,Brother
+Beau Taylor,taylb108,1990-02-13,Rockledge,FL,USA,L,R,71,205,,3,0.536,25,51,6,2,4,7,-0.18,taylj105,,Brother
+Ben Gamel,gameb001,1992-05-17,Neptune Beach,FL,USA,L,L,71,180,,9,0.82,723,2046,516,41,204,243,1.32,gamem001,Mat Gamel,Brother
+Ben Grieve,grieb001,1976-05-04,Arlington,TX,USA,L,R,76,200,,9,0.877,976,3215,864,118,492,466,7.8,griet101,Tom Grieve,Son
+Bernardo Brito,britb801,1963-12-04,San Cristobal,San Cristóbal,D.R.,R,R,73,190,,3,0.703,40,73,16,5,12,1,-0.32,britz001,,Brother
+Bernie Williams,willb801,1948-10-08,Alameda,CA,USA,R,R,73,175,,4,0.588,102,172,33,4,15,21,-0.68,willj107,Jim Williams,Son
+Bert Campaneris,campb101,1942-03-09,Pueblo Nuevo,Matanzas,Cuba,R,R,70,160,,15,0.659,1828,6663,1722,61,508,501,46.65,cardj101,Jose Cardenal,Cousin
+Bien Figueroa,figub001,1964-02-07,Santo Domingo,Distrito Nacional,D.R.,R,R,70,170,,1,0.523,12,11,2,0,4,1,-0.21,figuc001,Cole Figueroa,Father
+Bill Davis,davib101,1942-06-06,Graceville,MN,USA,L,L,79,215,,1,0.481,31,57,10,0,1,8,-0.29,housa001,,Cousin
+Bill Fahey,faheb001,1950-06-14,Detroit,MI,USA,L,R,72,200,,11,0.591,383,934,225,7,83,74,2.13,faheb101,Brandon Fahey,Son
+Bill Hall,hallb101,1979-12-28,Tupelo,MS,USA,R,R,72,210,,11,0.828,1054,3334,827,125,440,286,7.55,hallb102,,Uncle
+Bill Lyons,lyonb101,1958-04-26,Alton,IL,USA,R,R,73,175,,2,0.492,88,133,26,0,6,10,-0.03,lyonj101,,Brother
+Bill Mazeroski,mazeb101,1936-09-05,Wheeling,WV,USA,R,R,71,183,HOF,5,0.602,426,1357,324,14,125,105,3.61,roe-c001,,Uncle
+Bill Plummer,plumb101,1947-03-21,Oakland,CA,USA,R,R,73,190,,10,0.546,367,892,168,14,82,95,-4.13,menec001,,Grandfather
+Bill Robinson,robib103,1943-06-26,McKeesport,PA,USA,R,R,74,189,,14,0.782,1350,4011,1057,159,609,235,9.06,stras101,,Brother-in-Law
+Bill Spiers,spieb001,1966-06-05,Orangeburg,SC,USA,L,R,74,190,,13,0.711,1252,3408,922,37,388,355,10.19,spiec001,,Uncle
+Billy Conigliaro,conib101,1947-08-15,Revere,MA,USA,R,R,72,180,,5,0.74,347,1130,289,40,128,86,4.57,conit101,Tony Conigliaro,Brother
+Billy Harris,harrb117,1943-11-24,Hamlet,NC,USA,L,R,72,175,,2,0.573,43,101,22,0,3,8,0.51,harrn102,,Brother
+Billy Harris,harrb117,1943-11-24,Hamlet,NC,USA,L,R,72,175,,2,0.573,43,101,22,0,3,8,0.51,harrv102,Vic Harris,Brother
+Billy Ripken,ripkb001,1964-12-16,Havre de Grace,MD,USA,R,R,73,180,,12,0.612,912,2729,674,20,229,174,5.93,ripkc001,Cal Ripken,Brother
+Billy Ripken,ripkb001,1964-12-16,Havre de Grace,MD,USA,R,R,73,180,,12,0.612,912,2729,674,20,229,174,5.93,ripkc801,,Son
+Billy Williams,willb101,1938-06-15,Whistler,AL,USA,L,R,73,175,HOF,9,0.855,1342,4939,1428,228,813,595,30.23,willm102,Matt Williams,Son
+Blaze Alexander,alexb001,1999-06-11,Cape Coral,FL,USA,R,R,72,160,,2,0.688,135,396,94,10,49,37,1.69,alexc001,CJ Alexander,Brother
+Blaze Alexander,alexb001,1999-06-11,Cape Coral,FL,USA,R,R,72,160,,2,0.688,135,396,94,10,49,37,1.69,plesd001,,Nephew
+Blaze Alexander,alexb001,1999-06-11,Cape Coral,FL,USA,R,R,72,160,,2,0.688,135,396,94,10,49,37,1.69,plesz001,,Cousin
+Bo Bichette,bichb001,1998-03-05,Orlando,FL,USA,R,R,72,190,,7,0.806,748,3075,904,111,437,187,20.82,bichd001,Dante Bichette,Son
+Bo Jackson,jackb002,1962-11-30,Bessemer,AL,USA,R,R,73,220,,8,0.784,694,2393,598,141,415,200,8.28,jackd004,Darrin Jackson,Brother
+Bo Naylor,naylb001,2000-02-21,Mississauga,ON,CAN,L,R,72,205,,4,0.67,318,919,188,38,118,104,3.51,naylj001,Josh Naylor,Brother
+Bo Naylor,naylb001,2000-02-21,Mississauga,ON,CAN,L,R,72,205,,4,0.67,318,919,188,38,118,104,3.51,clard004,Doug Clarey,Cousin
+Bob Adams,adamb103,1952-01-06,Pittsburgh,PA,USA,R,R,74,200,,1,0.792,15,24,6,2,2,0,-0.04,adamm102,Mike Adams,Father
+Bob Adams,adamb103,1952-01-06,Pittsburgh,PA,USA,R,R,74,200,,1,0.792,15,24,6,2,2,0,-0.04,adamd102,Doug Adams,Brother
+Bob Allison,allib102,1934-07-11,Raytown,MO,USA,R,R,75,205,,3,0.761,273,730,174,31,86,95,2.28,allia102,,Brother
+Bob Aspromonte,asprb101,1938-06-19,Brooklyn,NY,USA,R,R,74,170,,4,0.576,372,1076,246,9,110,90,-3.59,asprk101,,Brother
+Bob Boone,boonb001,1947-11-19,San Diego,CA,USA,R,R,74,195,,19,0.661,2264,7245,1838,105,826,663,27.41,boona001,Aaron Boone,Father
+Bob Boone,boonb001,1947-11-19,San Diego,CA,USA,R,R,74,195,,19,0.661,2264,7245,1838,105,826,663,27.41,boonb002,Bret Boone,Father
+Bob Boone,boonb001,1947-11-19,San Diego,CA,USA,R,R,74,195,,19,0.661,2264,7245,1838,105,826,663,27.41,boonr101,,Son
+Bob Gallagher,gallb101,1947-07-07,Newton,MA,USA,L,L,75,185,,4,0.541,213,255,56,2,13,16,-1.21,colls101,,Grandson
+Bob Johnson,johnb101,1936-03-04,Omaha,NE,USA,R,R,70,175,,3,1.131,175,344,90,3,25,19,1.11,banke101,Ernie Banks,Nephew
+Bob Molinaro,molib001,1950-05-21,Newark,NJ,USA,L,R,72,190,,8,0.781,401,803,212,14,90,65,0.38,molij001,Jose Molina,Brother
+Bob Molinaro,molib001,1950-05-21,Newark,NJ,USA,L,R,72,190,,8,0.781,401,803,212,14,90,65,0.38,moliy001,Yadier Molina,Brother
+Bob Oliver,olivb101,1943-02-08,Shreveport,LA,USA,R,R,75,205,,7,0.883,844,2912,745,94,419,156,5.85,olivd001,Dave Oliver,Father
+Bob Spence,spenb101,1946-02-10,San Diego,CA,USA,L,R,76,215,,3,0.571,72,183,37,4,19,16,-0.92,spenj101,Jim Spencer,Grandfather
+Bob Taylor,taylb106,1944-03-20,Leland,MS,USA,L,R,69,170,,1,0.582,63,84,16,2,10,12,-0.53,taylh102,Hawk Taylor,Uncle
+Bobby Bonds,bondb001,1946-03-15,Riverside,CA,USA,R,R,73,190,,14,0.885,1849,7043,1886,332,1024,914,62.24,bondb101,Barry Bonds,Son
+Bobby Estalella,estab001,1974-08-23,Hialeah,FL,USA,R,R,73,200,,9,0.811,310,904,195,48,147,130,2.82,estab101,,Grandson
+Bobby Hill,hillb102,1978-04-03,San Jose,CA,USA,B,R,70,175,,4,0.704,249,523,137,6,58,48,0.26,hillh104,Herman Hill,Brother
+Bobby Thompson,thomb101,1953-11-03,Charlotte,NC,USA,B,R,71,175,,1,0.634,64,120,27,2,12,9,0.45,thomr101,Robby Thompson,Brother
+Bobby Trevino,trevb101,1945-08-15,Monterrey,Nuevo León,México,R,R,74,185,,1,0.512,17,40,9,0,1,2,0.14,treva001,Alex Trevino,Brother
+Bobby Wine,wineb101,1938-09-17,New York,NY,USA,R,R,73,187,,5,0.535,460,1300,274,9,99,98,-3.05,winer001,Robbie Wine,Father
+Bobby Witt Jr.,wittb001,2000-06-14,Colleyville,TX,USA,R,R,73,200,,4,0.844,626,2491,722,105,373,176,21.96,wittb002,,Father
+Bobby Witt Jr.,wittb001,2000-06-14,Colleyville,TX,USA,R,R,73,200,,4,0.844,626,2491,722,105,373,176,21.96,nealz001,,Father-in-Law
+Bobby Witt Jr.,wittb001,2000-06-14,Colleyville,TX,USA,R,R,73,200,,4,0.844,626,2491,722,105,373,176,21.96,russj003,,Father-in-Law
+Bobby Witt Jr.,wittb001,2000-06-14,Colleyville,TX,USA,R,R,73,200,,4,0.844,626,2491,722,105,373,176,21.96,thomc003,Charles Thomas,Father-in-Law
+Boog Powell,poweb101,1941-08-17,Lakeland,FL,USA,L,R,76,230,,10,0.83,1231,3975,1070,196,716,645,26.53,taylc102,Carl Taylor,Step Brother
+Brad Snyder,snydb001,1982-05-25,Sandusky,OH,USA,L,L,75,220,,3,0.513,30,66,11,2,8,5,-0.1,younm005,Mike Young,Cousin
+Brad Snyder,snydb001,1982-05-25,Sandusky,OH,USA,L,L,75,220,,3,0.513,30,66,11,2,8,5,-0.1,snydb003,Brandon Snyder,Father
+Brad Wilkerson,wilkb001,1977-06-01,Owensboro,KY,USA,L,L,72,200,,8,0.843,972,3187,788,122,399,492,10.51,bluej101,,Great Grandfather
+Bradley Zimmer,zimmb001,1992-11-27,La Jolla,CA,USA,L,R,76,185,,6,0.726,372,859,183,21,91,76,3.17,zimmk001,,Brother
+Brandon Berger,bergb102,1975-02-21,Covington,KY,USA,R,R,71,205,,4,0.646,81,217,46,8,24,15,-1.27,bergm102,,Brother
+Brandon Crawford,crawb001,1987-01-21,Mountain View,CA,USA,L,R,73,223,,14,0.713,1684,5646,1404,147,748,544,29.44,coleg001,,Brother-in-Law
+Brandon Fahey,faheb101,1981-01-18,Dallas,TX,USA,L,R,74,160,,3,0.586,189,411,92,2,36,28,-0.76,faheb001,Bill Fahey,Father
+Brandon Laird,lairb001,1987-09-11,Cypress,CA,USA,R,R,73,215,,3,0.626,53,127,25,6,16,8,-0.19,lairg001,Gerald Laird,Brother
+Brandon Phillips,philb101,1981-06-28,Raleigh,NC,USA,R,R,72,211,,17,0.791,1902,7378,2029,211,951,420,29.77,wolfb102,,Half Brother
+Brandon Snyder,snydb003,1986-11-23,Las Vegas,NV,USA,R,R,74,215,,6,0.731,122,200,48,9,29,7,-0.02,younm005,Mike Young,Cousin
+Brandon Snyder,snydb003,1986-11-23,Las Vegas,NV,USA,R,R,74,215,,6,0.731,122,200,48,9,29,7,-0.02,snydb001,Brad Snyder,Son
+Brent Lillibridge,lillb102,1983-09-18,Everett,WA,USA,R,R,71,185,,6,0.822,358,708,145,19,71,49,-3.0,lillg101,,Brother
+Brenton Doyle,doylb801,1998-05-14,Warrenton,VA,USA,R,R,74,200,,3,0.677,413,1443,339,48,177,98,4.88,doylb101,Brian Doyle,Brother
+Brenton Doyle,doylb801,1998-05-14,Warrenton,VA,USA,R,R,74,200,,3,0.677,413,1443,339,48,177,98,4.88,doyld102,Denny Doyle,Brother
+Bret Barberie,barbb102,1967-08-16,Long Beach,CA,USA,B,R,71,185,,6,0.719,479,1434,388,16,133,164,6.31,barbl101,,Brother
+Bret Boone,boonb002,1969-04-06,El Cajon,CA,USA,R,R,70,180,,14,0.789,1780,6683,1775,252,1021,552,20.68,boona001,Aaron Boone,Brother
+Bret Boone,boonb002,1969-04-06,El Cajon,CA,USA,R,R,70,180,,14,0.789,1780,6683,1775,252,1021,552,20.68,allen002,Nick Allen,Father-in-Law
+Bret Boone,boonb002,1969-04-06,El Cajon,CA,USA,R,R,70,180,,14,0.789,1780,6683,1775,252,1021,552,20.68,boonb001,Bob Boone,Son
+Bret Boone,boonb002,1969-04-06,El Cajon,CA,USA,R,R,70,180,,14,0.789,1780,6683,1775,252,1021,552,20.68,boonr101,,Grandson
+Brett Pill,pillb001,1984-09-09,San Dimas,CA,USA,R,R,76,225,,3,0.683,111,240,56,9,32,13,0.65,pillt001,,Brother
+Brett Sullivan,sullb102,1994-02-22,Stockton,CA,USA,L,R,73,195,,3,0.541,43,103,21,2,10,6,0.01,sullb103,,Father
+Brian Doyle,doylb101,1954-01-26,Glasgow,KY,USA,L,R,70,160,,4,0.392,110,199,32,1,13,10,-1.15,doylb801,Brenton Doyle,Brother
+Brian Doyle,doylb101,1954-01-26,Glasgow,KY,USA,L,R,70,160,,4,0.392,110,199,32,1,13,10,-1.15,doyld102,Denny Doyle,Brother
+Brian Giles,gileb002,1960-04-27,Manhattan,KS,USA,R,R,73,165,,6,0.607,287,709,162,10,50,70,1.32,gilem001,Marcus Giles,Brother
+Brian Johnson,johnb102,1968-01-08,Oakland,CA,USA,R,R,74,210,,8,0.854,471,1415,351,49,196,80,1.8,johnr102,Randy Johnson,Brother
+Brian McRae,mcrab001,1967-08-27,Bradenton,FL,USA,B,R,72,175,,10,0.93,1354,5114,1336,103,532,488,11.55,mcrah001,Hal McRae,Son
+Brian Turang,turab001,1967-06-14,Long Beach,CA,USA,R,R,70,170,,2,0.612,78,252,56,1,15,24,-0.36,turab002,Brice Turang,Father
+Brice Matthews,mattb101,2002-03-16,Houston,TX,USA,R,R,71,190,,1,0.674,13,42,7,4,9,2,0.34,mattw101,,Son
+Brice Turang,turab002,1999-11-21,Corona,CA,USA,L,R,72,176,,3,0.693,448,1547,398,31,172,154,11.8,turab001,Brian Turang,Son
+Brock Stassi,stasb001,1989-08-07,Sacramento,CA,USA,L,L,73,190,,1,0.573,51,78,13,2,7,12,-0.26,stasm001,Max Stassi,Brother
+Bronson Sardinha,sardb001,1983-04-06,Honolulu,HI,USA,L,R,73,220,,1,0.75,10,9,3,0,2,2,-0.01,sardd001,Dane Sardinha,Brother
+Brooks Kieschnick,kiesb001,1972-06-06,Robstown,TX,USA,L,R,76,225,,4,0.702,113,173,38,8,27,19,-0.63,kiesr001,Roger Kieschnick,Uncle
+Brooks Robinson,robib102,1937-05-18,Little Rock,AR,USA,R,R,73,180,HOF,10,0.685,1332,4808,1211,112,608,426,35.51,robid102,Dave Robinson,Brother
+Bruce Benedict,beneb001,1955-08-18,Birmingham,AL,USA,R,R,73,175,,12,0.619,982,2878,696,18,260,328,7.32,beneg801,,Father
+Bruce Bochte,bochb002,1950-11-12,Pasadena,CA,USA,L,L,75,195,,12,0.824,1538,5233,1478,100,658,653,21.5,bochb003,Bruce Bochy,Father
+Bruce Bochy,bochb003,1955-04-16,Landes de Bussac,Nouvelle-Aquitaine,France,R,R,75,205,,9,0.685,358,802,192,26,93,67,2.29,bochb002,Bruce Bochte,Son
+Bruce Fields,fielb001,1960-10-06,Cleveland,OH,USA,L,R,72,185,,3,0.681,58,113,31,1,11,5,-0.19,field001,Daniel Fields,Father
+Bruce Look,lookb101,1943-06-09,Lansing,MI,USA,L,R,71,183,,1,0.633,59,118,29,0,9,20,0.27,lookd101,,Brother
+Bruce Miller,millb110,1947-03-04,Fort Wayne,IN,USA,R,R,73,185,,4,0.576,196,553,136,1,51,30,-0.91,millr102,Rick Miller,Brother
+Bryan Little,littb001,1959-10-08,Houston,TX,USA,B,R,70,160,,5,0.675,327,922,226,3,77,120,1.57,littg801,Greg Litton,Brother
+Bubba Crosby,crosb002,1976-08-11,Houston,TX,USA,L,L,71,180,,4,0.555,205,250,54,4,20,10,-1.61,crose101,Ed Crosby,Son
+Buck Martinez,martb104,1948-11-07,Redding,CA,USA,R,R,70,190,,17,0.626,1049,2743,618,58,321,230,4.49,martj001,J. C. Martin,Father
+Buddy Bell,bellb001,1951-08-27,Pittsburgh,PA,USA,R,R,73,180,,18,0.806,2405,8995,2514,201,1106,836,67.38,belld002,Derek Bell,Father
+Buddy Bell,bellb001,1951-08-27,Pittsburgh,PA,USA,R,R,73,180,,18,0.806,2405,8995,2514,201,1106,836,67.38,bellm003,Mike Bell,Father
+Buddy Bell,bellb001,1951-08-27,Pittsburgh,PA,USA,R,R,73,180,,18,0.806,2405,8995,2514,201,1106,836,67.38,bellg103,,Son
+Buddy Booker,bookb101,1942-05-28,Lynchburg,VA,USA,L,R,70,170,,1,0.167,5,5,0,0,0,1,-0.08,bookg001,,Related To
+Buddy Hunter,huntb103,1947-08-09,Omaha,NE,USA,R,R,70,170,,3,0.89,22,17,5,0,2,5,0.06,huntg101,,Brother
+Buddy Kennedy,kennb002,1998-10-05,Millville,NJ,USA,R,R,73,190,,4,0.78,67,157,28,2,20,18,-1.22,moned101,Don Money,Grandson
+C. J. Cron,cronc002,1990-01-05,Fullerton,CA,USA,R,R,76,235,,10,0.83,1049,3670,953,187,604,268,12.01,cronk001,Kevin Cron,Brother
+C. J. Cron,cronc002,1990-01-05,Fullerton,CA,USA,R,R,76,235,,10,0.83,1049,3670,953,187,604,268,12.01,cronc001,Chris Cron,Son
+C. J. Cron,cronc002,1990-01-05,Fullerton,CA,USA,R,R,76,235,,10,0.83,1049,3670,953,187,604,268,12.01,moelc001,Chad Moeller,Cousin
+CJ Alexander,alexc001,1996-07-17,Merrillville,IN,USA,L,R,76,215,,2,0.319,10,25,4,0,0,0,-0.45,alexb001,Blaze Alexander,Brother
+CJ Alexander,alexc001,1996-07-17,Merrillville,IN,USA,L,R,76,215,,2,0.319,10,25,4,0,0,0,-0.45,plesd001,,Nephew
+CJ Alexander,alexc001,1996-07-17,Merrillville,IN,USA,L,R,76,215,,2,0.319,10,25,4,0,0,0,-0.45,plesz001,,Cousin
+Cal Mitchell,mitcc001,1999-03-08,San Diego,CA,USA,L,L,72,205,,2,0.627,71,216,48,5,17,19,-0.51,mitcj001,,Brother
+Cal Ripken,ripkc001,1960-08-24,Havre de Grace,MD,USA,R,R,76,200,HOF,21,0.788,3001,11551,3184,431,1695,1129,95.93,ripkb001,Billy Ripken,Brother
+Cal Ripken,ripkc001,1960-08-24,Havre de Grace,MD,USA,R,R,76,200,HOF,21,0.788,3001,11551,3184,431,1695,1129,95.93,ripkc801,,Son
+Caleb Joseph,josec001,1986-06-18,Nashville,TN,USA,R,R,75,205,,7,0.621,425,1263,281,32,127,73,4.6,josec002,Corban Joseph,Brother
+Carl Crawford,crawc002,1981-08-05,Houston,TX,USA,L,L,74,230,,15,0.765,1716,6655,1931,136,766,377,39.16,crawj002,J. P. Crawford,Cousin
+Carl Nichols,nichc001,1962-10-14,Los Angeles,CA,USA,R,R,72,184,,6,0.521,96,186,38,0,18,18,-0.44,lankr001,Ray Lankford,Uncle
+Carl Taylor,taylc102,1944-01-20,Sarasota,FL,USA,R,R,74,200,,6,0.749,411,846,225,10,115,136,3.32,poweb101,Boog Powell,Step Brother
+Carl Yastrzemski,yastc101,1939-08-22,Southampton,NY,USA,L,R,71,175,HOF,16,0.831,2244,7955,2218,313,1262,1314,59.07,yastm001,Mike Yastrzemski,Grandfather
+Carlos Lezcano,lezcc101,1955-09-30,Arecibo,,P.R.,R,R,74,185,,2,0.6,49,102,19,3,14,11,-0.54,lezcs001,Sixto Lezcano,Cousin
+Carlos Lopez,lopec001,1948-09-27,Mazatlan,Sinaloa,México,R,R,72,190,,3,0.682,237,500,130,12,54,25,1.62,lopet001,Tim Lopes,Brother
+Carlos Martinez,martc002,1965-08-11,La Guaira,Vargas,Venezuela,R,R,77,175,,7,0.652,465,1485,383,25,161,74,-2.35,martj008,Jose Martinez,Father
+Carlos Narváez,narvc002,1998-11-26,Maracay,Aragua,Venezuela,R,R,72,190,,2,0.72,124,416,100,15,50,40,2.91,narvo001,Omar Narvaez,Cousin
+Carlos Perez,perec001,1990-10-27,Valencia,Carabobo,Venezuela,R,R,72,210,,5,0.623,280,786,171,17,78,47,0.35,perem001,Marty Perez,Brother
+Carlos Perez,perec001,1990-10-27,Valencia,Carabobo,Venezuela,R,R,72,210,,5,0.623,280,786,171,17,78,47,0.35,perep001,,Brother
+Carmelo Martinez,martc001,1960-07-28,Dorado,,P.R.,R,R,74,190,,9,0.925,1003,2906,713,108,424,404,12.81,marte001,Edgar Martinez,Cousin
+Carney Lansford,lansc001,1957-02-07,San Jose,CA,USA,R,R,74,195,,15,0.753,1862,7158,2074,151,874,553,40.43,lansj101,Joe Lansford,Brother
+Carson Kelly,kellc001,1994-07-14,Chicago,IL,USA,R,R,74,212,,10,0.828,669,1960,449,71,257,219,8.08,kellp102,Pat Kelly,Son
+Carter Kieboom,kiebc001,1997-09-03,Marietta,GA,USA,R,R,74,220,,5,0.596,136,450,90,12,43,52,-2.0,kiebs001,Spencer Kieboom,Brother
+Casey McGehee,mcgec101,1982-10-12,Santa Cruz,CA,USA,R,R,73,220,,8,0.804,850,2798,721,67,380,249,-1.01,mcged101,,Brother
+Casey Parsons,parsc001,1954-04-14,Wenatchee,WA,USA,L,R,73,180,,4,0.575,63,53,10,2,10,3,-0.37,gehrc101,,Related To
+Cavan Biggio,biggc002,1995-04-11,Houston,TX,USA,L,R,74,200,,7,0.831,561,1627,363,52,190,262,6.9,biggc001,Craig Biggio,Son
+Cecil Fielder,fielc001,1963-09-21,Los Angeles,CA,USA,R,R,75,230,,13,0.954,1470,5157,1313,319,1008,693,17.22,fielp001,Prince Fielder,Father
+Cesar Crespo,cresc001,1979-05-23,Rio Piedras,,P.R.,B,R,71,170,,3,0.553,132,261,50,4,14,28,-1.12,cresf001,Felipe Crespo,Brother
+Cesar Izturis,iztuc001,1980-02-10,Barquisimeto,Lara,Venezuela,B,R,69,180,,13,0.732,1310,4350,1103,17,312,226,5.45,iztum001,Maicer Izturis,Half Brother
+Chad Moeller,moelc001,1975-02-18,Upland,CA,USA,R,R,75,207,,11,0.653,501,1392,315,29,132,108,-4.22,cronc002,C. J. Cron,Cousin
+Chad Wallach,wallc001,1991-11-04,Yorba Linda,CA,USA,R,R,74,246,,8,0.59,156,400,79,11,39,33,-0.55,wallt001,Ty Waller,Son
+Chan Perry,perrc001,1972-09-13,Live Oak,FL,USA,R,R,74,200,,2,0.16,18,25,2,0,3,0,-0.5,perrh001,Herbert Perry,Brother
+Charles Johnson,johnc003,1971-07-20,Fort Pierce,FL,USA,R,R,74,215,,12,0.958,1188,3836,940,167,570,475,28.82,johnr002,Ron Johnson,Son
+Charles Thomas,thomc003,1978-12-26,Fairfield,CA,USA,L,L,72,190,,2,0.739,113,282,73,7,32,26,0.77,wittb001,Bobby Witt Jr.,Son-in-Law
+Charles Thomas,thomc003,1978-12-26,Fairfield,CA,USA,L,L,72,190,,2,0.739,113,282,73,7,32,26,0.77,wittb002,,Brother-in-Law
+Charley Smith,smitc007,1937-09-15,Charleston,SC,USA,R,R,73,170,,2,0.62,48,72,16,1,7,5,0.11,zaucn101,,Grandson
+Charlie Beamon,beamc101,1953-12-04,Oakland,CA,USA,L,L,73,183,,3,0.476,45,51,10,0,0,3,-0.46,beamc102,,Son
+Charlie Culberson,culbc001,1989-04-10,Rome,GA,USA,R,R,73,200,,11,0.68,590,1212,301,30,145,68,-0.05,culbl101,,Grandson
+Charlie Hayes,hayec001,1965-05-29,Hattiesburg,MS,USA,R,R,72,190,,14,0.807,1547,5262,1379,144,740,420,11.16,hayek001,Ke'Bryan Hayes,Father
+Charlie Sands,sandc002,1947-12-17,Newport News,VA,USA,L,R,74,200,,5,0.769,92,144,31,6,23,36,0.48,sands002,,Son
+Chase d'Arnaud,darnc001,1987-01-21,Torrance,CA,USA,R,R,73,197,,7,0.881,236,550,122,5,40,36,-1.38,darnt001,Travis d'Arnaud,Brother
+Chris Bando,bandc001,1956-02-04,Cleveland,OH,USA,B,R,72,195,,9,0.63,498,1284,292,27,142,138,1.27,bands101,Sal Bando,Brother
+Chris Barnwell,barnc102,1979-03-01,Jacksonville,FL,USA,R,R,70,180,,1,0.164,13,30,2,0,1,1,-0.48,barnv102,,Father
+Chris Bourjos,bourc101,1954-10-16,Chicago,IL,USA,R,R,72,185,,1,0.701,13,22,5,1,2,2,0.15,bourp001,Pat Bourque,Father
+Chris Bourjos,bourc101,1954-10-16,Chicago,IL,USA,R,R,72,185,,1,0.701,13,22,5,1,2,2,0.15,denno101,,Nephew
+Chris Colabello,colac101,1983-10-24,Framingham,MA,USA,R,R,76,210,,4,0.74,225,727,187,28,111,58,-0.73,colaj101,,Brother
+Chris Coletta,colec001,1944-08-02,Brooklyn,NY,USA,L,L,71,190,,1,0.756,14,30,9,1,7,1,0.01,colej101,,Grandson
+Chris Coletta,colec001,1944-08-02,Brooklyn,NY,USA,L,L,71,190,,1,0.756,14,30,9,1,7,1,0.01,colej102,,Son
+Chris Cron,cronc001,1964-03-31,Albuquerque,NM,USA,R,R,74,200,,2,0.228,12,25,2,0,0,2,-0.5,cronc002,C. J. Cron,Father
+Chris Cron,cronc001,1964-03-31,Albuquerque,NM,USA,R,R,74,200,,2,0.228,12,25,2,0,0,2,-0.5,cronk001,Kevin Cron,Father
+Chris Duncan,duncc002,1981-05-05,Tucson,AZ,USA,L,R,77,210,,5,0.805,389,1147,295,55,175,160,2.81,duncs001,Shelley Duncan,Brother
+Chris Duncan,duncc002,1981-05-05,Tucson,AZ,USA,L,R,77,210,,5,0.805,389,1147,295,55,175,160,2.81,duncd101,Dave Duncan,Son
+Chris Gwynn,gwync001,1964-10-13,Los Angeles,CA,USA,L,L,72,200,,10,0.678,599,1007,263,17,118,71,-1.41,gwynt002,,Uncle
+Chris Gwynn,gwync001,1964-10-13,Los Angeles,CA,USA,L,L,72,200,,10,0.678,599,1007,263,17,118,71,-1.41,gwynt001,Tony Gwynn,Brother
+Chris Heisey,heisc102,1984-12-14,Mount Joy,PA,USA,R,R,73,220,,8,0.71,697,1594,380,62,178,110,3.98,heisj101,,Father
+Chris Johnson,johnc101,1984-10-01,Naples,FL,USA,R,R,75,225,,8,0.913,839,2811,773,63,339,144,0.5,johne105,Elliot Johnson,Brother
+Chris Marrero,marrc001,1988-07-02,Miami,FL,USA,R,R,75,229,,3,0.494,54,163,34,1,16,6,-1.53,marrc801,,Brother
+Chris Marrero,marrc001,1988-07-02,Miami,FL,USA,R,R,75,229,,3,0.494,54,163,34,1,16,6,-1.53,marrd001,Deven Marrero,Cousin
+Chris Marrero,marrc001,1988-07-02,Miami,FL,USA,R,R,75,229,,3,0.494,54,163,34,1,16,6,-1.53,marre001,Eli Marrero,Nephew
+Chris Nyman,nymac101,1955-06-06,Pomona,CA,USA,R,R,76,200,,2,0.65,49,93,24,2,6,7,-0.13,nyman101,Nyls Nyman,Brother
+Chris Roberson,robec002,1979-08-23,Oakland,CA,USA,B,R,74,180,,2,0.514,85,69,16,0,2,1,0.02,robed002,Dave Roberts,Brother
+Chris Speier,speic001,1950-06-28,Alameda,CA,USA,R,R,73,175,,19,0.73,2260,7156,1759,112,720,847,32.57,speij001,,Father
+Chris Taylor,taylc104,1990-08-29,Virginia Beach,VA,USA,R,R,73,196,,12,0.773,1123,3465,860,110,443,370,15.64,taylj104,,Brother
+Chris Taylor,taylc104,1990-08-29,Virginia Beach,VA,USA,R,R,73,196,,12,0.773,1123,3465,860,110,443,370,15.64,taylj105,,Brother
+Chris Taylor,taylc104,1990-08-29,Virginia Beach,VA,USA,R,R,73,196,,12,0.773,1123,3465,860,110,443,370,15.64,taylb108,Beau Taylor,Brother
+Chris Valaika,valac001,1985-08-14,Santa Monica,CA,USA,R,R,71,205,,4,0.633,99,248,59,5,24,13,-0.44,valap001,Pat Valaika,Brother
+Chuck Brinkman,brinc101,1944-09-16,Cincinnati,OH,USA,R,R,73,185,,6,0.473,148,267,46,1,12,23,-1.28,brine101,Ed Brinkman,Brother
+Chuck Carr,carrc104,1967-08-10,San Bernardino,CA,USA,B,R,70,155,,8,0.711,507,1713,435,13,123,149,4.89,carrm001,Matias Carrillo,Father
+Chuck Scrivener,scric101,1947-10-03,Alexandria,VA,USA,R,R,69,170,,3,0.49,145,310,59,2,18,24,-0.27,crouj101,,Nephew
+Clay Bellinger,bellc001,1968-11-18,Oneonta,NY,USA,R,R,75,195,,4,0.621,183,311,60,12,35,22,-0.21,bellc002,Cody Bellinger,Father
+Clete Boyer,boyec101,1937-02-09,Cossville,MO,USA,R,R,72,165,,4,0.675,379,1342,327,40,155,120,5.65,boyek101,Ken Boyer,Brother
+Clete Boyer,boyec101,1937-02-09,Cossville,MO,USA,R,R,72,165,,4,0.675,379,1342,327,40,155,120,5.65,boyec102,,Brother
+Cliff Johnson,johnc002,1947-07-22,San Antonio,TX,USA,R,R,76,215,,15,1.081,1369,3945,1016,196,699,568,20.95,mcgrf001,Fred McGriff,Cousin
+Cliff Johnson,johnc002,1947-07-22,San Antonio,TX,USA,R,R,76,215,,15,1.081,1369,3945,1016,196,699,568,20.95,mcgrt002,Terry McGriff,Nephew
+Cliff Pastornicky,pastc101,1958-11-18,Seattle,WA,USA,R,R,70,170,,1,0.437,10,32,4,2,5,0,-0.36,pastt001,Tyler Pastornicky,Father
+Clint Barmes,barmc001,1979-03-06,Vincennes,IN,USA,R,R,73,200,,13,0.673,1186,3805,932,89,415,216,14.97,barmb101,,Nephew
+Clyde Mashore,mashc101,1945-05-29,Concord,CA,USA,R,R,72,182,,5,0.583,241,419,87,8,47,43,-1.2,mashd001,Damon Mashore,Father
+Clyde Mashore,mashc101,1945-05-29,Concord,CA,USA,R,R,72,182,,5,0.583,241,419,87,8,47,43,-1.2,mashj801,,Father
+Coco Laboy,laboc101,1940-07-03,Ponce,,P.R.,R,R,70,165,,5,0.643,420,1247,291,28,166,97,-0.91,manga101,Angel Mangual,Cousin
+Coco Laboy,laboc101,1940-07-03,Ponce,,P.R.,R,R,70,165,,5,0.643,420,1247,291,28,166,97,-0.91,mangp101,Pepe Mangual,Cousin
+Cody Bellinger,bellc002,1995-07-13,Scottsdale,AZ,USA,L,L,76,203,,9,0.817,1157,4230,1102,225,695,469,30.41,bellc001,Clay Bellinger,Son
+Cody McKay,mckac001,1974-01-11,Vancouver,BC,CAN,L,R,72,212,,2,0.553,37,77,19,0,8,2,-0.32,mckad101,Dave McKay,Son
+Colby Rasmus,rasmc001,1986-08-11,Columbus,GA,USA,L,L,74,195,,10,0.819,1092,3704,891,166,491,362,20.84,rasmc002,,Brother
+Cole Figueroa,figuc001,1987-06-30,Tallahassee,FL,USA,L,R,70,185,,3,0.536,48,77,16,0,9,5,-0.4,figub001,Bien Figueroa,Son
+Colin Moran,morac001,1992-10-01,Port Chester,NY,USA,L,R,76,225,,7,0.742,502,1520,400,50,239,142,-0.23,morab001,,Brother
+Colin Moran,morac001,1992-10-01,Port Chester,NY,USA,L,R,76,225,,7,0.742,502,1520,400,50,239,142,-0.23,surhb001,B. J. Surhoff,Nephew
+Colin Moran,morac001,1992-10-01,Port Chester,NY,USA,L,R,76,225,,7,0.742,502,1520,400,50,239,142,-0.23,surhr001,,Nephew
+Conner Capel,capec001,1997-05-19,Katy,TX,USA,L,L,73,185,,3,1.036,59,133,37,3,14,17,0.46,capem001,,Son
+Corban Joseph,josec002,1988-10-28,Franklin,TN,USA,L,R,72,185,,3,1.013,44,88,15,1,10,5,-2.03,josec001,Caleb Joseph,Brother
+Corbin Carroll,carrc105,2000-08-21,Seattle,WA,USA,L,L,70,165,,4,0.833,488,1822,470,82,248,205,15.65,coloc001,Cris Colon,Uncle
+Corbin Carroll,carrc105,2000-08-21,Seattle,WA,USA,L,L,70,165,,4,0.833,488,1822,470,82,248,205,15.65,carra101,,Nephew
+Corey Patterson,pattc001,1979-08-13,Atlanta,GA,USA,L,R,70,180,,12,0.732,1230,4171,1050,118,431,206,8.7,patte001,Eric Patterson,Brother
+Corey Seager,seagc001,1994-04-27,Charlotte,NC,USA,L,R,76,215,,11,0.871,1131,4344,1254,221,667,473,43.18,seagk001,Kyle Seager,Brother
+Craig Biggio,biggc001,1965-12-14,Smithtown,NY,USA,R,R,71,185,HOF,20,0.797,2850,10876,3060,291,1175,1160,65.49,biggc002,Cavan Biggio,Father
+Cris Colon,coloc001,1969-01-03,La Guaira,Vargas,Venezuela,B,R,74,180,,1,0.356,14,36,6,0,1,1,-0.19,carra101,,Great Nephew
+Cris Colon,coloc001,1969-01-03,La Guaira,Vargas,Venezuela,B,R,74,180,,1,0.356,14,36,6,0,1,1,-0.19,carrc105,Corbin Carroll,Nephew
+Curtis Brown,browc102,1945-09-14,Sacramento,CA,USA,R,R,71,180,,1,0.0,1,4,0,0,0,0,-0.13,browl103,Larry Brown,Brother
+D. T. Cromer,cromd001,1971-03-19,Lake City,SC,USA,L,L,74,190,,2,0.904,85,104,32,7,20,4,0.38,cromt001,Tripp Cromer,Brother
+DJ LeMahieu,lemad103,1988-07-13,Visalia,CA,USA,R,R,76,220,,15,0.759,1673,6132,1772,126,663,575,30.57,holmb001,,Step Father
+DJ LeMahieu,lemad103,1988-07-13,Visalia,CA,USA,R,R,76,220,,15,0.759,1673,6132,1772,126,663,575,30.57,holmb002,,Step Father
+Dale Berra,berrd001,1956-12-13,Ridgewood,NJ,USA,R,R,72,180,,11,0.638,853,2553,603,49,278,210,5.45,berry101,,Son
+Dale Sveum,sveud001,1963-11-23,Richmond,CA,USA,B,R,74,185,,12,0.734,862,2526,597,69,340,227,-3.23,olerj001,John Olerud,Cousin
+Dallas Williams,willd104,1958-02-28,Brooklyn,NY,USA,L,L,71,165,,2,0.226,20,38,3,0,1,3,-0.62,willr801,Reggie Williams,Father
+Dalton Guthrie,guthd001,1995-12-23,Sarasota,FL,USA,R,R,71,160,,2,0.726,37,45,11,1,5,9,0.53,guthm001,,Son
+Dalton Jones,joned105,1943-12-10,McComb,MS,USA,L,R,73,180,,5,0.609,473,1177,258,23,113,108,-4.32,jonel001,Lynn Jones,Brother
+Damon Buford,bufod101,1970-06-12,Baltimore,MD,USA,R,R,70,170,,9,0.73,699,1853,448,54,218,173,2.3,bufod001,Don Buford,Father
+Damon Mashore,mashd001,1969-10-31,Ponce,,P.R.,R,R,71,195,,3,0.718,185,482,120,8,41,75,0.49,mashj801,,Brother
+Damon Mashore,mashd001,1969-10-31,Ponce,,P.R.,R,R,71,195,,3,0.718,185,482,120,8,41,75,0.49,mashc101,Clyde Mashore,Son
+Damon Minor,minod001,1974-01-05,Canton,OH,USA,L,L,79,230,,4,0.738,136,285,66,13,39,41,0.1,minor001,Ryan Minor,Brother
+Dan Driessen,dried001,1951-07-29,Hilton Head Island,SC,USA,L,R,71,187,,15,0.886,1732,5479,1464,153,763,761,23.7,perrg001,Gerald Perry,Uncle
+Dan Ford,fordd002,1952-05-19,Los Angeles,CA,USA,R,R,73,185,,11,0.75,1153,4163,1123,121,566,303,11.82,fordt102,Ted Ford,Grandson
+Dan Johnson,johnd107,1979-08-10,Coon Rapids,MN,USA,L,R,74,210,,10,0.741,443,1382,324,57,203,214,3.25,johnj107,Jay Johnstone,Brother
+Dan Whitmer,whitd102,1955-11-23,Redlands,CA,USA,R,R,75,195,,2,0.533,55,96,22,0,7,5,-0.19,whitw103,,Brother
+Dan Whitmer,whitd102,1955-11-23,Redlands,CA,USA,R,R,75,195,,2,0.533,55,96,22,0,7,5,-0.19,white104,Ed Whited,Cousin
+Dan Wilson,wilsd103,1969-03-25,Arlington Heights,IL,USA,R,R,75,190,,14,0.691,1299,4186,1097,88,519,280,12.96,wilse104,Enrique Wilson,Brother
+Dane Iorg,iorgd001,1950-05-11,Eureka,CA,USA,L,R,72,180,,10,0.786,743,1647,455,14,216,107,-0.58,iorgg001,Garth Iorg,Brother
+Dane Sardinha,sardd001,1979-04-08,Honolulu,HI,USA,R,R,72,215,,6,0.508,59,151,25,3,15,15,-1.04,sardb001,Bronson Sardinha,Brother
+Daniel Fields,field001,1991-01-23,Detroit,MI,USA,L,R,74,225,,1,1.0,1,3,1,0,0,0,-0.06,fielb001,Bruce Fields,Son
+Danny Bautista,bautd001,1972-05-24,Santo Domingo,Distrito Nacional,D.R.,R,R,71,170,,12,0.835,895,2517,685,62,319,149,-0.22,delaj101,Jason Delay,Step Son
+Danny Breeden,breed101,1942-06-27,Albany,GA,USA,R,R,71,185,,2,0.414,28,73,11,0,5,9,-0.68,breeh101,Hal Breeden,Brother
+Danny Clyburn,clybd001,1974-04-06,Lancaster,SC,USA,R,R,75,220,,3,0.629,41,109,23,4,8,8,-0.42,harrp001,,Cousin
+Danny Garcia,garcd801,1954-04-29,Brooklyn,NY,USA,L,L,73,182,,1,0.286,12,14,2,0,0,0,-0.21,garcg002,Guillermo Garcia,Grandfather
+Danny Goodwin,goodd001,1953-09-02,St. Louis,MO,USA,L,R,73,195,,7,0.674,252,636,150,13,81,61,-1.65,shefg001,Gary Sheffield,Uncle
+Danny Heep,heepd001,1957-07-03,San Antonio,TX,USA,L,L,71,185,,13,0.688,883,1961,503,30,229,220,0.27,battm101,Matthew Batten,Nephew
+Danny Tartabull,tartd001,1962-10-30,San Juan,,P.R.,R,R,73,185,,14,0.904,1406,5011,1366,262,925,768,22.61,tartj101,Jose Tartabull,Son
+Danny Thompson,thomd105,1947-02-01,Wichita,KS,USA,R,R,72,183,,7,0.671,694,2218,550,15,194,120,1.13,thomw103,,Brother
+Dante Bichette,bichd001,1963-11-18,West Palm Beach,FL,USA,R,R,75,215,,14,0.912,1704,6381,1906,274,1141,355,6.44,bichb001,Bo Bichette,Father
+Darrell Brown,browd004,1955-10-29,Oklahoma City,OK,USA,B,R,72,184,,4,0.629,210,591,162,1,44,25,-0.02,granj101,,Nephew
+Darren Baker,baked101,1999-02-11,Redwood City,CA,USA,L,R,70,167,,1,1.143,9,14,7,0,0,0,0.03,baked001,Dusty Baker,Brother
+Darrin Fletcher,fletd001,1966-10-03,Elmhurst,IL,USA,L,R,74,195,,14,0.74,1245,3902,1048,124,583,255,7.22,flett101,,Son
+Darrin Jackson,jackd004,1963-08-22,Los Angeles,CA,USA,R,R,72,185,,12,0.84,960,2629,676,80,317,131,10.33,jackb002,Bo Jackson,Brother
+Daryle Ward,wardd002,1975-06-27,Lynwood,CA,USA,L,L,74,240,,11,0.817,948,2234,588,90,379,192,-3.64,wardg001,Gary Ward,Son
+Daulton Varsho,varsd001,1996-07-02,Marshfield,WI,USA,L,R,70,207,,6,0.725,648,2150,487,99,295,198,17.74,varsg001,Gary Varsho,Son
+Dave Baker,baked002,1956-11-25,Lacona,IA,USA,L,R,72,185,,1,0.7,9,20,5,0,2,3,-0.1,baked003,Doug Baker,Father
+Dave Clark,clard102,1962-09-03,Tupelo,MS,USA,L,R,74,200,,13,0.81,905,1964,518,62,284,222,0.65,clarj102,Jack Clark,Brother
+Dave Clark,clard102,1962-09-03,Tupelo,MS,USA,L,R,74,200,,13,0.81,905,1964,518,62,284,222,0.65,clarw102,Will Clark,Brother
+Dave Clark,clard102,1962-09-03,Tupelo,MS,USA,L,R,74,200,,13,0.81,905,1964,518,62,284,222,0.65,hackm101,,Cousin
+Dave Clark,clard102,1962-09-03,Tupelo,MS,USA,L,R,74,200,,13,0.81,905,1964,518,62,284,222,0.65,hackw101,,Cousin
+Dave Coleman,coled001,1950-10-26,Dayton,OH,USA,R,R,75,195,,1,0.077,11,12,0,0,0,1,-0.33,segoz001,,Father-in-Law
+Dave Duncan,duncd101,1945-09-26,Dallas,TX,USA,R,R,74,190,,9,0.64,870,2731,589,103,325,246,7.47,duncc002,Chris Duncan,Father
+Dave Duncan,duncd101,1945-09-26,Dallas,TX,USA,R,R,74,190,,9,0.64,870,2731,589,103,325,246,7.47,duncs001,Shelley Duncan,Father
+Dave Henderson,hendd001,1958-07-21,Merced,CA,USA,R,R,74,210,,14,0.831,1538,5130,1324,197,708,465,29.91,hendj102,,Nephew
+Dave Magadan,magad001,1962-09-30,Tampa,FL,USA,L,R,75,190,,16,0.847,1582,4159,1197,42,495,718,22.83,pinil001,Lou Piniella,Cousin
+Dave McDonald,mcdod001,1943-05-20,New Albany,IN,USA,L,R,75,215,,2,0.457,33,62,9,1,6,6,-0.7,mcdod002,Donzell McDonald,Brother
+Dave McKay,mckad101,1950-03-14,Vancouver,BC,CAN,B,R,73,195,,8,0.58,645,1928,441,21,170,86,-2.75,mckac001,Cody McKay,Father
+Dave Oliver,olivd001,1951-04-07,Stockton,CA,USA,L,R,71,175,,1,0.853,7,22,7,0,3,4,0.32,olivb101,Bob Oliver,Son
+Dave Owen,owend001,1958-04-25,Cleburne,TX,USA,B,R,74,170,,4,0.533,92,139,27,1,16,11,-0.69,owens001,Spike Owen,Brother
+Dave Parker,parkd102,1951-06-09,Grenada,MS,USA,L,R,77,230,HOF,19,0.854,2466,9358,2712,339,1493,683,39.04,parkj101,Jarrett Parker,Brother
+Dave Ricketts,rickd101,1935-07-12,Pottstown,PA,USA,B,R,72,190,,3,0.495,64,77,17,0,6,5,-0.65,rickd102,,Brother
+Dave Roberts,robed002,1951-02-17,Lebanon,OR,USA,R,R,75,215,,10,0.644,709,2017,483,49,208,128,0.36,robec002,Chris Roberson,Brother
+Dave Robinson,robid102,1946-05-22,Minneapolis,MN,USA,B,L,73,186,,2,0.814,22,44,12,2,6,6,0.44,robib102,Brooks Robinson,Brother
+Dave Van Gorder,gordd002,1957-03-27,Los Angeles,CA,USA,R,R,74,205,,5,0.547,183,420,89,3,38,39,-1.73,gordn001,Nick Gordon,Brother
+Dave Van Gorder,gordd002,1957-03-27,Los Angeles,CA,USA,R,R,74,205,,5,0.547,183,420,89,3,38,39,-1.73,gordt001,,Son
+Davey Johnson,johnd101,1943-01-30,Orlando,FL,USA,R,R,73,170,,10,0.794,1136,3739,989,119,488,464,23.92,johne102,Erik Johnson,Son
+David Cooper,coopd101,1987-02-12,Stockton,CA,USA,L,L,72,200,,2,0.75,72,211,57,6,23,11,0.05,coopa103,,Brother
+David Eckstein,ecksd001,1975-01-20,Sanford,FL,USA,R,R,66,170,,10,0.741,1311,5041,1414,35,392,376,20.91,ecksr801,,Brother
+David Fletcher,fletd002,1994-05-31,Orange,CA,USA,R,R,69,185,,7,0.681,539,2026,560,16,170,135,10.29,fletd003,Dominic Fletcher,Brother
+David Howard,howad102,1967-02-26,Sarasota,FL,USA,B,R,72,165,,9,0.595,645,1583,362,11,148,137,2.58,howai101,,Brother
+David Segui,segud001,1966-07-19,Kansas City,KS,USA,B,L,73,170,,15,1.068,1456,4847,1412,139,684,524,15.19,segud101,,Son
+Daz Cameron,camed001,1997-01-15,McDonough,GA,USA,R,R,74,185,,5,0.585,160,435,87,11,42,31,-1.69,camem001,Mike Cameron,Son
+Dee Brown,browd102,1978-03-27,Bronx,NY,USA,L,R,72,235,,8,0.613,271,814,190,14,89,50,-2.89,browl104,Leon Brown,Brother
+Del Unser,unsed101,1944-12-09,Decatur,IL,USA,L,L,73,180,,15,0.736,1799,5215,1344,87,481,481,16.57,unsea101,,Son
+Delino DeShields,deshd001,1969-01-15,Seaford,DE,USA,L,R,73,170,,13,0.773,1615,5779,1548,80,561,754,24.78,deshd002,,Father
+Dell Alston,alstd101,1952-09-22,Valhalla,NY,USA,L,R,72,180,,4,0.612,189,332,79,3,35,28,-4.13,alstg001,,Cousin
+Delmon Young,yound105,1985-09-14,Birmingham,AL,USA,R,R,75,240,,10,0.883,1118,4108,1162,109,566,179,2.5,yound104,Delwyn Young,Son
+Delwyn Young,yound104,1982-06-30,Los Angeles,CA,USA,B,R,70,209,,5,0.709,344,710,183,17,81,58,-0.57,yound105,Delmon Young,Father
+Dennis Paepke,paepd101,1945-04-17,Long Beach,CA,USA,R,R,72,202,,4,0.477,80,197,36,2,14,12,-2.06,paepj801,,Son
+Denny Doyle,doyld102,1943-01-17,Glasgow,KY,USA,L,R,69,175,,8,0.632,944,3290,823,16,237,205,6.05,doylb801,Brenton Doyle,Brother
+Denny Doyle,doyld102,1943-01-17,Glasgow,KY,USA,L,R,69,175,,8,0.632,944,3290,823,16,237,205,6.05,doylb101,Brian Doyle,Brother
+Derek Bell,belld002,1968-12-11,Tampa,FL,USA,R,R,74,200,,11,0.756,1210,4578,1262,134,668,377,13.08,bellm003,Mike Bell,Brother
+Derek Bell,belld002,1968-12-11,Tampa,FL,USA,R,R,74,200,,11,0.756,1210,4578,1262,134,668,377,13.08,bellb001,Buddy Bell,Son
+Derek Bell,belld002,1968-12-11,Tampa,FL,USA,R,R,74,200,,11,0.756,1210,4578,1262,134,668,377,13.08,bellg103,,Grandson
+Dernell Stenson,stend101,1978-06-17,LaGrange,GA,USA,L,L,73,230,,1,0.753,37,81,20,3,13,11,0.13,stenm001,Mike Stenhouse,Father
+Deron Johnson,johnd001,1938-07-17,San Diego,CA,USA,R,R,74,200,,9,1.112,1097,3657,862,147,536,416,-2.23,johns001,Sherman Johnson,Father
+Deven Marrero,marrd001,1990-08-25,Miami,FL,USA,R,R,72,190,,7,0.524,178,341,65,6,38,26,-0.42,marrc001,Chris Marrero,Cousin
+Deven Marrero,marrd001,1990-08-25,Miami,FL,USA,R,R,72,190,,7,0.524,178,341,65,6,38,26,-0.42,marrc801,,Cousin
+Deven Marrero,marrd001,1990-08-25,Miami,FL,USA,R,R,72,190,,7,0.524,178,341,65,6,38,26,-0.42,marre001,Eli Marrero,Nephew
+Dick Allen,alled101,1942-03-08,Wampum,PA,USA,R,R,71,187,HOF,10,0.893,1153,4070,1145,239,754,610,30.79,aller101,Ron Allen,Brother
+Dick Allen,alled101,1942-03-08,Wampum,PA,USA,R,R,71,187,HOF,10,0.893,1153,4070,1145,239,754,610,30.79,alleh104,Hank Allen,Brother
+Dick Davis,david101,1953-09-25,Long Beach,CA,USA,R,R,75,190,,6,0.838,403,1217,323,27,141,50,-3.09,cabee001,Enos Cabell,Cousin
+Dick Dietz,dietd001,1941-09-18,Crawfordsville,IN,USA,R,R,73,195,,6,0.831,577,1686,450,62,282,356,12.33,demes101,,Grandson
+Dick Schofield,schod001,1935-01-07,Springfield,IL,USA,B,R,69,163,,4,0.692,296,580,128,5,49,75,2.21,wertj001,Jayson Werth,Uncle
+Dick Schofield,schod001,1935-01-07,Springfield,IL,USA,B,R,69,163,,4,0.692,296,580,128,5,49,75,2.21,schod101,,Son
+Dick Smith,smitd003,1944-08-25,Lincolnton,NC,USA,R,R,77,200,,1,0.349,21,28,3,0,0,4,-0.33,smitd007,Dwight Smith,Father
+Didi Gregorius,gregd101,1990-02-18,Amsterdam,North Holland,Netherlands,L,R,75,205,,11,0.728,1077,3893,999,134,530,254,17.29,gregv101,,Brother
+Dmitri Young,yound003,1973-10-11,Vicksburg,MS,USA,B,R,74,295,,13,0.825,1364,4762,1389,171,683,407,12.23,yound001,Don Young,Brother
+Doc Edwards,edwad101,1936-12-10,Red Jacket,WV,USA,R,R,74,215,,1,0.582,35,78,21,0,6,4,-0.47,edwam101,Marshall Edwards,Brother
+Doc Edwards,edwad101,1936-12-10,Red Jacket,WV,USA,R,R,74,215,,1,0.582,35,78,21,0,6,4,-0.47,edwam102,Mike Edwards,Brother
+Domingo Cedeno,ceded001,1968-11-04,La Romana,La Romana,D.R.,B,R,73,170,,7,0.813,429,1219,306,15,121,83,-2.15,cedea001,Andujar Cedeno,Brother
+Dominic Fletcher,fletd003,1997-09-02,Orange,CA,USA,L,L,66,185,,3,0.605,112,348,81,4,33,20,0.61,fletd002,David Fletcher,Brother
+Don Buford,bufod001,1937-02-02,Linden,TX,USA,B,R,67,160,,5,0.789,665,2341,632,67,252,420,19.24,bufod101,Damon Buford,Son
+Don Kelly,kelld001,1980-02-15,Butler,PA,USA,L,R,76,215,,9,0.628,585,1098,252,23,98,92,-0.16,walkn001,Neil Walker,Brother-in-Law
+Don Kelly,kelld001,1980-02-15,Butler,PA,USA,L,R,76,215,,9,0.628,585,1098,252,23,98,92,-0.16,walkt103,Tony Walker,Son-in-Law
+Don Kessinger,kessd101,1942-07-17,Forrest City,AR,USA,B,R,73,170,,12,0.666,1673,6217,1587,13,428,605,9.98,kessk001,Keith Kessinger,Father
+Don Kessinger,kessd101,1942-07-17,Forrest City,AR,USA,B,R,73,170,,12,0.666,1673,6217,1587,13,428,605,9.98,kessg001,Grae Kessinger,Grandfather
+Don Money,moned101,1947-06-07,Washington,DC,USA,R,R,73,170,,16,0.734,1720,6215,1623,176,729,600,36.47,kennb002,Buddy Kennedy,Grandfather
+Don Reynolds,reynd101,1953-04-16,Arkadelphia,AR,USA,R,R,68,178,,2,0.644,87,132,32,0,16,22,-0.29,reynh001,Harold Reynolds,Brother
+Don Wert,wertd101,1938-07-29,Strasburg,PA,USA,R,R,70,162,,4,0.593,430,1362,283,32,122,134,-1.04,wertj001,Jayson Werth,Step Father
+Don Young,yound001,1945-10-18,Houston,TX,USA,R,R,74,185,,1,0.714,101,272,65,6,27,38,0.9,yound003,Dmitri Young,Brother
+Donell Nixon,nixod001,1961-12-31,Evergreen,NC,USA,R,R,73,185,,4,0.671,208,396,109,4,35,35,1.39,nixoo001,Otis Nixon,Brother
+Donovan Solano,solad001,1987-12-17,Barranquilla,Atlántico,Colombia,R,R,68,210,,12,0.712,987,2901,805,43,300,199,7.47,solaj002,Jhonatan Solano,Brother
+Donzell McDonald,mcdod002,1975-02-20,Long Beach,CA,USA,B,R,71,180,,2,0.58,15,25,5,0,1,4,-0.31,mcdod001,Dave McDonald,Brother
+Doug Adams,adamd102,1943-01-27,Blue River,WI,USA,L,R,75,185,,1,0.481,8,14,3,0,1,1,-0.1,adamb103,Bob Adams,Brother
+Doug Adams,adamd102,1943-01-27,Blue River,WI,USA,L,R,75,185,,1,0.481,8,14,3,0,1,1,-0.1,adamm102,Mike Adams,Uncle
+Doug Baker,baked003,1961-04-03,Fullerton,CA,USA,B,R,69,165,,7,0.537,136,246,51,0,22,18,-0.47,baked002,Dave Baker,Son
+Doug Camilli,camid101,1936-09-22,Philadelphia,PA,USA,R,R,71,195,,1,0.666,1,3,1,0,0,0,0.01,camid102,,Son
+Doug Clarey,clard004,1954-04-20,Los Angeles,CA,USA,R,R,72,180,,1,1.25,9,4,1,1,2,0,0.0,naylb001,Bo Naylor,Cousin
+Doug Clarey,clard004,1954-04-20,Los Angeles,CA,USA,R,R,72,180,,1,1.25,9,4,1,1,2,0,0.0,naylj001,Josh Naylor,Cousin
+Doug Howard,howad001,1948-02-06,Salt Lake City,UT,USA,R,R,75,185,,5,0.497,97,217,46,1,22,7,-1.28,howab101,,Son
+Drew Butera,buted001,1983-08-09,Evansville,IN,USA,R,R,73,212,,12,0.664,556,1337,262,19,123,88,-5.67,butes001,Sal Butera,Son
+Drew Ellis,ellid003,1995-12-01,Louisville,KY,USA,R,R,75,205,,3,0.651,47,108,17,3,10,17,-1.12,ellir001,Rob Ellis,Son
+Duane Kuiper,kuipd001,1950-06-19,Racine,WI,USA,L,R,72,175,,12,0.641,1057,3379,917,1,263,248,4.15,bosmd101,,Cousin
+Duane Walker,walkd101,1957-03-13,Pasadena,TX,USA,L,L,72,185,,5,0.806,392,861,197,24,99,103,0.41,walkh102,,Brother
+Duane Walker,walkd101,1957-03-13,Pasadena,TX,USA,L,L,72,185,,5,0.806,392,861,197,24,99,103,0.41,walkd102,,Son
+Duane Walker,walkd101,1957-03-13,Pasadena,TX,USA,L,L,72,185,,5,0.806,392,861,197,24,99,103,0.41,walke101,,Nephew
+Dusty Baker,baked001,1949-06-15,Riverside,CA,USA,R,R,74,183,,19,0.779,2039,7117,1981,242,1013,762,37.0,baked101,Darren Baker,Brother
+Dusty Brown,browd801,1982-06-19,Orange,CA,USA,R,R,72,195,,3,0.456,25,43,7,1,3,2,-0.29,browj109,Jake Brown,Nephew
+Dusty Brown,browd801,1982-06-19,Orange,CA,USA,R,R,72,195,,3,0.456,25,43,7,1,3,2,-0.29,browp101,,Son
+Dusty Wathan,wathd001,1973-08-22,Jacksonville,FL,USA,R,R,76,215,,1,1.467,3,5,3,0,1,0,0.15,wathj001,John Wathan,Son
+Dwight Smith,smitd007,1963-11-08,Tallahassee,FL,USA,L,R,71,175,,8,0.842,813,1807,497,46,226,150,2.74,smitd003,Dick Smith,Son
+Dylan Moore,moord001,1992-08-02,Newport Beach,CA,USA,R,R,72,205,,7,0.792,689,1653,340,63,198,202,7.49,brooh001,Hubie Brooks,Cousin
+Ed Brinkman,brine101,1941-12-08,Cincinnati,OH,USA,R,R,72,170,,8,0.617,1089,3594,840,32,277,284,11.08,brinc101,Chuck Brinkman,Brother
+Ed Crosby,crose101,1949-05-26,Long Beach,CA,USA,L,R,74,175,,6,0.616,297,677,149,0,44,55,-0.8,crosb002,Bubba Crosby,Father
+Ed Herrmann,herre102,1946-08-27,San Diego,CA,USA,L,R,73,195,,10,0.755,920,2726,652,80,319,259,4.31,herrm102,,Grandson
+Ed Jurak,jurae101,1957-10-24,Hollywood,CA,USA,R,R,74,185,,6,0.69,193,302,80,1,33,38,0.61,juraj101,,Brother
+Ed Spiezio,spiee101,1941-10-31,Joliet,IL,USA,R,R,71,180,,5,0.753,451,1336,322,34,149,122,2.45,spies001,Scott Spiezio,Father
+Ed Sprague,sprae001,1967-07-25,Castro Valley,CA,USA,R,R,74,215,,11,0.888,1203,4095,1010,152,558,358,5.38,sprae101,,Son
+Ed Whited,white104,1964-02-09,Bristol,PA,USA,R,R,75,195,,1,0.465,36,74,12,1,4,6,-0.79,whitd102,Dan Whitmer,Cousin
+Ed Whited,white104,1964-02-09,Bristol,PA,USA,R,R,75,195,,1,0.465,36,74,12,1,4,6,-0.79,whitw103,,Cousin
+Eddie Milner,milne001,1955-05-21,Columbus,OH,USA,L,L,71,173,,9,0.709,804,2395,607,42,195,286,12.8,milnj101,John Milner,Cousin
+Eddie Murray,murre001,1956-02-24,Los Angeles,CA,USA,B,R,74,190,HOF,21,0.884,3026,11336,3255,504,1917,1333,67.41,murrr101,Rich Murray,Brother
+Eddie Perez,peree001,1968-05-04,Ciudad Ojeda,Zulia,Venezuela,R,R,73,175,,11,0.687,564,1525,386,40,172,84,1.83,peret001,Tony Perez,Son
+Eddie Zambrano,zambe001,1966-02-01,Maracaibo,Zulia,Venezuela,R,R,74,175,,2,0.802,75,133,35,6,20,17,0.69,odorr801,,Brother-in-Law
+Eddie Zambrano,zambe001,1966-02-01,Maracaibo,Zulia,Venezuela,R,R,74,175,,2,0.802,75,133,35,6,20,17,0.69,odorr001,Rougned Odor,Uncle
+Edgar Diaz,diaze006,1964-02-08,Santurce,,P.R.,R,R,72,155,,2,0.629,91,231,62,0,14,22,-0.24,diaza004,Alex Diaz,Brother
+Edgar Gonzalez,gonze003,1978-06-14,San Diego,CA,USA,R,R,72,182,,2,0.694,193,478,122,11,51,36,0.2,gonza003,Alex Gonzalez,Brother
+Edgar Martinez,marte001,1963-01-02,New York,NY,USA,R,R,72,175,HOF,18,0.933,2055,7213,2247,309,1261,1283,68.42,martc001,Carmelo Martinez,Cousin
+Edgard Clemente,cleme001,1975-12-15,Santurce,,P.R.,R,R,71,188,,3,0.689,114,257,64,8,32,9,-1.66,clemr101,,Nephew
+Eduardo Escobar,escoe002,1989-01-05,Villa de Cura,Aragua,Venezuela,B,R,70,199,,13,0.979,1364,4691,1185,164,636,351,17.21,acunl001,Luisangel Acuña,Cousin
+Eduardo Escobar,escoe002,1989-01-05,Villa de Cura,Aragua,Venezuela,B,R,70,199,,13,0.979,1364,4691,1185,164,636,351,17.21,acunr001,Ronald Acuña Jr.,Cousin
+Eduardo Escobar,escoe002,1989-01-05,Villa de Cura,Aragua,Venezuela,B,R,70,199,,13,0.979,1364,4691,1185,164,636,351,17.21,campv001,,Cousin
+Eduardo Escobar,escoe002,1989-01-05,Villa de Cura,Aragua,Venezuela,B,R,70,199,,13,0.979,1364,4691,1185,164,636,351,17.21,escoa003,Angel Escobar,Cousin
+Eduardo Escobar,escoe002,1989-01-05,Villa de Cura,Aragua,Venezuela,B,R,70,199,,13,0.979,1364,4691,1185,164,636,351,17.21,escoj001,Jose Escobar,Son
+Eduardo Escobar,escoe002,1989-01-05,Villa de Cura,Aragua,Venezuela,B,R,70,199,,13,0.979,1364,4691,1185,164,636,351,17.21,escok001,,Cousin
+Edward Olivares,olive101,1996-03-06,Caracas,Distrito Capital,Venezuela,R,R,74,190,,5,0.776,285,886,225,29,96,57,-1.98,olivo001,,Father
+Elehuris Montero,monte101,1998-08-17,Santo Domingo,Distrito Nacional,D.R.,R,R,75,235,,3,0.665,205,684,156,21,87,43,-1.74,monte901,,Father
+Eli Marrero,marre001,1973-11-17,Havana,La Habana,Cuba,R,R,73,180,,10,0.803,724,1906,463,66,261,168,4.62,marrc001,Chris Marrero,Uncle
+Eli Marrero,marre001,1973-11-17,Havana,La Habana,Cuba,R,R,73,180,,10,0.803,724,1906,463,66,261,168,4.62,marrd001,Deven Marrero,Uncle
+Elliot Johnson,johne105,1984-03-09,Safford,AZ,USA,B,R,73,190,,5,0.787,318,749,161,12,69,54,2.4,johnc101,Chris Johnson,Brother
+Ellis Burks,burke001,1964-09-11,Vicksburg,MS,USA,R,R,74,175,,18,0.934,2000,7232,2107,352,1206,793,51.8,browr001,Randy Brown,Cousin
+Eloy Jimenez,jimee101,1996-11-27,Santo Domingo,Distrito Nacional,D.R.,R,R,76,240,,6,0.879,534,1966,528,95,298,138,4.47,jimem101,Manny Jimenez,Brother
+Emilio Bonifacio,bonie001,1985-04-23,Santo Domingo,Distrito Nacional,D.R.,B,R,70,200,,12,0.866,834,2613,669,13,165,215,4.97,bonij002,Juan Bonilla,Brother
+Enos Cabell,cabee001,1949-10-08,Fort Riley,KS,USA,R,R,76,170,,15,0.716,1688,5952,1647,60,596,259,12.52,david101,Dick Davis,Cousin
+Enos Cabell,cabee001,1949-10-08,Fort Riley,KS,USA,R,R,76,170,,15,0.716,1688,5952,1647,60,596,259,12.52,landk001,Ken Landreaux,Cousin
+Enrique Wilson,wilse104,1973-07-27,Santo Domingo,Distrito Nacional,D.R.,B,R,71,160,,9,0.855,555,1406,343,22,141,89,-6.4,wilsd103,Dan Wilson,Brother
+Eric Anthony,anthe001,1967-11-08,San Diego,CA,USA,L,L,74,195,,9,0.78,682,1999,462,78,269,217,-1.03,daviw102,,Son
+Eric Haase,haase101,1992-12-18,Westland,MI,USA,R,R,70,210,,8,0.789,383,1133,258,48,160,76,2.2,roofg101,Gene Roof,Cousin
+Eric Haase,haase101,1992-12-18,Westland,MI,USA,R,R,70,210,,8,0.789,383,1133,258,48,160,76,2.2,roofp101,Phil Roof,Cousin
+Eric Karros,karre001,1967-11-04,Hackensack,NJ,USA,R,R,76,205,,14,0.779,1755,6441,1724,284,1027,552,10.41,karrk001,Kyle Karros,Father
+Eric Patterson,patte001,1983-04-08,Tallahassee,FL,USA,L,R,72,170,,5,1.04,226,508,110,10,50,57,-0.23,pattc001,Corey Patterson,Brother
+Eric Young,youne001,1967-05-18,New Brunswick,NJ,USA,R,R,69,180,,15,0.883,1730,6119,1731,79,543,660,20.19,youne003,Ernie Young,Father
+Erick Aybar,aybae001,1984-01-14,Bani,Peravia,D.R.,B,R,70,195,,12,0.74,1454,5175,1402,58,473,285,22.85,franw002,Wander Franco,Uncle
+Erick Aybar,aybae001,1984-01-14,Bani,Peravia,D.R.,B,R,70,195,,12,0.74,1454,5175,1402,58,473,285,22.85,aybaw001,Willy Aybar,Brother
+Erik Gonzalez,gonze101,1991-08-31,Puerto Plata,Puerto Plata,D.R.,R,R,75,205,,7,0.615,352,842,204,11,77,38,1.39,gonzm101,Marwin Gonzalez,Brother
+Erik Johnson,johne102,1965-10-11,Oakland,CA,USA,R,R,71,175,,2,0.556,9,18,4,0,0,0,-0.19,johnd101,Davey Johnson,Father
+Ernie Banks,banke101,1931-01-31,Dallas,TX,USA,R,R,73,180,HOF,4,0.736,416,1422,351,70,239,95,1.86,johnb101,Bob Johnson,Uncle
+Ernie Riles,rilee001,1960-10-02,Cairo,GA,USA,L,R,73,180,,9,0.766,919,2504,637,48,284,244,8.02,harrw001,Willie Harris,Uncle
+Ernie Whitt,white101,1952-06-13,Detroit,MI,USA,L,R,74,200,,15,0.734,1328,3774,938,134,534,436,18.25,whitj103,Jerry White,Uncle
+Ernie Young,youne003,1969-07-08,Chicago,IL,USA,R,R,73,190,,8,0.688,288,796,179,27,90,90,-0.31,youne001,Eric Young,Son
+Felipe Alou,alouf101,1935-05-12,Bajos de Haina,San Cristóbal,D.R.,R,R,72,195,,7,0.873,805,2837,801,43,281,168,9.7,alouj101,Jesus Alou,Brother
+Felipe Alou,alouf101,1935-05-12,Bajos de Haina,San Cristóbal,D.R.,R,R,72,195,,7,0.873,805,2837,801,43,281,168,9.7,aloum101,Moises Alou,Brother
+Felipe Alou,alouf101,1935-05-12,Bajos de Haina,San Cristóbal,D.R.,R,R,72,195,,7,0.873,805,2837,801,43,281,168,9.7,sosaj101,Juan Sosa,Cousin
+Felipe Alou,alouf101,1935-05-12,Bajos de Haina,San Cristóbal,D.R.,R,R,72,195,,7,0.873,805,2837,801,43,281,168,9.7,aloum001,Matty Alou,Father
+Felipe Alou,alouf101,1935-05-12,Bajos de Haina,San Cristóbal,D.R.,R,R,72,195,,7,0.873,805,2837,801,43,281,168,9.7,rojam801,,Father
+Felipe Alou,alouf101,1935-05-12,Bajos de Haina,San Cristóbal,D.R.,R,R,72,195,,7,0.873,805,2837,801,43,281,168,9.7,rojam001,Miguel Rojas,Uncle
+Felipe Crespo,cresf001,1973-03-05,Rio Piedras,,P.R.,B,R,71,195,,5,0.851,262,445,109,10,68,50,0.02,cresc001,Cesar Crespo,Brother
+Fernando Tatis,tatif001,1975-01-01,San Pedro de Macoris,San Pedro de Macorís,D.R.,R,R,71,185,,11,0.921,949,3051,807,113,448,321,7.36,tatif002,Fernando Tatis Jr.,Father
+Fernando Tatis Jr.,tatif002,1999-01-02,San Pedro de Macoris,San Pedro de Macorís,D.R.,R,R,75,217,,6,0.868,671,2603,720,152,393,293,27.34,tatif001,Fernando Tatis,Son
+Floyd Robinson,robif102,1936-05-09,Prescott,AR,USA,L,R,69,175,,1,0.997,76,105,23,1,16,7,0.06,reynt101,Tommie Reynolds,Cousin
+Fran Healy,healf101,1946-09-06,Holyoke,MA,USA,R,R,77,220,,9,0.723,470,1326,332,20,141,154,6.93,healf102,,Uncle
+Francisco Lindor,lindf101,1993-11-14,Caguas,,P.R.,B,R,71,190,,11,0.817,1535,6086,1664,279,856,588,55.49,lindc102,,Father
+Francisco Peña,penaf001,1989-10-12,Santiago,Santiago,D.R.,R,R,74,230,,5,0.559,86,190,41,5,13,8,-0.81,penar001,Roberto Peña,Nephew
+Francisco Peña,penaf001,1989-10-12,Santiago,Santiago,D.R.,R,R,74,230,,5,0.559,86,190,41,5,13,8,-0.81,penat001,Tony Peña,Son
+Francisco Peña,penaf001,1989-10-12,Santiago,Santiago,D.R.,R,R,74,230,,5,0.559,86,190,41,5,13,8,-0.81,penat002,,Brother
+Frank Robinson,robif101,1935-08-31,Beaumont,TX,USA,R,R,73,183,HOF,9,0.971,1022,3424,939,183,587,564,33.71,robiw101,,Brother
+Fred Kendall,kendf101,1949-01-31,Torrance,CA,USA,R,R,73,185,,12,0.597,877,2576,603,31,244,189,1.02,kendj001,Jason Kendall,Father
+Fred McGriff,mcgrf001,1963-10-31,Tampa,FL,USA,L,L,75,200,HOF,19,1.0,2460,8757,2490,493,1550,1305,60.46,johnc002,Cliff Johnson,Cousin
+Fred McGriff,mcgrf001,1963-10-31,Tampa,FL,USA,L,L,75,200,HOF,19,1.0,2460,8757,2490,493,1550,1305,60.46,mcgrt002,Terry McGriff,Cousin
+Fred Whitfield,whitf102,1938-01-07,Vandiver,AL,USA,L,L,73,190,,3,0.623,165,260,56,7,40,28,0.13,whita102,Aaron Whitefield,Brother
+Gabriel Guerrero,guerg001,1993-12-11,Nizao,Peravia,D.R.,R,R,75,215,,1,0.5,14,18,3,1,1,0,-0.05,guerv002,Vladimir Guerrero Jr.,Cousin
+Gabriel Guerrero,guerg001,1993-12-11,Nizao,Peravia,D.R.,R,R,75,215,,1,0.5,14,18,3,1,1,0,-0.05,guerv001,Vladimir Guerrero,Nephew
+Gabriel Guerrero,guerg001,1993-12-11,Nizao,Peravia,D.R.,R,R,75,215,,1,0.5,14,18,3,1,1,0,-0.05,guerw001,Wilton Guerrero,Nephew
+Garin Cecchini,ceccg001,1991-04-20,Sulphur,LA,USA,L,R,75,220,,2,0.725,13,35,8,1,4,3,0.23,ceccg002,Gavin Cecchini,Brother
+Garrett Jones,joneg102,1981-06-21,Harvey,IL,USA,L,L,77,235,,8,0.757,911,2924,734,122,400,265,3.58,jones101,,Brother
+Garrett Mitchell,mitcg101,1998-09-04,Orange,CA,USA,L,R,75,215,,4,0.766,141,390,99,13,40,45,3.6,mitcr103,,Brother
+Garry Maddox,maddg002,1949-09-01,Cincinnati,OH,USA,R,R,75,175,,15,0.767,1749,6331,1802,117,754,323,40.34,maddm002,,Brother
+Garth Iorg,iorgg001,1954-10-12,Arcata,CA,USA,R,R,71,170,,9,0.639,931,2450,633,20,238,114,3.44,iorgd001,Dane Iorg,Brother
+Gary Green,greeg001,1962-01-14,Pittsburgh,PA,USA,R,R,75,175,,5,0.53,106,180,40,0,11,9,0.12,greef101,,Son
+Gary Kolb,kolbg101,1940-03-13,Rock Falls,IL,USA,L,R,72,194,,2,0.518,103,156,29,2,9,13,-0.08,kolbd001,,Cousin
+Gary Matthews,mattg001,1950-07-05,San Fernando,CA,USA,R,R,74,185,,16,0.817,2033,7147,2011,234,978,940,29.56,mattg002,,Father
+Gary Moore,moorg103,1945-02-24,Tulsa,OK,USA,R,L,70,175,,1,0.626,7,16,3,0,0,0,-0.13,moorg104,,Father
+Gary Rajsich,rajsg001,1954-10-28,Youngstown,OH,USA,L,L,74,210,,4,0.673,149,296,70,3,27,39,-0.67,rajsd101,,Brother
+Gary Roenicke,roeng001,1954-12-05,Covina,CA,USA,R,R,75,205,,12,0.785,1064,2708,670,121,410,406,15.41,roenr001,Ron Roenicke,Brother
+Gary Roenicke,roeng001,1954-12-05,Covina,CA,USA,R,R,75,205,,12,0.785,1064,2708,670,121,410,406,15.41,roenj001,,Father
+Gary Sheffield,shefg001,1968-11-18,Tampa,FL,USA,R,R,71,190,,22,0.996,2576,9217,2689,509,1676,1475,63.87,goodd001,Danny Goodwin,Nephew
+Gary Sutherland,suthg101,1944-09-27,Glendale,CA,USA,R,R,72,185,,11,0.64,925,2870,697,23,220,190,-3.94,suthd102,,Brother
+Gary Varsho,varsg001,1961-06-20,Marshfield,WI,USA,L,R,71,190,,8,0.649,571,837,204,10,84,55,-0.51,varsd001,Daulton Varsho,Father
+Gary Ward,wardg001,1953-12-06,Los Angeles,CA,USA,R,R,74,195,,12,0.802,1287,4479,1236,130,597,351,17.69,wardd002,Daryle Ward,Father
+Gavin Cecchini,ceccg002,1993-12-22,Lake Charles,LA,USA,R,R,74,200,,2,0.571,36,83,18,1,9,4,-0.47,ceccg001,Garin Cecchini,Brother
+Gavin Sheets,sheeg001,1996-04-23,Lutherville,MD,USA,L,L,77,230,,5,0.698,580,1791,423,65,246,158,-2.06,sheel001,Larry Sheets,Son
+Gene Roof,roofg101,1958-01-13,Paducah,KY,USA,B,R,74,180,,3,0.735,48,90,24,0,6,14,0.28,roofp101,Phil Roof,Brother
+Gene Roof,roofg101,1958-01-13,Paducah,KY,USA,B,R,74,180,,3,0.735,48,90,24,0,6,14,0.28,haase101,Eric Haase,Cousin
+Gene Schall,schag102,1970-06-05,Abington,PA,USA,R,R,75,190,,2,0.718,52,131,33,2,15,18,-0.18,schaa103,,Brother
+Gene Stone,stong102,1944-01-16,Burbank,CA,USA,L,L,71,190,,1,0.598,18,28,6,0,0,4,-0.18,upshc101,,Cousin
+George Bell,bellg001,1959-10-21,San Pedro de Macoris,San Pedro de Macorís,D.R.,R,R,73,190,,12,0.785,1587,6123,1702,265,1002,331,20.01,bellj003,Jay Bell,Brother
+George Brett,bretg001,1953-05-15,Glen Dale,WV,USA,L,R,72,185,HOF,21,0.857,2707,10349,3154,317,1596,1096,88.61,bretk101,,Brother
+George Wright,wrigg101,1958-12-22,Oklahoma City,OK,USA,B,R,71,180,,5,0.706,627,2160,529,42,208,126,-3.55,wrigh101,,Brother
+George Wright,wrigg101,1958-12-22,Oklahoma City,OK,USA,B,R,71,180,,5,0.706,627,2160,529,42,208,126,-3.55,wrigs101,,Brother
+Gerald Laird,lairg001,1979-11-13,Westminster,CA,USA,R,R,73,230,,13,0.658,799,2452,597,38,238,193,6.52,lairb001,Brandon Laird,Brother
+Gerald Perry,perrg001,1960-10-30,Savannah,GA,USA,L,R,71,180,,13,0.708,1193,3144,832,59,396,328,-0.15,dried001,Dan Driessen,Nephew
+Gerald Williams,willg103,1966-08-10,New Orleans,LA,USA,R,R,74,190,,14,0.815,1168,3059,780,85,365,180,5.55,willh103,,Brother
+Geronimo Pena,penag001,1967-03-29,Los Alcarrizos,Distrito Nacional,D.R.,B,R,73,170,,7,0.772,378,1010,265,30,124,112,6.34,penaj004,Jeremy Peña,Father
+Glenn Beckert,beckg001,1940-10-12,Pittsburgh,PA,USA,R,R,73,190,,8,0.676,867,3341,971,13,231,176,11.82,flets001,Scott Fletcher,Son-in-Law
+Glenn Hoffman,hoffg001,1958-07-07,Orange,CA,USA,R,R,73,175,,9,0.668,766,2163,524,23,210,136,0.24,hofft001,,Brother
+Gleyber Torres,torrg101,1996-12-13,Caracas,Distrito Capital,Venezuela,R,R,73,205,,8,0.771,1033,3813,1006,154,515,418,18.89,torrr102,Rusty Torres,Son
+Grae Kessinger,kessg001,1997-08-25,Oxford,MS,USA,R,R,73,204,,2,0.456,49,61,8,1,1,8,-0.31,kessd101,Don Kessinger,Grandson
+Grae Kessinger,kessg001,1997-08-25,Oxford,MS,USA,R,R,73,204,,2,0.456,49,61,8,1,1,8,-0.31,kessk001,Keith Kessinger,Nephew
+Graig Nettles,nettg001,1944-08-20,San Diego,CA,USA,L,R,72,180,,21,0.75,2697,8983,2224,390,1314,1088,67.93,nettj101,Jim Nettles,Brother
+Grant McCray,mccrg001,2000-12-07,Billings,MT,USA,L,R,73,190,,2,0.575,59,146,27,5,12,8,-0.46,mccrr001,Rodney McCray,Son
+Greg Litton,littg801,1964-07-13,New Orleans,LA,USA,R,R,72,175,,6,0.648,374,809,195,13,97,58,1.01,littb001,Bryan Little,Brother
+Greg Mahlberg,mahlg001,1952-08-08,Milwaukee,WI,USA,R,R,70,180,,2,0.478,8,18,2,1,1,2,-0.24,mahlt001,,Brother
+Greg Smith,smitg101,1967-04-05,Baltimore,MD,USA,B,R,71,170,,3,0.538,27,52,11,0,7,2,-0.72,smitq101,,Brother
+Greg Vaughn,vaugg001,1965-07-03,Sacramento,CA,USA,R,R,72,195,,15,0.878,1731,6103,1475,355,1072,865,33.94,vaugm001,Mo Vaughn,Cousin
+Greg Vaughn,vaugg001,1965-07-03,Sacramento,CA,USA,R,R,72,195,,15,0.878,1731,6103,1475,355,1072,865,33.94,roysj001,Jerry Royster,Cousin
+Greg Walker,walkg001,1959-10-06,Douglas,GA,USA,L,R,75,205,,9,0.781,855,2864,746,113,444,268,5.37,spilh001,Harry Spilman,Cousin
+Gregg Jefferies,jeffg101,1967-08-01,Burlingame,CA,USA,B,R,71,175,,14,0.846,1465,5520,1593,126,663,472,20.99,jeffh101,,Brother
+Gregg Zaun,zaung001,1971-04-14,Glendale,CA,USA,B,R,70,170,,16,0.855,1232,3489,878,88,446,479,14.56,dempr001,Rick Dempsey,Nephew
+Griffin Conine,conig001,1997-07-11,Plantation,FL,USA,L,R,73,210,,2,0.755,54,161,42,5,20,13,0.87,conij001,Jeff Conine,Son
+Guillermo Garcia,garcg002,1972-04-04,Santiago,Santiago,D.R.,R,R,75,215,,2,0.639,16,40,8,2,4,2,0.11,garcd801,Danny Garcia,Grandson
+Gustavo Molina,molig101,1982-02-24,La Guaira,Vargas,Venezuela,R,R,73,245,,4,0.575,26,47,6,0,1,2,-1.08,molit101,,Brother
+Hal Breeden,breeh101,1944-06-28,Albany,GA,USA,R,L,74,200,,5,0.734,273,608,148,21,76,69,1.63,breed101,Danny Breeden,Brother
+Hal Lanier,lanih101,1942-07-04,Denton,NC,USA,R,R,74,180,,6,0.51,639,1814,402,3,127,78,-2.25,lanim101,,Son
+Hal McRae,mcrah001,1945-07-10,Avon Park,FL,USA,R,R,71,180,,19,0.806,2084,7218,2091,191,1097,648,27.88,mcrab001,Brian McRae,Father
+Hank Aaron,aaroh101,1934-02-05,Mobile,AL,USA,R,R,72,180,HOF,9,0.906,1179,4081,1153,274,756,600,38.14,aarot101,Tommie Aaron,Brother
+Hank Allen,alleh104,1940-07-23,Wampum,PA,USA,R,R,72,190,,5,0.685,264,558,132,2,34,33,-2.61,alled101,Dick Allen,Brother
+Hank Allen,alleh104,1940-07-23,Wampum,PA,USA,R,R,72,190,,5,0.685,264,558,132,2,34,33,-2.61,aller101,Ron Allen,Brother
+Harold Reynolds,reynh001,1960-11-26,Eugene,OR,USA,B,R,71,165,,12,0.668,1374,4782,1233,21,353,480,15.84,reynd101,Don Reynolds,Brother
+Harry Spilman,spilh001,1954-07-18,Albany,GA,USA,L,R,73,180,,12,0.83,563,810,192,18,117,81,-0.16,walkg001,Greg Walker,Cousin
+Hawk Taylor,taylh102,1939-04-03,Metropolis,IL,USA,R,R,73,187,,2,0.638,121,144,33,3,27,12,-0.25,taylb106,Bob Taylor,Nephew
+Heliot Ramos,ramoh002,1999-09-07,Humacao,,P.R.,R,R,73,188,,4,0.737,312,1171,299,44,143,95,2.64,ramoh001,Henry Ramos,Brother
+Henry Blanco,blanh101,1971-08-29,Caracas,Distrito Capital,Venezuela,R,R,71,220,,16,0.674,971,2761,615,72,298,254,-1.17,blant101,Tony Blanco,Brother
+Henry Cruz,cruzh101,1952-02-27,Christiansted,St. Croix,U.S. Virgin Islands,L,L,72,175,,4,0.652,171,280,64,8,34,25,-0.33,cruzj001,Jose Cruz,Brother
+Henry Cruz,cruzh101,1952-02-27,Christiansted,St. Croix,U.S. Virgin Islands,L,L,72,175,,4,0.652,171,280,64,8,34,25,-0.33,cruzj004,Julio Cruz,Uncle
+Henry Cruz,cruzh101,1952-02-27,Christiansted,St. Croix,U.S. Virgin Islands,L,L,72,175,,4,0.652,171,280,64,8,34,25,-0.33,cruzt101,Tommy Cruz,Brother
+Henry Ramos,ramoh001,1992-04-15,Maunabo,,P.R.,B,R,72,215,,2,0.619,41,124,28,1,13,15,-0.4,ramoh002,Heliot Ramos,Brother
+Herbert Perry,perrh001,1969-09-15,Live Oak,FL,USA,R,R,74,210,,9,0.9,529,1696,461,55,246,128,7.94,perrc001,Chan Perry,Brother
+Herman Hill,hillh104,1945-10-12,Tuskegee,AL,USA,L,R,74,190,,2,0.167,43,24,2,0,0,0,-0.44,hillb102,Bobby Hill,Brother
+Hubie Brooks,brooh001,1956-09-24,Los Angeles,CA,USA,R,R,72,178,,15,0.717,1645,5974,1608,149,824,387,13.02,moord001,Dylan Moore,Cousin
+Ian Desmond,desmi001,1985-09-20,Sarasota,FL,USA,R,R,75,217,,11,0.742,1478,5442,1432,181,711,387,15.86,roenj001,,Brother-in-Law
+Ike Davis,davii001,1987-03-22,Edina,MN,USA,L,L,76,220,,7,0.876,667,2076,496,81,291,294,5.89,davir001,Ron Davis,Son
+Irving Falu,falui001,1983-06-06,Hato Rey,,P.R.,B,R,69,185,,3,0.717,47,119,33,0,8,8,0.07,alicl001,Luis Alicea,Cousin
+Ivan Rodriguez,rodri001,1971-11-27,Manati,,P.R.,R,R,69,205,HOF,21,0.853,2543,9592,2844,311,1332,513,70.45,rodrd001,,Father
+J. C. Martin,martj001,1936-12-13,Axton,VA,USA,L,R,74,188,,5,0.609,256,673,149,10,80,70,0.01,martb104,Buck Martinez,Son
+J. D. Drew,drewj001,1975-11-20,Tallahassee,FL,USA,L,R,73,200,,14,0.873,1566,5173,1437,242,795,862,44.86,drews001,Stephen Drew,Brother
+J. D. Drew,drewj001,1975-11-20,Tallahassee,FL,USA,L,R,73,200,,14,0.873,1566,5173,1437,242,795,862,44.86,drewt001,,Brother
+J. J. Davis,davij103,1978-10-25,Glendora,CA,USA,R,R,76,250,,4,0.465,67,106,19,1,9,9,-1.29,grism101,Marquis Grissom,Nephew
+J. P. Crawford,crawj002,1995-01-11,Long Beach,CA,USA,L,R,74,202,,9,0.709,930,3369,837,67,344,441,21.87,crawc002,Carl Crawford,Cousin
+J. R. House,housj103,1979-11-11,Charleston,WV,USA,R,R,72,215,,5,0.573,32,60,10,3,4,1,-0.35,harrs105,,Brother-in-Law
+J. R. House,housj103,1979-11-11,Charleston,WV,USA,R,R,72,215,,5,0.573,32,60,10,3,4,1,-0.35,harrv104,,Brother-in-Law
+J. R. Phillips,philj003,1970-04-29,West Covina,CA,USA,L,L,74,205,,7,0.754,242,501,94,23,67,38,-2.19,philk001,Kyle Phillips,Brother
+JT Riddle,riddj101,1991-10-12,Frankfort,KY,USA,L,R,73,190,,6,0.616,252,745,166,19,80,39,0.98,ridde101,,Brother
+Jace Jung,jungj002,2000-10-04,San Antonio,TX,USA,L,R,72,205,,2,0.546,55,126,24,0,6,22,-0.98,jungj001,Josh Jung,Brother
+Jack Clark,clarj102,1955-11-10,New Brighton,PA,USA,R,R,74,175,,18,0.854,1994,6847,1826,340,1180,1262,53.08,clarw102,Will Clark,Brother
+Jack Clark,clarj102,1955-11-10,New Brighton,PA,USA,R,R,74,175,,18,0.854,1994,6847,1826,340,1180,1262,53.08,hackm101,,Cousin
+Jack Clark,clarj102,1955-11-10,New Brighton,PA,USA,R,R,74,175,,18,0.854,1994,6847,1826,340,1180,1262,53.08,hackw101,,Cousin
+Jack Clark,clarj102,1955-11-10,New Brighton,PA,USA,R,R,74,175,,18,0.854,1994,6847,1826,340,1180,1262,53.08,clard102,Dave Clark,Brother
+Jack Hannahan,hannj104,1980-03-04,St. Paul,MN,USA,L,R,74,210,,8,0.759,614,1650,381,29,175,193,7.38,hannl102,,Father
+Jack Lind,lindj002,1946-06-08,Denver,CO,USA,B,R,72,170,,2,0.427,26,37,5,0,1,5,-0.11,conco001,Onix Concepcion,Cousin
+Jack Wilson,wilsj006,1977-12-29,Westlake Village,CA,USA,R,R,72,200,,12,0.739,1370,4890,1294,61,426,270,28.36,wilsj002,Jim Wilson,Son
+Jackie Hernandez,hernj004,1940-09-11,Central Tinguaro,Matanzas,Cuba,R,R,71,165,,6,0.536,525,1423,301,12,115,92,-3.04,hernf001,,Son
+Jackson Holliday,hollj003,2003-12-04,Austin,TX,USA,L,R,72,185,,2,0.659,209,776,178,22,78,71,1.02,hollm001,Matt Holliday,Son
+Jake Brown,browj109,1948-03-22,Sumrall,MS,USA,R,R,74,200,,1,0.571,41,43,9,0,4,5,-0.26,browp101,,Brother
+Jake Brown,browj109,1948-03-22,Sumrall,MS,USA,R,R,74,200,,1,0.571,41,43,9,0,4,5,-0.26,browd801,Dusty Brown,Uncle
+Jake Gibbs,gibbj103,1938-11-07,Grenada,MS,USA,L,R,72,180,,4,0.615,314,1001,230,16,94,69,4.22,gibbw101,,Brother
+Jake Lamb,lambj003,1990-10-09,Seattle,WA,USA,L,R,75,215,,10,0.84,724,2309,543,96,342,295,6.72,lambp001,,Brother
+Jake Marisnick,marij101,1991-03-30,Tampa,FL,USA,R,R,76,220,,11,0.794,877,2053,469,65,223,119,13.79,acevj002,,Cousin
+Jake Marisnick,marij101,1991-03-30,Tampa,FL,USA,R,R,76,220,,11,0.794,877,2053,469,65,223,119,13.79,rijoj001,,Father-in-Law
+Jake Smolinski,smolj001,1989-02-09,Rockford,IL,USA,R,R,71,210,,5,0.822,235,608,143,16,67,43,0.04,gehrc101,,Cousin
+James McCann,mccaj002,1990-06-13,Santa Barbara,CA,USA,R,R,74,232,,12,0.677,961,3165,765,97,390,202,8.56,mccaj003,Joe McCarthy,Brother
+James Wood,woodj108,2002-09-17,Rockville,MD,USA,L,R,79,234,,2,0.81,236,893,231,40,135,124,4.63,woodj104,Jason Wood,Father
+Jamie Westbrook,westj101,1995-06-18,Springfield,MA,USA,R,R,67,193,,1,0.584,21,40,6,2,7,4,-0.05,westw102,,Brother
+Jared Sandberg,sandj001,1978-03-02,Olympia,WA,USA,R,R,75,185,,3,0.703,196,630,139,25,92,65,2.28,sandr001,Reggie Sanders,Nephew
+Jarrett Parker,parkj101,1989-01-01,Fort Belvoir,VA,USA,L,L,76,225,,4,0.771,140,354,88,15,51,37,1.14,parkd102,Dave Parker,Brother
+Jason Delay,delaj101,1995-03-07,Plano,TX,USA,R,R,71,200,,3,0.61,134,337,78,2,35,26,-0.38,bautd001,Danny Bautista,Step Father
+Jason Giambi,giamj001,1971-01-08,West Covina,CA,USA,L,R,75,240,,20,0.956,2260,7267,2010,440,1441,1366,50.38,giamj002,Jeremy Giambi,Brother
+Jason Kendall,kendj001,1974-06-26,San Diego,CA,USA,R,R,72,181,,15,0.783,2085,7627,2195,75,744,721,42.92,kendf101,Fred Kendall,Son
+Jason Kubel,kubej002,1982-05-25,Belle Fourche,SD,USA,L,R,72,220,,10,0.82,1036,3480,913,140,564,355,3.22,tonkm001,,Brother-in-Law
+Jason Perry,perrj102,1980-08-18,Fremont,NE,USA,L,R,72,200,,1,0.353,4,17,2,0,1,0,-0.49,perrg101,,Brother
+Jason Romano,romaj001,1979-06-24,Tampa,FL,USA,R,R,72,185,,4,0.906,129,191,39,2,12,13,-1.95,cruzn001,Nelson Cruz,Cousin
+Jason Wood,woodj104,1969-12-16,San Bernardino,CA,USA,R,R,74,200,,5,0.677,153,200,49,5,36,15,0.2,woodj108,James Wood,Son
+Javier Valentin,valej006,1975-09-19,Manati,,P.R.,B,R,70,198,,10,0.712,631,1507,379,45,210,131,0.81,valej003,John Valentin,Son
+Javier Valentin,valej006,1975-09-19,Manati,,P.R.,B,R,70,198,,10,0.712,631,1507,379,45,210,131,0.81,valej004,Jose Valentin,Nephew
+Jay Bell,bellj003,1965-12-11,Eglin AFB,FL,USA,R,R,73,180,,18,0.759,2063,7398,1963,195,860,853,37.16,bellg001,George Bell,Brother
+Jay Johnstone,johnj107,1945-11-20,Manchester,CT,USA,L,R,73,175,,18,0.819,1608,4219,1139,97,504,413,15.51,johnd107,Dan Johnson,Brother
+Jayson Werth,wertj001,1979-05-20,Springfield,IL,USA,R,R,77,235,,15,0.816,1583,5484,1465,229,799,764,29.18,schod001,Dick Schofield,Nephew
+Jayson Werth,wertj001,1979-05-20,Springfield,IL,USA,R,R,77,235,,15,0.816,1583,5484,1465,229,799,764,29.18,schod101,,Grandson
+Jayson Werth,wertj001,1979-05-20,Springfield,IL,USA,R,R,77,235,,15,0.816,1583,5484,1465,229,799,764,29.18,wertd101,Don Wert,Step Son
+Jazz Chisholm Jr.,chisj101,1998-02-01,Nassau,New Providence,Bahamas,L,R,71,184,,6,0.981,579,2109,522,108,308,197,15.47,chise101,,Brother
+Jeff Bailey,bailj101,1978-11-19,Longview,WA,USA,R,R,74,200,,3,0.774,56,136,31,6,16,19,-0.02,baile101,,Brother
+Jeff Burroughs,burrj001,1951-03-07,Long Beach,CA,USA,R,R,73,200,,16,0.795,1689,5536,1443,240,882,831,17.79,burrs001,Sean Burroughs,Father
+Jeff Conine,conij001,1966-06-27,Tacoma,WA,USA,R,R,73,205,,17,0.927,2024,6957,1982,214,1071,671,20.62,conig001,Griffin Conine,Father
+Jeff DaVanon,davaj101,1973-12-08,San Diego,CA,USA,B,R,72,185,,8,0.787,528,1288,333,33,150,185,4.93,davaj001,Jerry DaVanon,Father
+Jeff Frazier,frazj001,1982-08-10,Point Pleasant,NJ,USA,R,R,75,195,,1,0.511,9,23,5,0,1,1,-0.1,frazt001,Todd Frazier,Brother
+Jeff Kunkel,kunkj001,1962-03-25,West Palm Beach,FL,USA,R,R,74,180,,8,0.614,357,867,192,18,73,37,0.9,kunkb101,,Son
+Jeff McKnight,mcknj001,1963-02-18,Conway,AR,USA,B,R,72,170,,6,0.588,218,404,94,5,34,28,-1.06,mcknj101,,Son
+Jeff Schulz,schuj101,1961-06-02,Evansville,IN,USA,L,R,73,190,,3,0.631,40,78,19,0,7,6,-0.11,schuj103,,Father
+Jemile Weeks,weekj001,1987-01-26,Orlando,FL,USA,B,R,69,170,,6,0.697,260,955,243,4,62,78,1.57,weekr001,Rickie Weeks,Brother
+Jerald Clark,clarj103,1963-08-10,Crockett,TX,USA,R,R,76,200,,7,0.709,516,1609,414,44,208,83,3.06,clarf101,,Brother
+Jeremy Giambi,giamj002,1974-09-30,San Jose,CA,USA,L,L,72,185,,6,1.014,510,1417,372,52,209,251,5.77,giamj001,Jason Giambi,Brother
+Jeremy Peña,penaj004,1997-09-22,Santo Domingo,Distrito Nacional,D.R.,R,R,72,202,,4,0.737,568,2193,594,64,247,125,18.48,penag001,Geronimo Pena,Son
+Jeromy Burnitz,burnj901,1969-04-15,Westminster,CA,USA,L,R,72,190,,14,0.916,1694,5710,1447,315,981,739,22.03,burnt101,,Brother
+Jerry DaVanon,davaj001,1945-08-21,Oceanside,CA,USA,R,R,71,175,,8,0.767,262,499,117,3,50,68,1.53,davaj101,Jeff DaVanon,Son
+Jerry Hairston,hairj002,1952-02-16,Birmingham,AL,USA,B,R,70,170,,14,0.767,859,1699,438,30,205,282,6.03,hairs001,Scott Hairston,Brother
+Jerry Hairston,hairj002,1952-02-16,Birmingham,AL,USA,B,R,70,170,,14,0.767,859,1699,438,30,205,282,6.03,hairj001,John Hairston,Son
+Jerry Hairston,hairj002,1952-02-16,Birmingham,AL,USA,B,R,70,170,,14,0.767,859,1699,438,30,205,282,6.03,hairj101,,Nephew
+Jerry Hairston,hairj002,1952-02-16,Birmingham,AL,USA,B,R,70,170,,14,0.767,859,1699,438,30,205,282,6.03,hairs101,,Grandson
+Jerry Kenney,kennj106,1945-06-30,St. Louis,MO,USA,L,R,73,170,,5,0.618,445,1311,307,6,98,174,8.44,kennj101,John Kennedy,Brother
+Jerry Manuel,manuj101,1953-12-23,Hahira,GA,USA,B,R,72,165,,5,0.498,96,127,19,3,13,10,-0.58,whitr001,Roy White,Father-in-Law
+Jerry Narron,narrj001,1956-01-15,Goldsboro,NC,USA,L,R,75,205,,8,0.589,392,840,177,21,96,67,-2.05,narrj801,,Brother
+Jerry Narron,narrj001,1956-01-15,Goldsboro,NC,USA,L,R,75,205,,8,0.589,392,840,177,21,96,67,-2.05,chacg001,,Cousin
+Jerry Narron,narrj001,1956-01-15,Goldsboro,NC,USA,L,R,75,205,,8,0.589,392,840,177,21,96,67,-2.05,narrs101,,Nephew
+Jerry Royster,roysj001,1952-10-18,Sacramento,CA,USA,R,R,72,165,,16,0.686,1428,4208,1049,40,352,411,2.61,vaugg001,Greg Vaughn,Cousin
+Jerry White,whitj103,1952-08-23,Shirley,MA,USA,B,R,70,164,,11,0.761,646,1196,303,21,109,148,2.77,white101,Ernie Whitt,Nephew
+Jerry Zimmerman,zimmj001,1934-09-21,Omaha,NE,USA,R,R,74,185,,1,0.313,24,45,5,0,2,3,-0.22,zimmj002,,Brother
+Jesse Barfield,barfj001,1959-10-29,Joliet,IL,USA,R,R,73,200,,12,0.88,1428,4759,1219,241,716,551,43.8,barfj003,Josh Barfield,Father
+Jesus Alou,alouj101,1942-03-24,Bajos de Haina,San Cristóbal,D.R.,R,R,74,190,,10,0.696,867,2522,700,14,242,89,-0.05,aloum101,Moises Alou,Brother
+Jesus Alou,alouj101,1942-03-24,Bajos de Haina,San Cristóbal,D.R.,R,R,74,190,,10,0.696,867,2522,700,14,242,89,-0.05,sosaj101,Juan Sosa,Cousin
+Jesus Alou,alouj101,1942-03-24,Bajos de Haina,San Cristóbal,D.R.,R,R,74,190,,10,0.696,867,2522,700,14,242,89,-0.05,aloum001,Matty Alou,Uncle
+Jesus Alou,alouj101,1942-03-24,Bajos de Haina,San Cristóbal,D.R.,R,R,74,190,,10,0.696,867,2522,700,14,242,89,-0.05,rojam001,Miguel Rojas,Uncle
+Jesus Alou,alouj101,1942-03-24,Bajos de Haina,San Cristóbal,D.R.,R,R,74,190,,10,0.696,867,2522,700,14,242,89,-0.05,alouf101,Felipe Alou,Brother
+Jhonatan Solano,solaj002,1985-08-12,Barranquilla,Atlántico,Colombia,R,R,69,214,,3,0.523,43,103,19,2,10,5,-0.47,solad001,Donovan Solano,Brother
+Jim Adduci,adduj001,1959-08-09,Chicago,IL,USA,L,L,77,200,,4,0.568,70,144,34,1,15,2,-0.55,adduj002,,Father
+Jim Campbell,campj105,1943-01-10,Hartsville,SC,USA,L,R,72,205,,1,0.462,13,13,3,0,1,0,0.01,campa101,,Son
+Jim Clark,clarj002,1947-04-30,Kansas City,KS,USA,R,R,73,190,,1,0.528,13,18,3,0,0,2,-0.09,clarp001,Phil Clark,Brother
+Jim Morrison,morrj103,1952-09-23,Pensacola,FL,USA,R,R,71,175,,12,0.887,1089,3375,876,112,435,213,13.27,morrt101,,Brother
+Jim Nettles,nettj101,1947-03-02,San Diego,CA,USA,L,L,72,186,,6,0.644,240,587,129,16,57,70,1.14,nettg001,Graig Nettles,Brother
+Jim Paciorek,pacij001,1960-06-07,Detroit,MI,USA,R,R,75,203,,1,0.639,48,101,23,2,10,12,-0.34,pacij101,,Brother
+Jim Paciorek,pacij001,1960-06-07,Detroit,MI,USA,R,R,75,203,,1,0.639,48,101,23,2,10,12,-0.34,pacit001,Tom Paciorek,Brother
+Jim Spencer,spenj101,1947-07-30,Hanover,PA,USA,L,L,74,195,,15,0.783,1553,4908,1227,146,599,407,2.48,spenb101,Bob Spence,Grandson
+Jim Tyrone,tyroj101,1949-01-29,Alice,TX,USA,R,R,73,185,,4,0.609,177,405,92,8,32,32,0.08,tyrow101,Wayne Tyrone,Brother
+Jim Weaver,weavj002,1959-10-10,Kingston,NY,USA,L,L,75,190,,3,0.526,31,31,5,0,2,3,-0.3,weavj003,,Brother
+Jim Williams,willj107,1947-04-29,Zachary,LA,USA,R,R,74,190,,2,0.649,24,39,11,0,2,4,0.15,willb801,Bernie Williams,Father
+Jim Wilson,wilsj002,1960-12-29,Corvallis,OR,USA,R,R,75,230,,2,0.488,9,22,5,0,4,1,-0.19,wilsj006,Jack Wilson,Father
+Jimmy Rollins,rollj001,1978-11-27,Oakland,CA,USA,B,R,67,175,,17,0.743,2275,9294,2455,231,936,813,47.93,tarat001,Tony Tarasco,Cousin
+Joc Pederson,pedej001,1992-04-21,Palo Alto,CA,USA,L,L,73,220,,12,0.877,1368,3952,935,218,575,531,14.25,pedes001,Stu Pederson,Son
+Jody Davis,davij001,1956-11-12,Gainesville,GA,USA,R,R,76,192,,10,0.773,1082,3585,877,127,490,333,16.14,daviw001,Willie Davis,Cousin
+Joe Dillon,dillj101,1975-08-02,Modesto,CA,USA,R,R,74,210,,4,0.722,137,217,57,3,19,22,0.63,dillp102,,Brother
+Joe Dunand,dunaj001,1995-09-20,Miami,FL,USA,R,R,74,205,,1,1.064,3,10,3,1,1,0,0.16,rodra001,Aurelio Rodriguez,Nephew
+Joe Keough,keouj101,1946-01-07,Pomona,CA,USA,L,L,72,185,,6,0.636,332,863,212,9,81,87,0.32,keoum101,,Brother
+Joe Keough,keouj101,1946-01-07,Pomona,CA,USA,L,L,72,185,,6,0.636,332,863,212,9,81,87,0.32,keoum001,,Uncle
+Joe Lansford,lansj101,1961-01-15,Santa Clara,CA,USA,R,R,77,225,,2,0.625,25,30,6,1,5,6,0.25,lansc001,Carney Lansford,Brother
+Joe McCarthy,mccaj003,1994-02-23,Scranton,PA,USA,L,L,75,220,,1,0.0,4,10,0,0,0,0,-0.36,mccaj002,James McCann,Brother
+Joe Pettini,pettj001,1955-01-26,Wheeling,WV,USA,R,R,69,165,,4,0.511,188,344,70,1,20,33,-1.0,pettj102,,Son
+Joe Torre,torrj101,1940-07-18,Brooklyn,NY,USA,R,R,74,212,,10,0.806,1287,4598,1370,120,688,479,26.63,torrf102,,Brother
+Joel Skinner,skinj001,1961-02-21,La Jolla,CA,USA,R,R,76,198,,9,0.708,564,1441,329,17,136,80,-0.33,skinb101,,Son
+Joey Cora,coraj001,1965-05-14,Caguas,,P.R.,B,R,67,150,,11,0.818,1119,3734,1035,30,294,380,10.08,coraa001,Alex Cora,Brother
+Joey Meyer,meyej101,1962-05-10,Honolulu,HI,USA,R,R,75,260,,2,0.716,156,474,119,18,74,35,-0.13,meyeb001,,Uncle
+Joey Terdoslavich,terdj001,1988-09-09,Sarasota,FL,USA,B,R,73,200,,3,0.62,92,145,32,1,10,15,-0.3,greem001,Mike Greenwell,Nephew
+John Barnes,barnj102,1976-04-24,San Diego,CA,USA,R,R,74,205,,2,0.623,20,58,14,0,2,3,-0.06,barnv101,,Brother
+John Donaldson,donaj103,1943-05-05,Charlotte,NC,USA,L,R,71,160,,4,0.704,285,818,184,4,57,92,-0.35,donap101,,Brother
+John Hairston,hairj001,1944-08-27,Birmingham,AL,USA,R,R,74,200,,1,0.5,3,4,1,0,0,0,-0.04,hairj101,,Brother
+John Hairston,hairj001,1944-08-27,Birmingham,AL,USA,R,R,74,200,,1,0.5,3,4,1,0,0,0,-0.04,hairj002,Jerry Hairston,Father
+John Hairston,hairj001,1944-08-27,Birmingham,AL,USA,R,R,74,200,,1,0.5,3,4,1,0,0,0,-0.04,hairs001,Scott Hairston,Father
+John Hairston,hairj001,1944-08-27,Birmingham,AL,USA,R,R,74,200,,1,0.5,3,4,1,0,0,0,-0.04,hairs101,,Son
+John Harrell,harrj002,1947-11-27,Long Beach,CA,USA,R,R,74,190,,1,1.125,2,6,3,0,2,2,0.15,shelj001,John Shelby,Nephew
+John Harris,harrj103,1954-09-13,Portland,OR,USA,L,L,75,205,,3,0.763,56,120,31,5,16,10,0.05,renih101,,Great Uncle
+John Kennedy,kennj101,1941-05-29,Chicago,IL,USA,R,R,72,185,,6,0.8,351,966,234,19,98,70,-0.23,kennj106,Jerry Kenney,Brother
+John Lowenstein,lowej002,1947-01-27,Wolf Point,MT,USA,L,R,72,175,,16,0.741,1368,3476,881,116,441,446,9.93,lowen001,Nathaniel Lowe,Brother
+John Mayberry,maybj001,1949-02-18,Detroit,MI,USA,L,L,75,215,,15,0.837,1620,5447,1379,255,879,881,24.65,maybj101,,Son
+John Miller,millj109,1944-03-14,Alhambra,CA,USA,R,R,71,195,,1,0.566,26,38,8,1,1,2,-0.17,millr113,Randy Milligan,Brother
+John Milner,milnj101,1949-12-28,Atlanta,GA,USA,L,L,72,185,,12,0.795,1215,3436,855,131,498,504,12.7,milne001,Eddie Milner,Cousin
+John Morris,morrj105,1961-02-23,North Bellmore,NY,USA,L,L,73,185,,7,0.614,402,614,145,8,63,42,-0.57,morrp101,,Brother
+John Olerud,olerj001,1968-08-05,Seattle,WA,USA,L,L,77,205,,17,0.904,2234,7592,2239,255,1230,1275,59.14,sveud001,Dale Sveum,Cousin
+John Russell,russj001,1961-01-05,Oklahoma City,OK,USA,R,R,72,200,,10,0.653,448,1087,245,34,129,84,-3.19,russj003,,Father
+John Shelby,shelj001,1958-02-23,Lexington,KY,USA,B,R,73,175,,11,0.773,1036,3090,739,70,313,182,4.49,harrj002,John Harrell,Uncle
+John Stephenson,stepj101,1941-04-13,South Portsmouth,KY,USA,L,R,71,180,,6,0.586,271,619,140,6,60,42,-0.58,stepj103,,Father
+John Valentin,valej003,1967-02-18,Mineola,NY,USA,R,R,72,170,,11,0.814,1105,3917,1093,124,558,463,32.53,valej004,Jose Valentin,Brother
+John Valentin,valej003,1967-02-18,Mineola,NY,USA,R,R,72,170,,11,0.814,1105,3917,1093,124,558,463,32.53,valej006,Javier Valentin,Father
+John Wathan,wathj001,1949-10-04,Cedar Rapids,IA,USA,R,R,74,205,,10,0.661,860,2505,656,21,261,199,4.96,wathd001,Dusty Wathan,Father
+Johnny Jeter,jetej101,1944-10-24,Shreveport,LA,USA,R,R,73,180,,6,0.643,336,873,213,18,69,46,-0.2,jetes001,Shawn Jeter,Father
+Jolbert Cabrera,cabrj002,1972-12-08,Cartagena,Bolívar,Colombia,R,R,74,205,,8,0.717,609,1406,362,18,157,73,-1.24,cabro001,Orlando Cabrera,Brother
+Jonathan Van Every,everj101,1979-11-27,Brandon,MS,USA,L,L,73,200,,3,0.774,40,47,12,2,9,5,-0.14,everj102,,Brother
+Jonathan Van Every,everj101,1979-11-27,Brandon,MS,USA,L,L,73,200,,3,0.774,40,47,12,2,9,5,-0.14,evert101,Tommy Everidge,Nephew
+Jordan Beck,beckj104,2001-04-19,Hazel Green,AL,USA,R,R,74,225,,2,0.682,203,709,171,19,66,55,0.05,becks101,,Brother
+Jordan Danks,dankj001,1986-08-07,Austin,TX,USA,L,R,77,220,,4,0.622,184,348,78,8,26,38,-0.28,dankj002,,Brother
+Jordan Walker,walkj101,2002-05-22,Stone Mountain,GA,USA,R,R,77,220,,3,0.68,279,947,227,27,112,76,-2.6,walkj102,,Cousin
+Jordy Mercer,mercj001,1986-08-27,Taloga,OK,USA,R,R,75,210,,10,0.703,950,3104,796,66,308,246,6.41,valvj001,,Uncle
+Jorge Brito,britj001,1966-06-22,Monción,Santiago Rodríguez,D.R.,R,R,73,190,,2,0.484,26,65,12,0,7,3,-0.48,britj002,Juan Brito,Brother
+Jorge Posada,posaj001,1970-08-17,Santurce,,P.R.,B,R,74,215,,17,0.848,1829,6092,1664,275,1065,936,42.68,posal101,,Nephew
+Jose Baez,baezj101,1953-12-31,San Cristobal,San Cristóbal,D.R.,R,R,68,160,,2,0.601,114,355,87,1,19,25,1.54,motaa001,Andy Mota,Cousin
+Jose Baez,baezj101,1953-12-31,San Cristobal,San Cristóbal,D.R.,R,R,68,160,,2,0.601,114,355,87,1,19,25,1.54,motaj001,Jose Mota,Cousin
+Jose Baez,baezj101,1953-12-31,San Cristobal,San Cristóbal,D.R.,R,R,68,160,,2,0.601,114,355,87,1,19,25,1.54,motam101,Manny Mota,Cousin
+Jose Canseco,cansj001,1964-07-02,Havana,La Habana,Cuba,R,R,76,240,,17,0.958,1887,7057,1877,462,1407,906,45.7,canso001,Ozzie Canseco,Brother
+Jose Cardenal,cardj101,1943-10-07,Matanzas,Matanzas,Cuba,R,R,70,150,,13,0.829,1592,5490,1539,105,641,529,17.41,campb101,Bert Campaneris,Cousin
+Jose Cruz,cruzj001,1947-08-08,Arroyo,,P.R.,L,L,72,170,,19,0.774,2353,7917,2251,165,1077,898,54.43,cruzj004,Julio Cruz,Father
+Jose Cruz,cruzj001,1947-08-08,Arroyo,,P.R.,L,L,72,170,,19,0.774,2353,7917,2251,165,1077,898,54.43,cruzh101,Henry Cruz,Brother
+Jose Cruz,cruzj001,1947-08-08,Arroyo,,P.R.,L,L,72,170,,19,0.774,2353,7917,2251,165,1077,898,54.43,cruzt101,Tommy Cruz,Brother
+Jose Devers,devej001,1999-12-07,Samana,Samaná,D.R.,L,R,72,174,,2,0.611,24,45,11,0,5,3,-0.14,dever001,Rafael Devers,Cousin
+Jose Escobar,escoj001,1960-10-30,La Sabana,Vargas,Venezuela,R,R,70,140,,1,0.45,10,15,3,0,1,1,-0.01,escoe002,Eduardo Escobar,Father
+Jose Escobar,escoj001,1960-10-30,La Sabana,Vargas,Venezuela,R,R,70,140,,1,0.45,10,15,3,0,1,1,-0.01,acunl001,Luisangel Acuña,Uncle
+Jose Escobar,escoj001,1960-10-30,La Sabana,Vargas,Venezuela,R,R,70,140,,1,0.45,10,15,3,0,1,1,-0.01,acunr001,Ronald Acuña Jr.,Uncle
+Jose Escobar,escoj001,1960-10-30,La Sabana,Vargas,Venezuela,R,R,70,140,,1,0.45,10,15,3,0,1,1,-0.01,campv001,,Uncle
+Jose Escobar,escoj001,1960-10-30,La Sabana,Vargas,Venezuela,R,R,70,140,,1,0.45,10,15,3,0,1,1,-0.01,escoa003,Angel Escobar,Uncle
+Jose Escobar,escoj001,1960-10-30,La Sabana,Vargas,Venezuela,R,R,70,140,,1,0.45,10,15,3,0,1,1,-0.01,escok001,,Uncle
+Jose Fernandez,fernj101,1974-11-02,La Vega,La Vega,D.R.,R,R,75,220,,2,0.396,21,49,7,0,1,3,-0.92,fernr101,,Brother
+Jose Guillen,guilj101,1976-05-17,San Cristobal,San Cristóbal,D.R.,R,R,71,165,,14,0.954,1650,5888,1591,214,887,321,7.8,guilf101,,Brother
+Jose Malave,malaj101,1971-05-31,Cumana,Sucre,Venezuela,R,R,74,212,,2,0.615,45,106,24,4,17,2,-0.61,malac101,,Son
+Jose Martinez,martj008,1942-07-26,Cardenas,Matanzas,Cuba,R,R,72,178,,2,0.579,96,188,46,1,16,10,0.55,martc002,Carlos Martinez,Son
+Jose Molina,molij001,1975-06-03,Bayamon,,P.R.,R,R,72,250,,15,0.659,947,2546,592,39,223,154,3.02,moliy001,Yadier Molina,Brother
+Jose Molina,molij001,1975-06-03,Bayamon,,P.R.,R,R,72,250,,15,0.659,947,2546,592,39,223,154,3.02,molib001,Bob Molinaro,Brother
+Jose Mota,motaj001,1965-03-16,Santo Domingo,Distrito Nacional,D.R.,B,R,69,155,,2,0.479,19,38,8,0,2,2,-0.35,baezj101,Jose Baez,Cousin
+Jose Mota,motaj001,1965-03-16,Santo Domingo,Distrito Nacional,D.R.,B,R,69,155,,2,0.479,19,38,8,0,2,2,-0.35,motaa001,Andy Mota,Brother
+Jose Mota,motaj001,1965-03-16,Santo Domingo,Distrito Nacional,D.R.,B,R,69,155,,2,0.479,19,38,8,0,2,2,-0.35,motam101,Manny Mota,Son
+Jose Nieves,nievj001,1975-06-16,Guacara,Carabobo,Venezuela,R,R,73,180,,5,0.627,212,530,128,9,51,23,-1.59,nievj002,,Brother
+Jose Tartabull,tartj101,1938-11-27,Cienfuegos,Cienfuegos,Cuba,L,L,71,165,,3,0.614,171,418,113,0,19,15,1.28,tartd001,Danny Tartabull,Father
+Jose Uribe,uribj001,1959-01-21,San Cristobal,San Cristóbal,D.R.,B,R,70,155,,10,0.613,1038,3064,738,19,219,256,8.72,uribj002,Juan Uribe,Uncle
+Jose Valentin,valej004,1969-10-12,Manati,,P.R.,B,R,70,175,,16,0.769,1678,5539,1348,249,816,630,31.62,valej006,Javier Valentin,Uncle
+Jose Valentin,valej004,1969-10-12,Manati,,P.R.,B,R,70,175,,16,0.769,1678,5539,1348,249,816,630,31.62,valej003,John Valentin,Brother
+Josh Barfield,barfj003,1982-12-17,Barquisimeto,Lara,Venezuela,R,R,72,190,,4,0.671,309,1012,267,16,112,44,2.57,barfj001,Jesse Barfield,Son
+Josh Fields,fielj102,1982-12-14,Ada,OK,USA,R,R,74,225,,5,0.724,217,713,167,34,107,69,-1.11,fiels101,,Brother
+Josh Jung,jungj001,1998-02-12,San Antonio,TX,USA,R,R,74,214,,4,0.725,325,1236,315,49,161,69,4.72,jungj002,Jace Jung,Brother
+Josh Naylor,naylj001,1997-06-22,Mississauga,ON,CAN,L,L,71,250,,7,0.974,745,2590,697,104,435,221,11.41,clard004,Doug Clarey,Cousin
+Josh Naylor,naylj001,1997-06-22,Mississauga,ON,CAN,L,L,71,250,,7,0.974,745,2590,697,104,435,221,11.41,naylb001,Bo Naylor,Brother
+Josh Palacios,palaj001,1995-07-30,Brooklyn,NY,USA,L,R,73,200,,5,0.637,207,524,117,15,64,38,-1.73,palar002,Richie Palacios,Brother
+Josh Palacios,palaj001,1995-07-30,Brooklyn,NY,USA,L,R,73,200,,5,0.637,207,524,117,15,64,38,-1.73,palar001,Rey Palacios,Nephew
+Josh Whitesell,whitj104,1982-04-14,Durham,NC,USA,L,L,75,220,,2,0.665,53,115,23,2,15,25,-0.5,whitm103,Myron White,Father
+Joshua Fuentes,fuenj001,1993-02-19,Rancho Santa Margarita,CA,USA,R,R,74,209,,3,0.646,149,424,103,12,57,15,1.26,arenn001,Nolan Arenado,Cousin
+Juan Bell,bellj103,1968-03-29,San Pedro de Macoris,San Pedro de Macorís,D.R.,B,R,71,172,,7,0.835,329,836,177,10,71,84,0.46,bellf103,,Brother
+Juan Bonilla,bonij002,1956-01-12,Santurce,,P.R.,R,R,69,170,,6,0.631,429,1462,375,7,101,116,2.33,bonie001,Emilio Bonifacio,Brother
+Juan Brito,britj002,1979-11-07,Monción,Santiago Rodríguez,D.R.,R,R,71,205,,2,0.562,63,194,42,3,13,9,-0.43,britj001,Jorge Brito,Brother
+Juan Sosa,sosaj101,1975-08-19,San Francisco de Macoris,Duarte,D.R.,R,R,73,175,,2,0.533,13,10,2,0,0,2,-0.16,aloum001,Matty Alou,Cousin
+Juan Sosa,sosaj101,1975-08-19,San Francisco de Macoris,Duarte,D.R.,R,R,73,175,,2,0.533,13,10,2,0,0,2,-0.16,rojam001,Miguel Rojas,Related To
+Juan Sosa,sosaj101,1975-08-19,San Francisco de Macoris,Duarte,D.R.,R,R,73,175,,2,0.533,13,10,2,0,0,2,-0.16,alouf101,Felipe Alou,Cousin
+Juan Sosa,sosaj101,1975-08-19,San Francisco de Macoris,Duarte,D.R.,R,R,73,175,,2,0.533,13,10,2,0,0,2,-0.16,alouj101,Jesus Alou,Cousin
+Juan Sosa,sosaj101,1975-08-19,San Francisco de Macoris,Duarte,D.R.,R,R,73,175,,2,0.533,13,10,2,0,0,2,-0.16,aloum101,Moises Alou,Cousin
+Juan Uribe,uribj002,1979-03-22,Bani,Peravia,D.R.,R,R,72,245,,16,0.802,1826,6161,1568,199,816,388,24.46,uribj001,Jose Uribe,Nephew
+Julian Javier,javij101,1936-08-09,San Francisco de Macoris,Duarte,D.R.,R,R,73,175,,5,0.648,555,1875,489,21,176,103,3.33,javis001,Stan Javier,Father
+Julio Cruz,cruzj004,1954-12-02,Brooklyn,NY,USA,B,R,69,165,,10,0.708,1156,3859,916,23,279,478,19.36,cruzh101,Henry Cruz,Nephew
+Julio Cruz,cruzj004,1954-12-02,Brooklyn,NY,USA,B,R,69,165,,10,0.708,1156,3859,916,23,279,478,19.36,cruzj001,Jose Cruz,Son
+Julio Cruz,cruzj004,1954-12-02,Brooklyn,NY,USA,B,R,69,165,,10,0.708,1156,3859,916,23,279,478,19.36,cruzt101,Tommy Cruz,Nephew
+Julio Franco,franj001,1958-08-23,Hato Mayor,Hato Mayor,D.R.,R,R,72,160,,23,0.825,2527,8677,2586,173,1194,917,44.45,pignj101,,Related To
+Julio Gotay,gotaj101,1939-06-09,Fajardo,,P.R.,R,R,72,180,,2,0.584,121,246,62,1,20,11,-0.6,gotar001,Ruben Gotay,Uncle
+Julio Lugo,lugoj001,1975-11-16,Barahona,Barahona,D.R.,R,R,73,175,,12,0.884,1352,4758,1279,80,475,439,17.15,lugor002,,Brother
+Justin Sellers,sellj001,1986-02-01,Bellflower,CA,USA,R,R,70,175,,4,0.574,99,252,50,3,17,25,1.33,sellj002,,Father
+Justin Upton,uptoj001,1987-08-25,Norfolk,VA,USA,R,R,73,215,,16,0.886,1845,6721,1754,325,1003,785,37.8,uptob001,B. J. Upton,Brother
+Ke'Bryan Hayes,hayek001,1997-01-28,Tomball,TX,USA,R,R,70,205,,6,0.816,628,2338,591,42,225,175,16.28,hayec001,Charlie Hayes,Son
+Kean Wong,wongk002,1995-04-17,Hilo,HI,USA,L,R,69,189,,2,0.427,39,78,13,0,6,2,-0.81,wongk001,Kolten Wong,Brother
+Keith Kessinger,kessk001,1967-02-19,Forrest City,AR,USA,B,R,74,185,,1,0.751,11,27,7,1,3,4,0.11,kessg001,Grae Kessinger,Uncle
+Keith Kessinger,kessk001,1967-02-19,Forrest City,AR,USA,B,R,74,185,,1,0.751,11,27,7,1,3,4,0.11,kessd101,Don Kessinger,Son
+Keith Miller,millk005,1963-06-12,Midland,MI,USA,R,R,71,175,,9,0.675,465,1326,347,12,92,100,3.76,nordw101,Wayne Nordhagen,Nephew
+Keith Mitchell,mitck002,1969-08-06,San Diego,CA,USA,R,R,70,180,,4,0.732,128,242,63,8,29,34,0.17,mitck001,Kevin Mitchell,Cousin
+Kelvin Chapman,chapk002,1956-06-02,Willits,CA,USA,R,R,71,173,,3,0.579,172,421,94,3,34,33,-0.68,dendm001,,Cousin
+Ken Boyer,boyek101,1931-05-20,Liberty,MO,USA,R,R,73,190,,2,0.946,118,279,70,6,45,19,1.03,boyec101,Clete Boyer,Brother
+Ken Boyer,boyek101,1931-05-20,Liberty,MO,USA,R,R,73,190,,2,0.946,118,279,70,6,45,19,1.03,boyec102,,Brother
+Ken Griffey,grifk001,1950-04-10,Donora,PA,USA,L,L,71,190,,19,0.883,2097,7229,2143,152,859,719,35.99,grifk002,Ken Griffey Jr.,Father
+Ken Griffey Jr.,grifk002,1969-11-21,Donora,PA,USA,L,L,75,195,HOF,22,0.946,2671,9801,2781,630,1836,1312,84.22,grifk001,Ken Griffey,Son
+Ken Henderson,hendk101,1946-06-15,Carroll,IA,USA,B,R,74,180,,13,0.792,1305,4272,1111,117,554,559,14.02,dinek101,Kerry Dineen,Cousin
+Ken Landreaux,landk001,1954-12-22,Los Angeles,CA,USA,L,R,70,165,,11,0.718,1264,4101,1099,91,479,299,10.4,cabee001,Enos Cabell,Cousin
+Ken Macha,machk101,1950-09-29,Monroeville,PA,USA,R,R,74,215,,6,0.652,180,380,98,1,35,39,-0.7,newhh101,,Cousin
+Kent Anderson,andek001,1963-08-12,Florence,SC,USA,R,R,73,180,,2,0.63,135,366,95,1,22,30,0.81,andem101,Mike Anderson,Brother
+Kerry Dineen,dinek101,1952-07-01,Englewood,NJ,USA,L,L,71,165,,3,0.769,16,37,12,0,2,4,0.37,hendk101,Ken Henderson,Cousin
+Kevin Cron,cronk001,1993-02-17,Placentia,CA,USA,R,R,77,255,,2,0.665,47,88,15,6,16,5,-0.33,cronc001,Chris Cron,Son
+Kevin Cron,cronk001,1993-02-17,Placentia,CA,USA,R,R,77,255,,2,0.665,47,88,15,6,16,5,-0.33,cronc002,C. J. Cron,Brother
+Kevin Mitchell,mitck001,1962-01-13,San Diego,CA,USA,R,R,70,186,,13,1.014,1223,4134,1173,234,760,491,34.06,mitck002,Keith Mitchell,Cousin
+Kevin Romine,romik001,1961-05-23,Exeter,NH,USA,R,R,71,185,,7,0.631,331,630,158,5,55,49,-1.35,romia001,Andrew Romine,Father
+Kevin Romine,romik001,1961-05-23,Exeter,NH,USA,R,R,71,185,,7,0.631,331,630,158,5,55,49,-1.35,romia002,Austin Romine,Father
+Kody Clemens,clemk001,1996-05-15,Houston,TX,USA,L,R,73,200,,4,0.741,269,718,148,33,100,50,2.15,clemr001,Roberto Clemente,Son
+Kolten Wong,wongk001,1990-10-10,Hilo,HI,USA,L,R,67,185,,11,0.766,1189,3796,973,86,405,328,22.2,wongk002,Kean Wong,Brother
+Kristian Campbell,campk101,2002-06-28,Chattanooga,TN,USA,R,R,75,210,,1,0.664,67,229,51,6,21,29,-0.85,campl101,Luis Campusano,Brother
+Kurt Stillwell,stilk001,1965-06-04,Glendale,CA,USA,B,R,71,165,,9,0.697,998,3125,779,34,310,274,2.07,stilr101,Royle Stillman,Son
+Kyle Karros,karrk001,2002-07-26,Los Angeles,CA,USA,R,R,77,220,,1,0.585,43,137,31,1,9,15,-0.02,karre001,Eric Karros,Son
+Kyle Phillips,philk001,1984-04-03,San Diego,CA,USA,L,R,73,225,,2,0.581,41,94,18,2,12,8,-0.02,philj003,J. R. Phillips,Brother
+Kyle Seager,seagk001,1987-11-03,Kannapolis,NC,USA,L,R,72,216,,11,0.763,1480,5561,1395,242,807,533,36.99,seagc001,Corey Seager,Brother
+Kyle Tucker,tuckk001,1997-01-17,Tampa,FL,USA,L,R,76,199,,8,0.865,769,2741,748,147,490,363,27.24,tuckp001,Preston Tucker,Brother
+Lance Niekro,niekl001,1979-01-29,Winter Haven,FL,USA,R,R,75,210,,4,0.709,195,499,123,17,79,29,0.35,niekj001,,Son
+Lance Niekro,niekl001,1979-01-29,Winter Haven,FL,USA,R,R,75,210,,4,0.709,195,499,123,17,79,29,0.35,niekp001,,Nephew
+Larry Bigbie,bigbl101,1977-11-04,Hobart,IN,USA,L,R,76,190,,6,0.849,392,1227,328,31,137,119,2.14,bigbc101,,Brother
+Larry Bowa,bowal001,1945-12-06,Sacramento,CA,USA,B,R,70,155,,16,0.629,2247,8418,2191,15,525,474,22.93,johnn001,Nick Johnson,Uncle
+Larry Brown,browl103,1940-03-01,Shinnston,WV,USA,R,R,70,160,,7,0.65,559,1604,364,12,102,144,-0.45,browc102,Curtis Brown,Brother
+Larry Haney,hanel101,1942-11-19,Charlottesville,VA,USA,R,R,74,195,,10,0.653,402,699,145,8,50,37,-0.61,hanec001,,Father
+Larry Haney,hanel101,1942-11-19,Charlottesville,VA,USA,R,R,74,195,,10,0.653,402,699,145,8,50,37,-0.61,cubbm101,Mike Cubbage,Cousin
+Larry Herndon,hernl003,1953-11-03,Sunflower,MS,USA,R,R,75,190,,14,0.731,1537,4877,1334,107,550,353,15.15,herno001,Oscar Hernandez,Half Brother
+Larry Littleton,littl101,1954-04-03,Charlotte,NC,USA,R,R,73,185,,1,0.111,26,23,0,0,1,3,-0.69,coleg101,,Cousin
+Larry Sheets,sheel001,1959-12-06,Staunton,VA,USA,L,R,75,217,,8,0.757,748,2284,607,94,339,175,1.88,sheeg001,Gavin Sheets,Father
+Len Gabrielson,gabrl101,1940-02-14,Oakland,CA,USA,L,R,76,210,,3,0.697,234,524,138,11,59,45,1.22,gabrl102,,Father
+Lenny Faedo,faedl001,1960-05-13,Tampa,FL,USA,R,R,72,170,,5,0.6,174,529,133,5,52,25,-0.19,faeda001,,Cousin
+Leo Garcia,garcl002,1962-11-06,Santiago,Santiago,D.R.,L,L,68,160,,2,0.51,54,58,10,1,2,8,-0.13,garcl006,Luis Garcia,Father
+Leon Brown,browl104,1948-11-16,Sacramento,CA,USA,R,R,72,185,,1,0.514,64,70,15,0,2,4,-0.35,browd102,Dee Brown,Brother
+Lew Beasley,beasl101,1948-08-27,Sparta,VA,USA,L,R,70,172,,1,0.507,25,32,7,0,3,2,-0.59,beast801,,Uncle
+Lou Piniella,pinil001,1943-08-28,Tampa,FL,USA,R,R,72,182,,17,0.741,1743,5866,1705,102,766,368,12.49,magad001,Dave Magadan,Cousin
+Lourdes Gurriel Jr.,gurrl001,1993-10-10,Sancti Spiritus,Sancti Spíritus,Cuba,R,R,76,215,,8,0.774,875,3288,902,129,491,199,13.07,gurry001,Yuli Gurriel,Brother
+Luis Alexander Basabe,basal001,1996-08-26,El Vigia,Mérida,Venezuela,B,R,72,180,,1,0.476,9,14,2,0,1,4,0.09,basao001,Osleivis Basabe,Cousin
+Luis Alicea,alicl001,1965-07-29,Santurce,,P.R.,B,R,69,165,,13,0.716,1341,3971,1031,47,422,500,11.95,falui001,Irving Falu,Cousin
+Luis Campusano,campl101,1998-09-29,Augusta,GA,USA,R,R,71,232,,5,0.684,168,525,131,17,77,32,-0.26,campk101,Kristian Campbell,Brother
+Luis Garcia,garcl006,1975-05-20,San Francisco de Macoris,Duarte,D.R.,R,R,72,175,,1,0.333,8,9,1,0,0,0,-0.22,garcl002,Leo Garcia,Son
+Luis Silverio,silvl101,1956-10-23,Villa Gonzalez,Santiago,D.R.,R,R,71,165,,1,1.524,8,11,6,0,3,2,0.47,berra001,Angel Berroa,Father-in-Law
+Luis Urias,urial001,1997-06-03,Magdalena de Kino,Sonora,México,R,R,69,186,,8,0.757,582,1793,415,60,221,212,7.45,uriar001,Ramon Urias,Brother
+Luisangel Acuña,acunl001,2002-03-12,Caracas,Distrito Capital,Venezuela,R,R,68,181,,2,0.639,109,214,53,3,14,14,1.05,acunr001,Ronald Acuña Jr.,Brother
+Luisangel Acuña,acunl001,2002-03-12,Caracas,Distrito Capital,Venezuela,R,R,68,181,,2,0.639,109,214,53,3,14,14,1.05,campv001,,Cousin
+Luisangel Acuña,acunl001,2002-03-12,Caracas,Distrito Capital,Venezuela,R,R,68,181,,2,0.639,109,214,53,3,14,14,1.05,escoa003,Angel Escobar,Cousin
+Luisangel Acuña,acunl001,2002-03-12,Caracas,Distrito Capital,Venezuela,R,R,68,181,,2,0.639,109,214,53,3,14,14,1.05,escoe002,Eduardo Escobar,Cousin
+Luisangel Acuña,acunl001,2002-03-12,Caracas,Distrito Capital,Venezuela,R,R,68,181,,2,0.639,109,214,53,3,14,14,1.05,escoj001,Jose Escobar,Nephew
+Luisangel Acuña,acunl001,2002-03-12,Caracas,Distrito Capital,Venezuela,R,R,68,181,,2,0.639,109,214,53,3,14,14,1.05,escok001,,Cousin
+Lyman Bostock,bostl101,1950-11-22,Birmingham,AL,USA,L,R,73,180,,4,0.792,526,2004,624,23,250,171,13.11,bostl102,,Son
+Lynn Jones,jonel001,1953-01-01,Meadville,PA,USA,R,R,69,175,,8,0.629,527,947,239,7,91,73,-1.43,joned105,Dalton Jones,Brother
+Maicer Izturis,iztum001,1980-09-12,Barquisimeto,Lara,Venezuela,B,R,68,185,,11,0.703,909,3013,810,39,334,267,11.33,iztuc001,Cesar Izturis,Half Brother
+Manny Jimenez,jimem101,1936-11-19,San Pedro de Macoris,San Pedro de Macorís,D.R.,L,R,73,185,,2,0.761,72,72,21,1,11,6,0.58,jimee101,Eloy Jimenez,Brother
+Manny Machado,machm101,1992-07-06,Hialeah,FL,USA,R,R,75,218,,14,0.899,1894,7424,2069,369,1144,663,68.06,newhh101,,Cousin
+Manny Mota,motam101,1938-02-18,Santo Domingo,Distrito Nacional,D.R.,R,R,70,160,,14,0.865,958,2343,726,13,259,204,14.03,motaa001,Andy Mota,Father
+Manny Mota,motam101,1938-02-18,Santo Domingo,Distrito Nacional,D.R.,R,R,70,160,,14,0.865,958,2343,726,13,259,204,14.03,motaj001,Jose Mota,Father
+Manny Mota,motam101,1938-02-18,Santo Domingo,Distrito Nacional,D.R.,R,R,70,160,,14,0.865,958,2343,726,13,259,204,14.03,baezj101,Jose Baez,Cousin
+Marc Sullivan,sullm001,1958-07-25,Quincy,MA,USA,R,R,76,205,,5,0.495,137,360,67,5,28,18,-1.48,sullh101,,Son
+Marcos Armas,armam001,1969-08-05,Puerto Piritu,Anzoátegui,Venezuela,R,R,77,190,,1,0.597,15,31,6,1,1,1,0.14,armat002,,Uncle
+Marcos Armas,armam001,1969-08-05,Puerto Piritu,Anzoátegui,Venezuela,R,R,77,190,,1,0.597,15,31,6,1,1,1,0.14,armat001,Tony Armas,Brother
+Marcus Giles,gilem001,1978-05-18,San Diego,CA,USA,R,R,68,180,,7,0.782,792,2934,813,76,333,318,16.72,gileb002,Brian Giles,Brother
+Marcus Lawton,lawtm001,1965-08-18,Gulfport,MS,USA,B,R,73,160,,1,0.428,10,14,3,0,0,0,-0.46,lawtm002,Matt Lawton,Brother
+Mario Guerrero,guerm101,1949-09-28,Santo Domingo,Distrito Nacional,D.R.,R,R,70,155,,8,0.597,697,2251,578,7,170,84,-0.02,guere801,,Brother
+Mark Davidson,davim004,1961-02-15,Knoxville,TN,USA,R,R,74,180,,6,0.592,413,661,149,6,57,58,-0.99,davim002,Mike Davis,Brother
+Mark Ryal,ryalm001,1960-08-28,Henryetta,OK,USA,L,L,73,185,,6,0.599,127,223,47,7,31,10,-1.4,ryalr001,Rusty Ryal,Father
+Mark Williams,willm007,1953-07-28,Elmira,NY,USA,L,L,72,180,,1,0.333,3,2,0,0,1,1,0.02,willw103,Walt Williams,Grandson
+Marquis Grissom,grism101,1967-04-17,Atlanta,GA,USA,R,R,71,190,,17,0.732,2165,8275,2251,227,967,553,29.59,davij103,J. J. Davis,Uncle
+Marquis Grissom,grism101,1967-04-17,Atlanta,GA,USA,R,R,71,190,,17,0.732,2165,8275,2251,227,967,553,29.59,grisl101,,Brother
+Marshall Brant,branm001,1955-09-17,Garberville,CA,USA,R,R,77,185,,2,0.2,8,20,2,0,2,0,-0.48,branm003,Mickey Brantley,Father
+Marshall Edwards,edwam101,1952-08-27,Fort Lewis,WA,USA,L,L,69,157,,3,0.584,160,310,80,2,23,5,-0.17,edwad101,Doc Edwards,Brother
+Marshall Edwards,edwam101,1952-08-27,Fort Lewis,WA,USA,L,L,69,157,,3,0.584,160,310,80,2,23,5,-0.17,edwam102,Mike Edwards,Brother
+Marty Barrett,barrm001,1958-06-23,Arcadia,CA,USA,R,R,70,175,,10,0.685,941,3378,938,18,314,304,9.2,barrt002,Tommy Barrett,Brother
+Marty Perez,perem001,1946-02-28,Visalia,CA,USA,R,R,71,160,,10,0.824,931,3131,771,22,241,245,0.34,perec001,Carlos Perez,Brother
+Marty Perez,perem001,1946-02-28,Visalia,CA,USA,R,R,71,160,,10,0.824,931,3131,771,22,241,245,0.34,perep001,,Brother
+Marwin Gonzalez,gonzm101,1989-03-14,Puerto Ordaz,Bolívar,Venezuela,B,R,73,205,,11,0.761,1139,3526,888,107,415,261,13.75,gonze101,Erik Gonzalez,Brother
+Mat Gamel,gamem001,1985-07-26,Jacksonville,FL,USA,L,R,73,220,,5,0.672,106,240,55,6,29,24,-0.15,gameb001,Ben Gamel,Brother
+Matias Carrillo,carrm001,1963-02-24,Los Mochis,Sinaloa,México,L,L,71,185,,3,0.61,107,191,48,0,12,10,-1.58,carrc104,Chuck Carr,Son
+Matt Clark,clarm003,1986-12-10,West Covina,CA,USA,L,R,77,230,,1,0.745,16,27,5,3,7,2,-0.05,clart001,Tony Clark,Son
+Matt Holliday,hollm001,1980-01-15,Stillwater,OK,USA,R,R,76,240,,15,0.968,1903,7009,2096,316,1220,802,49.74,hollj003,Jackson Holliday,Father
+Matt Lawton,lawtm002,1971-11-30,Gulfport,MS,USA,L,R,70,180,,12,0.997,1334,4763,1273,138,631,681,17.46,lawtm001,Marcus Lawton,Brother
+Matt Merullo,merum001,1965-08-04,Winchester,MA,USA,L,R,74,200,,6,0.6,223,496,116,7,59,32,-1.95,merul101,,Grandson
+Matt Pagnozzi,pagnm001,1982-11-10,Miami,AZ,USA,R,R,74,215,,5,0.818,43,92,25,1,13,5,-0.08,pagnt001,Tom Pagnozzi,Nephew
+Matt Tuiasosopo,tuiam001,1986-05-10,Bellevue,WA,USA,R,R,74,235,,5,0.641,155,360,74,12,45,38,-0.27,owinm001,Micah Owings,Brother-in-Law
+Matt Williams,willm102,1965-11-28,Bishop,CA,USA,R,R,74,205,,17,0.805,1866,7000,1878,378,1218,469,46.6,willb101,Billy Williams,Father
+Matthew Batten,battm101,1995-06-22,Shelton,CT,USA,R,R,71,180,,3,0.682,59,142,34,2,12,19,0.29,heepd001,Danny Heep,Uncle
+Matty Alou,aloum001,1938-12-22,Bajos de Haina,San Cristóbal,D.R.,L,L,69,160,,7,0.916,934,3656,1136,15,300,204,18.18,rojam001,Miguel Rojas,Cousin
+Matty Alou,aloum001,1938-12-22,Bajos de Haina,San Cristóbal,D.R.,L,L,69,160,,7,0.916,934,3656,1136,15,300,204,18.18,alouf101,Felipe Alou,Son
+Matty Alou,aloum001,1938-12-22,Bajos de Haina,San Cristóbal,D.R.,L,L,69,160,,7,0.916,934,3656,1136,15,300,204,18.18,alouj101,Jesus Alou,Nephew
+Matty Alou,aloum001,1938-12-22,Bajos de Haina,San Cristóbal,D.R.,L,L,69,160,,7,0.916,934,3656,1136,15,300,204,18.18,aloum101,Moises Alou,Nephew
+Matty Alou,aloum001,1938-12-22,Bajos de Haina,San Cristóbal,D.R.,L,L,69,160,,7,0.916,934,3656,1136,15,300,204,18.18,sosaj101,Juan Sosa,Cousin
+Maury Wills,willm003,1932-10-02,Washington,DC,USA,B,R,71,170,,5,0.788,656,2505,672,7,160,204,14.61,grifb101,,Grandson
+Max Stassi,stasm001,1991-03-15,Woodland,CA,USA,R,R,70,200,,10,0.691,403,1137,241,41,128,119,0.71,stasb001,Brock Stassi,Brother
+Max Venable,venam001,1957-06-06,Phoenix,AZ,USA,L,R,70,185,,12,0.647,727,1397,337,18,128,120,0.83,venaw001,Will Venable,Father
+Melvin Nieves,nievm001,1971-12-28,San Juan,,P.R.,B,R,74,185,,7,0.752,458,1228,284,63,187,136,-2.32,nievw001,Wil Nieves,Brother
+Micah Owings,owinm001,1982-09-28,Gainesville,GA,USA,R,R,77,220,,1,1.986,40,56,17,1,6,5,0.2,tuiam001,Matt Tuiasosopo,Brother-in-Law
+Michael Barrett,barrm003,1976-10-22,Atlanta,GA,USA,R,R,75,185,,12,0.8,1054,3512,925,98,424,279,1.86,flets001,Scott Fletcher,Cousin
+Michael Young,younm101,1976-10-19,Covina,CA,USA,R,R,73,200,,14,0.834,1970,7918,2375,185,1030,575,23.49,yount101,,Brother
+Mickey Brantley,branm003,1961-06-17,Catskill,NY,USA,R,R,70,180,,4,0.707,302,1138,295,32,125,67,0.91,branm001,Marshall Brant,Son
+Mickey Rivers,rivem002,1948-10-30,Miami,FL,USA,L,L,70,165,,15,0.795,1468,5629,1660,61,499,266,34.57,river002,Ruben Rivera,Cousin
+Miguel Rojas,rojam001,1989-02-24,Los Teques,Miranda,Venezuela,R,R,72,188,,12,0.675,1297,3801,988,57,363,267,19.01,alouf101,Felipe Alou,Nephew
+Miguel Rojas,rojam001,1989-02-24,Los Teques,Miranda,Venezuela,R,R,72,188,,12,0.675,1297,3801,988,57,363,267,19.01,alouj101,Jesus Alou,Nephew
+Miguel Rojas,rojam001,1989-02-24,Los Teques,Miranda,Venezuela,R,R,72,188,,12,0.675,1297,3801,988,57,363,267,19.01,aloum001,Matty Alou,Cousin
+Miguel Rojas,rojam001,1989-02-24,Los Teques,Miranda,Venezuela,R,R,72,188,,12,0.675,1297,3801,988,57,363,267,19.01,aloum101,Moises Alou,Nephew
+Miguel Rojas,rojam001,1989-02-24,Los Teques,Miranda,Venezuela,R,R,72,188,,12,0.675,1297,3801,988,57,363,267,19.01,sosaj101,Juan Sosa,Related To
+Mike Adams,adamm102,1948-07-24,Cincinnati,OH,USA,R,R,69,180,,5,0.689,100,118,23,3,9,32,0.24,adamb103,Bob Adams,Son
+Mike Adams,adamm102,1948-07-24,Cincinnati,OH,USA,R,R,69,180,,5,0.689,100,118,23,3,9,32,0.24,adamd102,Doug Adams,Nephew
+Mike Anderson,andem101,1951-06-22,Florence,SC,USA,R,R,74,200,,9,0.681,721,1490,367,28,134,161,4.35,andek001,Kent Anderson,Brother
+Mike Andrews,andrm101,1943-07-09,Los Angeles,CA,USA,R,R,75,195,,6,0.765,746,2604,670,58,276,396,7.24,andrr101,Rob Andrews,Brother
+Mike Aviles,avilm001,1981-03-13,New York,NY,USA,R,R,70,205,,10,0.741,915,3009,786,60,306,141,6.18,avilr101,Ramon Aviles,Nephew
+Mike Bell,bellm003,1968-04-22,Lewiston,NY,USA,L,L,73,175,,2,0.624,53,75,15,2,6,4,-0.45,bellb001,Buddy Bell,Son
+Mike Bell,bellm003,1968-04-22,Lewiston,NY,USA,L,L,73,175,,2,0.624,53,75,15,2,6,4,-0.45,belld002,Derek Bell,Brother
+Mike Bell,bellm003,1968-04-22,Lewiston,NY,USA,L,L,73,175,,2,0.624,53,75,15,2,6,4,-0.45,bellg103,,Grandson
+Mike Brewer,brewm001,1959-10-24,Shreveport,LA,USA,R,R,77,190,,1,0.472,12,18,3,0,0,2,-0.19,brewt001,Tony Brewer,Brother
+Mike Brumley,brumm001,1962-04-09,Oklahoma City,OK,USA,B,R,70,165,,8,0.534,295,635,131,3,38,46,-2.36,brumm101,,Son
+Mike Cameron,camem001,1973-01-08,LaGrange,GA,USA,R,R,74,210,,17,0.802,1955,6839,1700,278,968,867,46.45,camed001,Daz Cameron,Father
+Mike Coolbaugh,coolm001,1972-06-05,Binghamton,NY,USA,R,R,73,185,,2,0.585,44,82,15,2,7,6,-0.31,cools001,Scott Coolbaugh,Brother
+Mike Cubbage,cubbm101,1950-07-21,Charlottesville,VA,USA,L,R,72,180,,8,0.813,703,1951,503,34,251,215,8.4,hanec001,,Cousin
+Mike Cubbage,cubbm101,1950-07-21,Charlottesville,VA,USA,L,R,72,180,,8,0.813,703,1951,503,34,251,215,8.4,hanel101,Larry Haney,Cousin
+Mike Darr,darrm001,1976-03-21,Corona,CA,USA,L,R,75,205,,3,0.724,188,542,148,5,67,67,2.51,darrm101,,Son
+Mike Davis,davim002,1959-06-11,San Diego,CA,USA,L,L,74,175,,10,0.728,963,2999,778,91,371,236,14.46,davim004,Mark Davidson,Brother
+Mike Edwards,edwam102,1952-08-27,Fort Lewis,WA,USA,R,R,70,154,,4,0.578,317,879,220,2,49,32,-1.68,edwam101,Marshall Edwards,Brother
+Mike Edwards,edwam102,1952-08-27,Fort Lewis,WA,USA,R,R,70,154,,4,0.578,317,879,220,2,49,32,-1.68,edwad101,Doc Edwards,Brother
+Mike Fitzgerald,fitzm002,1960-07-13,Long Beach,CA,USA,R,R,72,185,,10,0.667,848,2316,545,48,293,292,2.11,fitzt001,Tyler Fitzgerald,Father
+Mike Gallego,gallm001,1960-10-31,Whittier,CA,USA,R,R,68,160,,13,0.648,1111,2931,700,42,282,326,17.02,barna001,Austin Barnes,Uncle
+Mike Glavine,glavm001,1973-01-24,Concord,MA,USA,L,L,75,210,,1,0.286,6,7,1,0,0,0,-0.09,glavt001,,Brother
+Mike Greenwell,greem001,1963-07-18,Louisville,KY,USA,L,R,72,170,,12,0.831,1269,4623,1400,130,726,460,25.79,terdj001,Joey Terdoslavich,Uncle
+Mike Hegan,hegam101,1942-07-21,Cleveland,OH,USA,L,L,73,188,,9,0.939,879,1918,480,52,224,283,9.49,hegaj101,,Son
+Mike Macha,machm001,1954-02-17,Victoria,TX,USA,R,R,71,180,,2,0.232,11,21,2,0,1,1,-0.42,alony001,Yonder Alonso,Brother-in-Law
+Mike Moustakas,mousm001,1988-09-11,Los Angeles,CA,USA,L,R,72,225,,13,0.877,1427,5060,1252,215,683,399,14.79,robst101,Tom Robson,Nephew
+Mike Stenhouse,stenm001,1958-05-29,Pueblo,CO,USA,L,R,73,195,,5,0.598,207,416,79,9,40,71,-1.43,stend101,Dernell Stenson,Son
+Mike Yastrzemski,yastm001,1990-08-23,Andover,MA,USA,L,L,70,178,,7,0.91,841,2751,654,123,364,329,19.65,yastc101,Carl Yastrzemski,Grandson
+Mike Young,younm005,1960-03-20,Oakland,CA,USA,B,R,74,195,,8,0.772,635,1840,454,72,235,237,6.28,snydb001,Brad Snyder,Cousin
+Mike Young,younm005,1960-03-20,Oakland,CA,USA,B,R,74,195,,8,0.772,635,1840,454,72,235,237,6.28,snydb003,Brandon Snyder,Cousin
+Mo Vaughn,vaugm001,1967-12-15,Norwalk,CT,USA,L,R,73,225,,12,0.906,1512,5532,1620,328,1064,725,27.09,vaugg001,Greg Vaughn,Cousin
+Moises Alou,aloum101,1966-07-03,Atlanta,GA,USA,R,R,75,185,,17,0.886,1942,7037,2134,332,1287,737,39.68,sosaj101,Juan Sosa,Cousin
+Moises Alou,aloum101,1966-07-03,Atlanta,GA,USA,R,R,75,185,,17,0.886,1942,7037,2134,332,1287,737,39.68,aloum001,Matty Alou,Uncle
+Moises Alou,aloum101,1966-07-03,Atlanta,GA,USA,R,R,75,185,,17,0.886,1942,7037,2134,332,1287,737,39.68,rojam001,Miguel Rojas,Uncle
+Moises Alou,aloum101,1966-07-03,Atlanta,GA,USA,R,R,75,185,,17,0.886,1942,7037,2134,332,1287,737,39.68,alouf101,Felipe Alou,Brother
+Moises Alou,aloum101,1966-07-03,Atlanta,GA,USA,R,R,75,185,,17,0.886,1942,7037,2134,332,1287,737,39.68,alouj101,Jesus Alou,Brother
+Mookie Betts,bettm001,1992-10-07,Brentwood,TN,USA,R,R,69,180,,12,0.881,1531,6083,1767,291,913,736,75.07,shumt001,Terry Shumpert,Nephew
+Mookie Wilson,wilsm001,1956-02-09,Bamberg,SC,USA,B,R,70,170,,12,0.758,1403,5094,1397,67,438,282,23.29,wilsp002,Preston Wilson,Uncle and Stepfather
+Myron White,whitm103,1957-08-01,Long Beach,CA,USA,L,L,71,180,,1,1.0,7,4,2,0,1,0,-0.04,whitj104,Josh Whitesell,Son
+Nathaniel Lowe,lowen001,1995-07-07,Norfolk,VA,USA,L,R,76,220,,7,0.908,839,3018,796,107,413,376,12.5,lowej002,John Lowenstein,Brother
+Neil Walker,walkn001,1985-09-10,Pittsburgh,PA,USA,B,R,74,214,,12,0.834,1306,4583,1224,149,609,460,21.81,kelld001,Don Kelly,Brother-in-Law
+Neil Walker,walkn001,1985-09-10,Pittsburgh,PA,USA,B,R,74,214,,12,0.834,1306,4583,1224,149,609,460,21.81,langc101,,Nephew
+Neil Walker,walkn001,1985-09-10,Pittsburgh,PA,USA,B,R,74,214,,12,0.834,1306,4583,1224,149,609,460,21.81,walkt103,Tony Walker,Son
+Nelson Cruz,cruzn001,1980-07-01,Monte Cristi,Monte Cristi,D.R.,R,R,74,230,,19,0.911,2055,7501,2053,464,1325,738,44.5,romaj001,Jason Romano,Cousin
+Nick Allen,allen002,1998-10-08,San Diego,CA,USA,R,R,68,166,,4,0.536,382,1070,228,9,65,72,2.2,boonb002,Bret Boone,Son-in-Law
+Nick Gordon,gordn001,1995-10-24,Avon Park,FL,USA,L,R,72,160,,4,0.669,340,956,233,23,112,43,-0.47,gordd002,Dave Van Gorder,Brother
+Nick Gordon,gordn001,1995-10-24,Avon Park,FL,USA,L,R,72,160,,4,0.669,340,956,233,23,112,43,-0.47,gordt001,,Son
+Nick Johnson,johnn001,1978-09-19,Sacramento,CA,USA,L,L,75,235,,10,0.989,832,2698,723,95,398,522,16.02,bowal001,Larry Bowa,Nephew
+Nick Maton,maton001,1997-02-18,Chatham,IL,USA,L,R,74,178,,5,0.653,210,497,100,17,67,67,-0.74,matop002,Pascual Matos,Brother
+Nick Swisher,swisn001,1980-11-25,Columbus,OH,USA,B,L,72,195,,12,0.824,1527,5369,1338,245,803,817,20.2,swiss101,Steve Swisher,Son
+Nolan Arenado,arenn001,1991-04-16,Newport Beach,CA,USA,R,R,74,215,,13,0.846,1787,6807,1921,353,1184,577,58.0,fuenj001,Joshua Fuentes,Cousin
+Nolan Fontana,fontn001,1991-06-06,Winter Garden,FL,USA,L,R,71,195,,2,0.43,20,31,2,2,2,4,0.01,burdl101,,Grandson
+Nyls Nyman,nyman101,1954-03-07,Detroit,MI,USA,L,R,72,170,,4,0.568,120,357,85,2,33,11,-1.44,nymac101,Chris Nyman,Brother
+Ollie Brown,browo101,1944-02-11,Tuscaloosa,AL,USA,R,R,74,178,,10,0.891,980,2872,771,82,368,256,11.21,browo102,Oscar Brown,Brother
+Omar Narvaez,narvo001,1992-02-10,Maracay,Aragua,Venezuela,L,R,71,220,,10,0.708,681,2023,509,53,206,242,5.91,narvc002,Carlos Narváez,Cousin
+Onix Concepcion,conco001,1957-10-05,Dorado,,P.R.,R,R,66,160,,7,0.572,390,1041,249,3,80,47,0.0,lindj002,Jack Lind,Cousin
+Orlando Arcia,arcio002,1994-08-04,Anaco,Anzoátegui,Venezuela,R,R,72,187,,10,0.695,1014,3254,778,90,347,241,2.4,arcio001,Oswaldo Arcia,Brother
+Orlando Cabrera,cabro001,1974-11-02,Cartagena,Bolívar,Colombia,R,R,70,195,,15,0.86,1985,7562,2055,123,854,514,21.14,cabrj002,Jolbert Cabrera,Brother
+Orlando Palmeiro,palmo001,1969-01-19,Hoboken,NJ,USA,L,L,71,155,,13,0.701,1206,2335,640,12,226,265,2.56,palmr001,Rafael Palmeiro,Cousin
+Oscar Brown,browo102,1946-02-08,Long Beach,CA,USA,R,R,72,175,,5,0.622,160,316,77,4,28,17,-2.05,browo101,Ollie Brown,Brother
+Oscar Hernandez,herno001,1993-07-09,Punto Fijo,Falcón,Venezuela,R,R,73,230,,3,0.543,26,46,9,1,2,3,-0.31,hernl003,Larry Herndon,Half Brother
+Osleivis Basabe,basao001,2000-09-13,Bobures,Sucre,Venezuela,R,R,71,188,,1,0.587,31,87,19,1,12,6,0.35,basal001,Luis Alexander Basabe,Cousin
+Oswaldo Arcia,arcio001,1991-05-09,Anaco,Anzoátegui,Venezuela,L,R,72,230,,4,0.973,288,983,231,44,131,76,-5.23,arcio002,Orlando Arcia,Brother
+Otis Nixon,nixoo001,1959-01-09,Evergreen,NC,USA,B,R,74,180,,17,0.733,1709,5115,1379,11,318,585,18.0,nixod001,Donell Nixon,Brother
+Ozzie Canseco,canso001,1964-07-02,Havana,La Habana,Cuba,R,R,74,220,,3,0.589,24,65,13,0,4,9,-0.64,cansj001,Jose Canseco,Brother
+Ozzie Virgil,virgo001,1932-05-17,Monte Cristi,Monte Cristi,D.R.,R,R,73,174,,1,0.0,1,1,0,0,0,0,-0.03,virgo101,,Son
+Pablo Martinez,martp001,1969-06-29,Sabana Grande de Boya,Monte Plata,D.R.,B,R,70,155,,1,1.0,4,2,1,0,0,0,-0.04,martr002,Ramon Martinez,Brother
+Parker Meadows,meadp001,1999-11-02,Atlanta,GA,USA,L,R,77,205,,3,0.694,177,586,136,16,57,63,3.38,meada001,Austin Meadows,Brother
+Pascual Matos,matop002,1974-12-23,Barahona,Barahona,D.R.,R,R,74,180,,1,0.25,6,8,1,0,2,0,-0.15,maton001,Nick Maton,Brother
+Pat Bourque,bourp001,1947-03-23,Worcester,MA,USA,L,L,72,210,,4,1.28,201,405,87,12,61,58,1.59,bourc101,Chris Bourjos,Son
+Pat Bourque,bourp001,1947-03-23,Worcester,MA,USA,L,L,72,210,,4,1.28,201,405,87,12,61,58,1.59,conwo101,,Great Nephew
+Pat Kelly,kellp102,1944-07-30,Philadelphia,PA,USA,L,L,73,185,,14,0.731,1377,4337,1147,76,418,588,11.74,kellc001,Carson Kelly,Father
+Pat Valaika,valap001,1992-09-09,Valencia,CA,USA,R,R,72,200,,6,0.642,374,802,177,30,92,47,-2.73,valac001,Chris Valaika,Brother
+Paul Runge,rungp001,1958-05-21,Kingston,NY,USA,R,R,72,165,,8,0.644,183,345,80,4,26,54,0.21,ausaj001,,Half Brother
+Pedro Alvarez,alvap001,1987-02-06,Santo Domingo,Distrito Nacional,D.R.,L,R,75,250,,9,0.757,910,2980,704,162,472,314,4.94,murpp801,,Son-in-Law
+Pepe Mangual,mangp101,1952-05-23,Ponce,,P.R.,R,R,70,157,,6,0.886,319,972,235,16,83,147,3.1,laboc101,Coco Laboy,Cousin
+Pepe Mangual,mangp101,1952-05-23,Ponce,,P.R.,R,R,70,157,,6,0.886,319,972,235,16,83,147,3.1,manga101,Angel Mangual,Brother
+Pete Rose,rosep001,1941-04-14,Cincinnati,OH,USA,B,R,71,192,,19,0.818,2803,11005,3357,111,1012,1313,62.44,rosep002,,Father
+Pete Stanicek,stanp001,1963-04-18,Harvey,IL,USA,B,R,71,175,,2,0.626,113,374,91,4,26,36,-0.18,stans001,Steve Stanicek,Brother
+Phil Clark,clarp001,1968-05-06,Crockett,TX,USA,R,R,72,180,,5,0.743,264,543,150,17,65,27,0.69,clarj002,Jim Clark,Brother
+Phil Gagliano,gaglp101,1941-12-27,Memphis,TN,USA,R,R,73,180,,7,0.657,367,555,130,1,60,76,0.25,gaglr101,,Brother
+Phil Nevin,nevip001,1971-01-19,Fullerton,CA,USA,R,R,74,180,,12,1.021,1217,4188,1131,208,743,449,13.22,nevit001,Tyler Nevin,Father
+Phil Roof,roofp101,1941-03-05,Paducah,KY,USA,R,R,74,190,,10,0.705,562,1379,307,30,139,119,3.84,haase101,Eric Haase,Cousin
+Phil Roof,roofp101,1941-03-05,Paducah,KY,USA,R,R,74,190,,10,0.705,562,1379,307,30,139,119,3.84,roofg101,Gene Roof,Brother
+Prentice Redman,redmp001,1979-08-23,Tuscaloosa,AL,USA,R,R,75,185,,1,0.484,15,24,3,1,2,1,-0.45,redmt001,Tike Redman,Brother
+Preston Tucker,tuckp001,1990-07-06,Tampa,FL,USA,L,L,72,210,,3,0.982,243,600,133,23,68,41,-1.52,tuckk001,Kyle Tucker,Brother
+Preston Wilson,wilsp002,1974-07-19,Bamberg,SC,USA,R,R,74,193,,10,1.003,1108,4003,1055,189,668,350,4.5,wilsm001,Mookie Wilson,Nephew and Stepson
+Prince Fielder,fielp001,1984-05-09,Ontario,CA,USA,L,R,71,275,,12,0.887,1611,5821,1645,319,1028,847,23.57,fielc001,Cecil Fielder,Son
+Quinn Mack,mackq001,1965-09-11,Los Angeles,CA,USA,L,L,70,185,,1,0.654,5,21,5,0,2,1,-0.15,macks001,Steve Macko,Brother
+Rafael Belliard,bellr002,1961-10-24,Pueblo Nuevo,Valverde,D.R.,R,R,66,160,,17,0.53,1155,2301,508,2,142,136,-0.1,bellr001,Rob Belloir,Cousin
+Rafael Devers,dever001,1996-10-24,Sanchez,Samaná,D.R.,L,R,72,240,,9,0.977,1143,4409,1215,235,747,470,31.31,devej001,Jose Devers,Cousin
+Rafael Flores,florr002,2000-11-07,Anaheim,CA,USA,R,R,76,232,,1,0.627,7,15,3,0,0,2,-0.13,florr001,Ramon Flores,Brother
+Rafael Palmeiro,palmr001,1964-09-24,Havana,La Habana,Cuba,L,L,72,180,,20,0.885,2831,10472,3020,569,1835,1353,71.87,palmo001,Orlando Palmeiro,Cousin
+Ramon Aviles,avilr101,1952-01-22,Manati,,P.R.,R,R,69,155,,4,0.688,117,190,51,2,24,21,-0.13,avilm001,Mike Aviles,Uncle
+Ramon Cabrera,cabrr001,1989-11-05,Caracas,Distrito Capital,Venezuela,B,R,68,195,,2,0.67,74,201,53,4,26,8,0.62,cabra001,Alex Cabrera,Son
+Ramon Flores,florr001,1992-03-26,Barinas,Barinas,Venezuela,L,L,70,190,,3,0.538,119,289,59,2,20,31,-1.58,florr002,Rafael Flores,Brother
+Ramon Martinez,martr002,1972-10-10,Philadelphia,PA,USA,R,R,73,170,,12,0.725,798,1952,512,29,242,170,-1.65,martp001,Pablo Martinez,Brother
+Ramon Urias,uriar001,1994-06-03,Magdalena de Kino,Sonora,México,R,R,72,190,,6,0.86,541,1674,431,50,215,137,13.34,urial001,Luis Urias,Brother
+Randy Brown,browr001,1943-08-29,Leesburg,FL,USA,L,R,67,170,,2,0.458,18,29,4,0,0,6,0.03,burke001,Ellis Burks,Cousin
+Randy Hundley,hundr101,1942-06-01,Martinsville,VA,USA,R,R,71,170,,10,0.617,752,2361,544,49,258,192,5.75,hundt001,Todd Hundley,Father
+Randy Johnson,johnr102,1958-08-15,Miami,FL,USA,L,L,74,195,,2,0.723,101,254,62,10,36,32,-0.16,johnb102,Brian Johnson,Brother
+Randy Milligan,millr113,1961-11-27,San Diego,CA,USA,R,R,74,200,,8,0.953,703,2118,553,70,284,447,15.6,millj109,John Miller,Brother
+Raul Mondesi,mondr003,1971-03-12,San Cristobal,San Cristóbal,D.R.,R,R,71,202,,13,0.979,1525,5814,1589,271,860,475,32.58,mondr002,Rick Monday,Son
+Ray Holbert,holbr001,1970-09-25,Torrance,CA,USA,R,R,72,170,,5,0.585,115,202,45,2,11,18,-1.33,holba001,Aaron Holbert,Brother
+Ray Lankford,lankr001,1967-06-05,Los Angeles,CA,USA,L,L,71,180,,14,0.899,1701,5747,1561,238,874,828,39.26,nichc001,Carl Nichols,Nephew
+Ray Montgomery,montr101,1969-08-08,Bronxville,NY,USA,R,R,75,195,,3,0.638,47,87,21,1,8,6,0.05,monta103,Al Montreuil,Father
+Reggie Sanders,sandr001,1949-09-09,Birmingham,AL,USA,R,R,74,205,,1,0.742,26,99,27,3,10,5,0.26,sandj001,Jared Sandberg,Uncle
+Reggie Williams,willr801,1960-08-29,Memphis,TN,USA,R,R,71,185,,4,0.662,200,379,98,5,39,28,-0.76,willd104,Dallas Williams,Son
+Rene Lachemann,lachr101,1945-05-04,Los Angeles,CA,USA,R,R,72,198,,1,0.344,19,60,9,0,4,1,-0.67,lachb801,,Brother
+Rene Lachemann,lachr101,1945-05-04,Los Angeles,CA,USA,R,R,72,198,,1,0.344,19,60,9,0,4,1,-0.67,lachm101,,Brother
+Rey Palacios,palar001,1962-11-08,Brooklyn,NY,USA,R,R,70,190,,3,0.56,101,114,22,3,17,7,-0.39,palaj001,Josh Palacios,Uncle
+Rey Palacios,palar001,1962-11-08,Brooklyn,NY,USA,R,R,70,190,,3,0.56,101,114,22,3,17,7,-0.39,palar002,Richie Palacios,Uncle
+Rey Quinones,quinr002,1963-11-11,Rio Piedras,,P.R.,R,R,71,160,,4,0.796,451,1533,373,29,159,89,-4.8,quint001,Tom Quinlan,Brother
+Rich Amaral,amarr101,1962-04-01,Visalia,CA,USA,R,R,72,175,,10,0.695,727,1788,493,11,159,176,5.09,amarr002,Ruben Amaro,Father
+Rich Butler,butlr002,1973-05-01,Toronto,ON,CAN,L,R,73,180,,3,0.63,86,251,56,7,22,19,-0.24,butlr001,Rob Butler,Brother
+Rich Chiles,chilr101,1949-11-22,Sacramento,CA,USA,L,L,71,170,,6,0.659,284,618,157,6,76,50,0.19,kellg101,,Cousin
+Rich Chiles,chilr101,1949-11-22,Sacramento,CA,USA,L,L,71,170,,6,0.659,284,618,157,6,76,50,0.19,kellr102,Roberto Kelly,Cousin
+Rich Hacker,hackr101,1947-10-06,Belleville,IL,USA,B,R,72,160,,1,0.346,16,33,4,0,2,3,-0.01,hackw102,,Nephew
+Rich Murray,murrr101,1957-07-06,Los Angeles,CA,USA,R,R,76,195,,2,0.589,57,204,44,4,25,11,-0.93,murre001,Eddie Murray,Brother
+Richie Palacios,palar002,1997-05-16,Brooklyn,NY,USA,L,R,70,180,,4,0.69,195,511,123,12,50,65,2.16,palaj001,Josh Palacios,Brother
+Richie Palacios,palar002,1997-05-16,Brooklyn,NY,USA,L,R,70,180,,4,0.69,195,511,123,12,50,65,2.16,palar001,Rey Palacios,Nephew
+Rick Dempsey,dempr001,1949-09-13,Fayetteville,TN,USA,R,R,72,190,,24,0.682,1766,4692,1093,96,471,592,25.85,zaung001,Gregg Zaun,Uncle
+Rick Miller,millr102,1948-04-19,Grand Rapids,MI,USA,L,L,72,175,,15,0.696,1482,3887,1046,28,369,454,15.5,millb110,Bruce Miller,Brother
+Rick Monday,mondr002,1945-11-20,Batesville,AR,USA,L,L,75,193,,17,0.811,1845,5689,1513,227,715,876,30.76,mondr003,Raul Mondesi,Father
+Rick Peters,peter801,1955-11-21,Lynwood,CA,USA,B,R,69,170,,5,0.698,307,919,255,2,80,107,3.14,peteh101,,Son
+Rickie Weeks,weekr001,1982-09-13,Altamonte Springs,FL,USA,R,R,72,210,,14,0.764,1324,4417,1087,161,474,533,11.57,weekj001,Jemile Weeks,Brother
+Rico Carty,cartr101,1939-09-01,San Pedro de Macoris,San Pedro de Macorís,D.R.,R,R,75,200,,10,1.114,1148,3913,1160,142,627,473,20.51,santj001,,Uncle
+Rob Andrews,andrr101,1952-12-11,Santa Monica,CA,USA,R,R,72,185,,5,0.616,493,1454,365,3,91,148,0.93,andrm101,Mike Andrews,Brother
+Rob Belloir,bellr001,1948-07-13,Heidelberg,Baden-Württemberg,West Germany,R,R,70,155,,4,0.526,81,167,36,0,13,12,-1.93,bellr002,Rafael Belliard,Cousin
+Rob Butler,butlr001,1970-04-10,East York,ON,CAN,L,L,71,185,,4,0.63,109,218,53,0,21,19,-0.18,butlr002,Rich Butler,Brother
+Rob Ducey,ducer101,1965-05-24,Toronto,ON,CAN,L,R,74,175,,13,0.936,703,1279,309,31,146,166,1.46,ducye101,,Brother
+Rob Ellis,ellir001,1950-07-03,Grand Rapids,MI,USA,R,R,71,180,,3,0.55,64,166,38,0,10,16,-1.09,ellid003,Drew Ellis,Father
+Rob Ryan,ryanr002,1973-06-24,Havre,MT,USA,L,L,71,190,,3,0.691,55,64,15,2,7,5,-0.32,ryanr003,,Brother
+Robbie Wine,winer001,1962-07-13,Norristown,PA,USA,R,R,74,190,,2,0.381,23,41,6,0,0,2,-0.62,wineb101,Bobby Wine,Son
+Robby Thompson,thomr101,1962-05-10,West Palm Beach,FL,USA,R,R,71,165,,11,0.733,1304,4612,1187,119,458,439,33.85,thomb101,Bobby Thompson,Brother
+Robel Garcia,garcr901,1993-03-28,Las Matas de Farfan,San Juan,D.R.,B,R,72,195,,2,0.566,78,178,31,6,19,15,-0.98,carav901,Victor Caratini,Father-in-Law
+Roberto Alomar,alomr001,1968-02-05,Ponce,,P.R.,B,R,72,184,HOF,17,0.864,2379,9073,2724,210,1134,1032,66.16,aloms001,Sandy Alomar,Brother
+Roberto Alomar,alomr001,1968-02-05,Ponce,,P.R.,B,R,72,184,HOF,17,0.864,2379,9073,2724,210,1134,1032,66.16,aloms101,,Son
+Roberto Clemente,clemr001,1934-08-18,Carolina,,P.R.,R,R,71,175,HOF,5,0.893,612,2321,762,74,354,200,33.17,clemk001,Kody Clemens,Father
+Roberto Kelly,kellr102,1964-10-01,Panama City,Panamá,Panama,R,R,74,180,,14,0.972,1337,4797,1390,124,585,317,22.57,chilr101,Rich Chiles,Cousin
+Roberto Kelly,kellr102,1964-10-01,Panama City,Panamá,Panama,R,R,74,180,,14,0.972,1337,4797,1390,124,585,317,22.57,kellg101,,Brother
+Roberto Kelly,kellr102,1964-10-01,Panama City,Panamá,Panama,R,R,74,180,,14,0.972,1337,4797,1390,124,585,317,22.57,langb102,,Nephew
+Roberto Peña,penar001,1937-04-17,Santo Domingo,Distrito Nacional,D.R.,R,R,68,170,,4,0.76,530,1720,427,11,141,98,-1.04,penaf001,Francisco Peña,Uncle
+Roberto Peña,penar001,1937-04-17,Santo Domingo,Distrito Nacional,D.R.,R,R,68,170,,4,0.76,530,1720,427,11,141,98,-1.04,penat002,,Uncle
+Roberto Peña,penar001,1937-04-17,Santo Domingo,Distrito Nacional,D.R.,R,R,68,170,,4,0.76,530,1720,427,11,141,98,-1.04,penat001,Tony Peña,Brother
+Robin Yount,younr001,1955-09-16,Danville,IL,USA,R,R,72,165,HOF,20,0.772,2856,11008,3142,251,1406,966,77.36,younl101,,Brother
+Robinson Cano,canor001,1982-10-22,San Pedro de Macoris,San Pedro de Macorís,D.R.,L,R,72,228,,17,0.847,2267,8773,2639,335,1306,620,65.74,canoj001,,Son
+Rod Booker,bookr001,1958-09-04,Los Angeles,CA,USA,L,R,72,175,,5,0.621,173,274,68,0,28,27,-0.8,robij103,,Related To
+Rod Correia,corrr101,1967-09-13,Providence,RI,USA,R,R,71,185,,3,0.623,84,166,43,0,12,6,-0.45,corrj101,,Father
+Rodney McCray,mccrr001,1963-09-13,Detroit,MI,USA,R,R,70,175,,3,0.481,67,14,3,0,1,1,-0.03,mccrg001,Grant McCray,Father
+Roger Cedeno,ceder001,1974-08-16,Valencia,Carabobo,Venezuela,B,R,73,165,,11,0.71,1100,3174,865,40,274,319,1.69,solay001,Yangervis Solarte,Uncle
+Roger Kieschnick,kiesr001,1987-01-21,Dallas,TX,USA,L,R,75,225,,2,0.513,63,125,25,1,7,11,-0.75,kiesb001,Brooks Kieschnick,Nephew
+Roger Maris,marir102,1934-09-10,Hibbing,MN,USA,L,R,72,197,,1,0.681,100,310,79,5,45,24,2.3,marim101,,Brother
+Ron Allen,aller101,1943-12-23,Wampum,PA,USA,B,R,75,205,,1,0.65,7,11,1,1,1,3,-0.16,alled101,Dick Allen,Brother
+Ron Allen,aller101,1943-12-23,Wampum,PA,USA,B,R,75,205,,1,0.65,7,11,1,1,1,3,-0.16,alleh104,Hank Allen,Brother
+Ron Clark,clarr101,1943-01-14,Fort Worth,TX,USA,R,R,70,175,,5,0.7,205,469,89,3,31,37,-4.02,clars102,,Brother
+Ron Davis,davir001,1941-10-21,Roanoke Rapids,NC,USA,R,R,72,175,,2,0.966,147,360,75,1,21,25,-1.54,davii001,Ike Davis,Father
+Ron Davis,davir001,1941-10-21,Roanoke Rapids,NC,USA,R,R,72,175,,2,0.966,147,360,75,1,21,25,-1.54,murfr101,,Nephew
+Ron Johnson,johnr002,1956-03-23,Long Beach,CA,USA,R,R,75,215,,3,0.662,22,46,12,0,2,7,-0.37,johnc003,Charles Johnson,Father
+Ron LeFlore,leflr101,1948-06-16,Detroit,MI,USA,R,R,72,200,,9,0.734,1099,4458,1283,59,353,363,18.06,stevt001,Todd Steverson,Cousin
+Ron Lolich,lolir101,1946-09-19,Portland,OR,USA,R,R,73,185,,3,0.548,87,228,48,4,23,11,-1.23,lolim101,,Cousin
+Ron Roenicke,roenr001,1956-08-19,Covina,CA,USA,B,L,72,180,,8,0.893,527,1076,256,17,113,190,3.2,roenj001,,Uncle
+Ron Roenicke,roenr001,1956-08-19,Covina,CA,USA,B,L,72,180,,8,0.893,527,1076,256,17,113,190,3.2,roeng001,Gary Roenicke,Brother
+Ronald Acuña Jr.,acunr001,1997-12-18,La Guaira,Vargas,Venezuela,R,R,72,205,,8,0.908,816,3156,913,186,459,439,28.67,acunl001,Luisangel Acuña,Brother
+Ronald Acuña Jr.,acunr001,1997-12-18,La Guaira,Vargas,Venezuela,R,R,72,205,,8,0.908,816,3156,913,186,459,439,28.67,campv001,,Cousin
+Ronald Acuña Jr.,acunr001,1997-12-18,La Guaira,Vargas,Venezuela,R,R,72,205,,8,0.908,816,3156,913,186,459,439,28.67,escoa003,Angel Escobar,Cousin
+Ronald Acuña Jr.,acunr001,1997-12-18,La Guaira,Vargas,Venezuela,R,R,72,205,,8,0.908,816,3156,913,186,459,439,28.67,escoe002,Eduardo Escobar,Cousin
+Ronald Acuña Jr.,acunr001,1997-12-18,La Guaira,Vargas,Venezuela,R,R,72,205,,8,0.908,816,3156,913,186,459,439,28.67,escoj001,Jose Escobar,Nephew
+Ronald Acuña Jr.,acunr001,1997-12-18,La Guaira,Vargas,Venezuela,R,R,72,205,,8,0.908,816,3156,913,186,459,439,28.67,escok001,,Cousin
+Rondin Johnson,johnr104,1958-12-16,Bremerton,WA,USA,B,R,70,160,,1,0.581,11,31,8,0,2,0,0.09,johnr105,Roy Johnson,Father
+Ronnie Dawson,dawsr101,1995-05-19,Grove City,OH,USA,L,R,74,217,,2,0.347,4,8,1,0,0,1,-0.15,dawsj101,,Brother
+Rougned Odor,odorr001,1994-02-03,Maracaibo,Zulia,Venezuela,L,R,71,200,,10,0.71,1154,4044,930,178,568,269,6.38,odorr801,,Nephew
+Rougned Odor,odorr001,1994-02-03,Maracaibo,Zulia,Venezuela,L,R,71,200,,10,0.71,1154,4044,930,178,568,269,6.38,zambe001,Eddie Zambrano,Nephew
+Roy Foster,fostr105,1945-07-29,Bixby,OK,USA,R,R,72,185,,3,0.774,337,1016,257,45,118,110,1.91,fostw101,,Half Brother
+Roy Johnson,johnr105,1959-06-27,Parkin,AR,USA,L,L,76,205,,3,0.524,36,70,12,1,4,8,-0.47,johnr104,Rondin Johnson,Son
+Roy Smalley,smalr001,1952-10-25,Los Angeles,CA,USA,B,R,73,185,,13,0.884,1653,5657,1454,163,694,771,34.04,maucg101,,Nephew
+Roy Smalley,smalr001,1952-10-25,Los Angeles,CA,USA,B,R,73,185,,13,0.884,1653,5657,1454,163,694,771,34.04,smalr101,,Son
+Roy White,whitr001,1943-12-27,Los Angeles,CA,USA,B,R,70,160,,12,0.776,1682,6078,1670,151,717,874,46.84,manuj101,Jerry Manuel,Son-in-Law
+Royle Stillman,stilr101,1951-01-02,Santa Monica,CA,USA,L,L,71,180,,3,0.634,89,155,33,3,15,21,-0.3,stilk001,Kurt Stillwell,Father
+Ruben Amaro,amarr002,1936-01-06,Nuevo Laredo,Tamaulipas,México,R,R,71,170,,2,0.473,88,68,11,0,1,13,-0.55,amarr101,Rich Amaral,Son
+Ruben Gotay,gotar001,1982-12-25,Rio Piedras,,P.R.,B,R,71,175,,4,0.685,316,726,185,12,77,60,-0.45,gotaj101,Julio Gotay,Nephew
+Ruben Rivera,river002,1973-11-14,Chorrera,Panamá Oeste,Panama,R,R,72,195,,9,0.701,662,1586,343,64,203,185,5.64,rivem002,Mickey Rivers,Cousin
+Russ Mitchell,mitcr001,1985-02-15,Rome,GA,USA,R,R,71,200,,2,0.499,40,93,14,4,7,7,-0.87,willa004,Antone Williamson,Cousin
+Rusty Ryal,ryalr001,1983-03-16,Ponca City,OK,USA,R,R,74,200,,2,0.721,134,266,70,6,20,14,0.19,ryalm001,Mark Ryal,Son
+Rusty Torres,torrr102,1948-09-30,Aguadilla,,P.R.,B,R,70,175,,9,0.635,654,1314,279,35,126,164,-0.51,torrg101,Gleyber Torres,Father
+Ryan Christenson,chrir101,1974-03-28,Redlands,CA,USA,R,R,71,175,,6,0.636,452,998,222,16,102,114,0.14,chril102,,Brother
+Ryan Ludwick,ludwr001,1978-07-13,Satellite Beach,FL,USA,R,L,74,215,,12,0.996,1065,3549,923,154,587,339,13.83,ludwe001,,Brother
+Ryan Minor,minor001,1974-01-05,Canton,OH,USA,R,R,79,225,,4,0.487,142,317,56,5,27,20,-2.48,minod001,Damon Minor,Brother
+Ryan Wheeler,wheer001,1988-07-10,Torrance,CA,USA,L,R,75,230,,3,0.615,109,206,48,3,30,15,-1.12,wheej001,,Brother
+Sal Bando,bands101,1944-02-13,Cleveland,OH,USA,R,R,72,195,,14,0.764,1961,6906,1758,242,1032,1014,59.99,bandc001,Chris Bando,Brother
+Sal Butera,butes001,1952-09-25,Richmond Hill,NY,USA,R,R,72,190,,9,0.699,359,801,182,8,76,86,-2.73,buted001,Drew Butera,Father
+Sandy Alomar,aloms001,1943-10-19,Salinas,,P.R.,B,R,69,140,,11,0.698,1337,4518,1122,13,266,295,10.91,alomr001,Roberto Alomar,Brother
+Sandy Alomar,aloms001,1943-10-19,Salinas,,P.R.,B,R,69,140,,11,0.698,1337,4518,1122,13,266,295,10.91,aloms101,,Son
+Scott Coolbaugh,cools001,1966-06-13,Binghamton,NY,USA,R,R,70,185,,4,0.592,167,432,93,8,41,39,-0.84,coolm001,Mike Coolbaugh,Brother
+Scott Fletcher,flets001,1958-07-30,Fort Walton Beach,FL,USA,R,R,71,168,,15,0.742,1612,5258,1376,34,510,514,33.74,barrm003,Michael Barrett,Cousin
+Scott Fletcher,flets001,1958-07-30,Fort Walton Beach,FL,USA,R,R,71,168,,15,0.742,1612,5258,1376,34,510,514,33.74,beckg001,Glenn Beckert,Father-in-Law
+Scott Hairston,hairs001,1980-05-25,Fort Worth,TX,USA,R,R,72,200,,11,1.012,923,2431,589,106,313,175,8.66,hairj001,John Hairston,Son
+Scott Hairston,hairs001,1980-05-25,Fort Worth,TX,USA,R,R,72,200,,11,1.012,923,2431,589,106,313,175,8.66,hairj002,Jerry Hairston,Brother
+Scott Hairston,hairs001,1980-05-25,Fort Worth,TX,USA,R,R,72,200,,11,1.012,923,2431,589,106,313,175,8.66,hairj101,,Nephew
+Scott Hairston,hairs001,1980-05-25,Fort Worth,TX,USA,R,R,72,200,,11,1.012,923,2431,589,106,313,175,8.66,hairs101,,Grandson
+Scott Heineman,heins001,1992-12-04,Pacific Palisades,CA,USA,R,R,73,220,,3,0.573,68,157,27,5,17,14,-0.35,heint001,Tom Heintzelman,Brother
+Scott Northey,norts101,1946-10-15,Philadelphia,PA,USA,R,R,72,175,,1,0.748,20,61,16,1,7,7,0.28,nortr101,,Son
+Scott Spiezio,spies001,1972-09-21,Joliet,IL,USA,B,R,74,195,,12,0.747,1274,3899,996,119,549,412,8.81,spiee101,Ed Spiezio,Son
+Sean Burroughs,burrs001,1980-09-12,Atlanta,GA,USA,L,R,73,195,,7,0.69,528,1664,463,12,143,119,5.48,burrj001,Jeff Burroughs,Son
+Shane Victorino,victs001,1980-11-30,Wailuku,HI,USA,R,R,69,190,,12,0.876,1299,4630,1274,108,489,381,34.43,texek001,,Cousin
+Shawn Jeter,jetes001,1966-06-28,Shreveport,LA,USA,L,R,74,185,,1,0.222,13,18,2,0,0,0,-0.3,jetej101,Johnny Jeter,Son
+Shelley Duncan,duncs001,1979-09-29,Tucson,AZ,USA,R,R,77,215,,7,0.725,330,885,200,43,144,97,1.03,duncc002,Chris Duncan,Brother
+Shelley Duncan,duncs001,1979-09-29,Tucson,AZ,USA,R,R,77,215,,7,0.725,330,885,200,43,144,97,1.03,duncd101,Dave Duncan,Son
+Sherman Johnson,johns001,1990-07-15,Tampa,FL,USA,L,R,70,190,,1,0.091,10,10,0,0,0,0,-0.19,johnd001,Deron Johnson,Son
+Sixto Lezcano,lezcs001,1953-11-28,Arecibo,,P.R.,R,R,70,165,,12,0.857,1291,4134,1122,148,591,576,28.54,lezcc101,Carlos Lezcano,Cousin
+Skeeter Barnes,barns101,1957-03-07,Cincinnati,OH,USA,R,R,71,175,,9,0.695,353,614,159,14,83,41,0.89,barnr104,,Cousin
+Spencer Kieboom,kiebs001,1991-03-16,Mount Pleasant,SC,USA,R,R,72,210,,2,0.647,53,125,29,2,13,17,0.44,kiebc001,Carter Kieboom,Brother
+Spike Owen,owens001,1961-04-19,Cleburne,TX,USA,B,R,69,165,,13,0.723,1544,4930,1211,46,439,569,12.49,owend001,Dave Owen,Brother
+Stan Cliburn,clibs001,1956-12-19,Jackson,MS,USA,R,R,72,195,,1,0.538,54,56,10,2,6,3,-0.24,clibs101,,Brother
+Stan Javier,javis001,1964-01-09,San Francisco de Macoris,Duarte,D.R.,B,R,72,185,,17,0.851,1763,5047,1358,57,503,578,30.65,javij101,Julian Javier,Son
+Stephen Drew,drews001,1983-03-16,Hahira,GA,USA,L,R,72,220,,12,0.817,1268,4403,1109,123,524,435,14.49,drewj001,J. D. Drew,Brother
+Stephen Drew,drews001,1983-03-16,Hahira,GA,USA,L,R,72,220,,12,0.817,1268,4403,1109,123,524,435,14.49,drewt001,,Brother
+Stephen Larkin,larks001,1973-07-24,Cincinnati,OH,USA,L,L,72,190,,1,0.666,1,3,1,0,0,0,0.02,larkb001,Barry Larkin,Brother
+Steve Dillard,dills101,1951-02-08,Memphis,TN,USA,R,R,73,180,,8,0.638,438,1013,246,13,102,76,-1.38,dillt001,,Father
+Steve Hammond,hamms101,1957-05-09,Atlanta,GA,USA,L,R,74,190,,1,0.562,46,126,29,1,11,4,-0.26,hammc001,,Brother
+Steve Kiefer,kiefs001,1960-10-18,Chicago,IL,USA,R,R,73,175,,6,0.575,105,229,44,7,30,12,-1.57,kiefm001,,Brother
+Steve Lombardozzi,lombs001,1960-04-26,Malden,MA,USA,R,R,72,175,,6,0.654,446,1264,294,20,107,131,4.38,lombs002,,Father
+Steve Macko,macks001,1954-09-06,Burlington,IA,USA,L,R,70,160,,2,0.597,25,60,15,0,5,4,0.07,mackq001,Quinn Mack,Brother
+Steve Stanicek,stans001,1961-06-19,Lake Forest,IL,USA,R,R,72,190,,2,0.375,13,16,3,0,1,0,-0.06,stanp001,Pete Stanicek,Brother
+Steve Swisher,swiss101,1951-08-09,Parkersburg,WV,USA,R,R,74,205,,9,0.581,509,1414,305,20,124,118,-1.93,swisn001,Nick Swisher,Father
+Steve Torrealba,torrs002,1978-02-24,Barquisimeto,Lara,Venezuela,R,R,72,175,,2,0.333,15,19,2,0,1,3,-0.3,torrp101,,Son
+Steven Tolleson,tolls001,1983-11-01,Spartanburg,SC,USA,R,R,71,185,,4,0.671,182,331,81,6,29,24,1.18,tollw001,Wayne Tolleson,Son
+Stu Pederson,pedes001,1960-01-28,Palo Alto,CA,USA,L,L,72,185,,1,0.0,8,4,0,0,1,0,-0.13,pedej001,Joc Pederson,Father
+Ted Ford,fordt102,1947-02-07,Vineland,NJ,USA,R,R,70,180,,4,0.605,240,711,156,17,68,51,0.67,fordd002,Dan Ford,Grandfather
+Terry Francona,frant101,1959-04-22,Aberdeen,SD,USA,L,L,73,190,,10,0.652,708,1731,474,16,143,65,-2.97,frant001,Tito Francona,Father
+Terry Hughes,hught102,1949-05-13,Spartanburg,SC,USA,R,R,73,185,,3,0.56,54,86,18,1,7,7,-0.25,creej101,,Cousin
+Terry Kennedy,kennt001,1956-06-04,Euclid,OH,USA,L,R,75,220,,14,0.7,1491,4979,1313,113,628,365,21.56,kennb104,,Son
+Terry McGriff,mcgrt002,1963-09-23,Fort Pierce,FL,USA,R,R,74,190,,6,0.557,126,326,67,3,30,36,-0.96,johnc002,Cliff Johnson,Uncle
+Terry McGriff,mcgrt002,1963-09-23,Fort Pierce,FL,USA,R,R,74,190,,6,0.557,126,326,67,3,30,36,-0.96,mcgrf001,Fred McGriff,Cousin
+Terry Shumpert,shumt001,1966-08-16,Paducah,KY,USA,R,R,71,190,,14,0.724,854,1969,497,49,223,166,-0.18,bettm001,Mookie Betts,Uncle
+Tike Redman,redmt001,1977-03-10,Tuscaloosa,AL,USA,L,L,71,175,,6,0.701,432,1370,385,17,117,66,1.0,redmp001,Prentice Redman,Brother
+Tim Flannery,flant001,1957-09-29,Tulsa,OK,USA,L,R,71,175,,11,0.653,972,2473,631,9,209,277,9.13,smith106,,Nephew
+Tim Hulett,hulet001,1960-01-12,Springfield,IL,USA,R,R,72,185,,12,0.669,720,2128,529,48,220,145,6.68,hulet002,Tug Hulett,Father
+Tim Johnson,johnt104,1949-07-22,Grand Forks,ND,USA,L,R,73,170,,7,0.567,516,1269,283,0,84,88,-0.18,johnw901,Wallace Johnson,Brother
+Tim Lopes,lopet001,1994-06-24,Los Angeles,CA,USA,R,R,71,180,,3,0.662,94,264,65,3,27,22,0.52,lopec001,Carlos Lopez,Brother
+Tim Raines,raint001,1959-09-16,Sanford,FL,USA,B,R,68,160,HOF,23,0.819,2502,8872,2605,170,980,1330,70.07,raint002,,Father
+Tito Francona,frant001,1933-11-04,Aliquippa,PA,USA,L,L,71,190,,3,1.088,289,617,177,8,99,88,2.81,frant101,Terry Francona,Son
+Todd Benzinger,benzt001,1963-02-11,Dayton,KY,USA,B,R,73,185,,9,0.771,924,2856,733,66,376,181,-3.12,grosd101,,Nephew
+Todd Frazier,frazt001,1986-02-12,Point Pleasant,NJ,USA,R,R,75,215,,11,0.874,1244,4392,1059,218,640,438,29.07,frazj001,Jeff Frazier,Brother
+Todd Hundley,hundt001,1969-05-27,Martinsville,VA,USA,B,R,71,170,,14,0.763,1225,3769,883,202,599,453,10.88,hundr101,Randy Hundley,Son
+Todd Steverson,stevt001,1971-11-15,Los Angeles,CA,USA,R,R,74,194,,2,0.729,31,43,11,2,6,6,-0.3,leflr101,Ron LeFlore,Cousin
+Tom Brookens,broot001,1953-08-10,Chambersburg,PA,USA,R,R,70,165,,12,0.663,1336,3865,950,71,431,281,11.53,brooi101,,Cousin
+Tom Donohue,donot102,1952-11-15,Mineola,NY,USA,R,R,72,185,,2,0.51,122,325,65,5,28,10,-0.97,donoj101,,Brother
+Tom Foley,folet101,1959-09-09,Fort Benning,GA,USA,L,R,73,175,,13,0.772,1108,2708,661,32,263,232,6.77,folew101,,Brother
+Tom Grieve,griet101,1948-03-04,Pittsfield,MA,USA,R,R,74,190,,9,0.702,670,1907,474,65,254,135,1.84,grieb001,Ben Grieve,Father
+Tom Haller,hallt102,1937-06-23,Lockport,IL,USA,L,R,76,195,,5,0.728,533,1567,424,27,184,166,10.27,hallb901,,Brother
+Tom Heintzelman,heint001,1946-11-03,St. Charles,MO,USA,R,R,73,180,,4,0.654,90,140,34,3,12,14,0.65,heins001,Scott Heineman,Brother
+Tom Paciorek,pacit001,1946-11-02,Detroit,MI,USA,R,R,76,215,,18,0.818,1392,4121,1162,86,503,245,7.24,pacij001,Jim Paciorek,Brother
+Tom Paciorek,pacit001,1946-11-02,Detroit,MI,USA,R,R,76,215,,18,0.818,1392,4121,1162,86,503,245,7.24,pacij101,,Brother
+Tom Pagnozzi,pagnt001,1962-07-30,Tucson,AZ,USA,R,R,72,190,,12,0.658,927,2896,733,44,320,189,7.74,pagnm001,Matt Pagnozzi,Uncle
+Tom Quinlan,quint001,1968-03-27,St. Paul,MN,USA,R,R,75,200,,4,0.493,42,58,9,1,5,5,-0.34,quinr002,Rey Quinones,Brother
+Tom Robson,robst101,1946-01-15,Rochester,NY,USA,R,R,75,215,,2,0.507,23,48,10,0,4,5,-0.34,mousm001,Mike Moustakas,Uncle
+Tom Tresh,trest101,1938-09-20,Detroit,MI,USA,B,R,73,180,,2,0.907,291,981,199,25,98,132,3.18,tresm101,,Son
+Tommie Aaron,aarot101,1939-08-05,Mobile,AL,USA,R,R,75,190,,4,0.599,216,459,109,4,40,33,-2.31,aaroh101,Hank Aaron,Brother
+Tommie Reynolds,reynt101,1941-08-15,Arizona,LA,USA,R,R,74,190,,4,0.616,283,651,153,7,47,59,1.77,robif102,Floyd Robinson,Cousin
+Tommy Barrett,barrt002,1960-04-02,San Fernando,CA,USA,B,R,69,157,,3,0.509,54,84,17,0,4,10,-0.23,barrm001,Marty Barrett,Brother
+Tommy Cruz,cruzt101,1951-02-15,Arroyo,,P.R.,L,L,69,165,,2,0.0,7,2,0,0,0,0,-0.07,cruzh101,Henry Cruz,Brother
+Tommy Cruz,cruzt101,1951-02-15,Arroyo,,P.R.,L,L,69,165,,2,0.0,7,2,0,0,0,0,-0.07,cruzj001,Jose Cruz,Brother
+Tommy Cruz,cruzt101,1951-02-15,Arroyo,,P.R.,L,L,69,165,,2,0.0,7,2,0,0,0,0,-0.07,cruzj004,Julio Cruz,Uncle
+Tommy Everidge,evert101,1983-04-20,Santa Rosa,CA,USA,R,R,72,275,,1,0.667,24,85,19,2,7,8,-0.6,everj101,Jonathan Van Every,Uncle
+Tommy Everidge,evert101,1983-04-20,Santa Rosa,CA,USA,R,R,72,275,,1,0.667,24,85,19,2,7,8,-0.6,everj102,,Uncle
+Tommy Helms,helmt101,1941-05-05,Charlotte,NC,USA,R,R,70,165,,10,0.631,1137,3915,1036,23,387,180,5.57,helmw001,Wes Helms,Uncle
+Tony Armas,armat001,1953-07-02,Puerto Piritu,Anzoátegui,Venezuela,R,R,71,182,,14,0.74,1432,5164,1302,251,815,260,15.84,armam001,Marcos Armas,Brother
+Tony Armas,armat001,1953-07-02,Puerto Piritu,Anzoátegui,Venezuela,R,R,71,182,,14,0.74,1432,5164,1302,251,815,260,15.84,armat002,,Father
+Tony Blanco,blant101,1981-11-10,San Juan de la Maguana,San Juan,D.R.,R,R,74,200,,1,0.489,56,62,11,1,7,2,-0.86,blanh101,Henry Blanco,Brother
+Tony Brewer,brewt001,1957-11-25,Coushatta,LA,USA,R,R,71,190,,1,0.411,24,37,4,1,4,4,-0.46,brewm001,Mike Brewer,Brother
+Tony Clark,clart001,1972-06-15,Newton,KS,USA,B,R,80,205,,15,0.847,1559,4532,1188,251,824,527,12.14,clarm003,Matt Clark,Father
+Tony Conigliaro,conit101,1945-01-07,Revere,MA,USA,R,R,75,185,,4,0.742,382,1389,344,62,222,122,1.14,conib101,Billy Conigliaro,Brother
+Tony Gwynn,gwynt001,1960-05-09,Los Angeles,CA,USA,L,L,71,185,HOF,20,0.847,2440,9288,3141,135,1138,790,69.15,gwync001,Chris Gwynn,Brother
+Tony Gwynn,gwynt001,1960-05-09,Los Angeles,CA,USA,L,L,71,185,HOF,20,0.847,2440,9288,3141,135,1138,790,69.15,gwynt002,,Father
+Tony Perez,peret001,1942-05-14,Camagüey,Camagüey,Cuba,R,R,74,175,HOF,19,0.809,2406,8615,2415,337,1463,854,50.77,peree001,Eddie Perez,Father
+Tony Peña,penat001,1957-06-04,Monte Cristi,Monte Cristi,D.R.,R,R,72,175,,18,0.681,1988,6489,1687,107,708,455,23.5,penar001,Roberto Peña,Brother
+Tony Peña,penat001,1957-06-04,Monte Cristi,Monte Cristi,D.R.,R,R,72,175,,18,0.681,1988,6489,1687,107,708,455,23.5,penaf001,Francisco Peña,Father
+Tony Peña,penat001,1957-06-04,Monte Cristi,Monte Cristi,D.R.,R,R,72,175,,18,0.681,1988,6489,1687,107,708,455,23.5,penat002,,Father
+Tony Tarasco,tarat001,1970-12-09,New York,NY,USA,L,R,72,185,,8,0.709,457,1006,241,34,118,106,0.38,rollj001,Jimmy Rollins,Cousin
+Tony Walker,walkt103,1959-07-01,San Diego,CA,USA,R,R,74,205,,1,0.674,84,90,20,2,10,11,0.84,walkn001,Neil Walker,Father
+Tony Walker,walkt103,1959-07-01,San Diego,CA,USA,R,R,74,205,,1,0.674,84,90,20,2,10,11,0.84,kelld001,Don Kelly,Father-in-Law
+Tony Walker,walkt103,1959-07-01,San Diego,CA,USA,R,R,74,205,,1,0.674,84,90,20,2,10,11,0.84,langc101,,Brother-in-Law
+Tracy Jones,jonet901,1961-03-31,Hawthorne,CA,USA,R,R,75,180,,6,1.051,493,1303,356,27,164,100,2.26,jonea901,Andruw Jones,Brother
+Travis Shaw,shawt001,1990-04-16,Washington Court House,OH,USA,L,R,76,230,,8,0.831,733,2374,563,114,366,275,7.91,shawj001,,Son
+Travis d'Arnaud,darnt001,1989-02-10,Long Beach,CA,USA,R,R,74,210,,13,0.757,953,3245,795,129,459,252,10.25,darnc001,Chase d'Arnaud,Brother
+Trayce Thompson,thomt104,1991-03-15,Los Angeles,CA,USA,R,R,75,225,,7,0.919,369,935,198,45,126,115,3.29,thomh101,,Brother
+Tripp Cromer,cromt001,1967-11-21,Lake City,SC,USA,R,R,74,165,,8,0.606,196,524,118,12,48,27,-0.52,cromd001,D. T. Cromer,Brother
+Tug Hulett,hulet002,1983-02-28,Springfield,IL,USA,L,R,70,185,,2,0.524,45,67,13,1,3,6,-0.71,hulet001,Tim Hulett,Son
+Ty Waller,wallt001,1957-03-14,Fresno,CA,USA,R,R,72,180,,4,0.644,63,110,26,3,14,7,0.02,wallc001,Chad Wallach,Father
+Tyler Fitzgerald,fitzt001,1997-09-15,Springfield,IL,USA,R,R,75,205,,3,0.738,178,563,142,21,53,41,3.69,fitzm002,Mike Fitzgerald,Son
+Tyler Goeddel,goedt001,1992-10-20,San Mateo,CA,USA,R,R,76,180,,1,0.549,92,213,41,4,16,17,-1.29,goede001,,Brother
+Tyler Heineman,heint101,1991-06-19,Pacific Palisades,CA,USA,B,R,70,190,,6,0.947,176,409,98,4,35,35,2.78,heink101,,Son
+Tyler Nevin,nevit001,1997-05-29,Poway,CA,USA,R,R,76,225,,4,0.615,192,511,104,12,49,61,-1.06,nevip001,Phil Nevin,Son
+Tyler Pastornicky,pastt001,1989-12-13,Bradenton,FL,USA,R,R,71,180,,3,0.608,124,239,58,2,15,17,-1.78,pastc101,Cliff Pastornicky,Son
+Tyler Soderstrom,sodet001,2001-11-24,Turlock,CA,USA,L,R,73,200,,3,0.754,264,875,219,37,126,86,3.13,sodes001,,Son
+Vic Davalillo,davav101,1939-07-30,Cabimas,Zulia,Venezuela,L,L,67,150,,11,0.925,816,1862,517,13,161,93,9.8,davay101,,Brother
+Vic Harris,harrv102,1950-03-27,Los Angeles,CA,USA,B,R,71,165,,8,0.582,579,1610,349,13,121,160,-6.25,harrb117,Billy Harris,Brother
+Vic Harris,harrv102,1950-03-27,Los Angeles,CA,USA,B,R,71,165,,8,0.582,579,1610,349,13,121,160,-6.25,harrn102,,Brother
+Victor Caratini,carav901,1993-08-17,Coamo,,P.R.,B,R,73,215,,9,0.692,721,1975,482,58,247,188,4.31,garcr901,Robel Garcia,Son-in-Law
+Vladimir Guerrero,guerv001,1975-02-09,Nizao,Peravia,D.R.,R,R,75,235,HOF,16,0.931,2147,8155,2590,449,1496,737,59.46,guerw001,Wilton Guerrero,Brother
+Vladimir Guerrero,guerv001,1975-02-09,Nizao,Peravia,D.R.,R,R,75,235,HOF,16,0.931,2147,8155,2590,449,1496,737,59.46,guerv002,Vladimir Guerrero Jr.,Father
+Vladimir Guerrero,guerv001,1975-02-09,Nizao,Peravia,D.R.,R,R,75,235,HOF,16,0.931,2147,8155,2590,449,1496,737,59.46,guerg001,Gabriel Guerrero,Uncle
+Vladimir Guerrero Jr.,guerv002,1999-03-16,Montreal,QC,CAN,R,R,74,240,,7,0.861,975,3734,1077,183,591,430,25.73,guerg001,Gabriel Guerrero,Cousin
+Vladimir Guerrero Jr.,guerv002,1999-03-16,Montreal,QC,CAN,R,R,74,240,,7,0.861,975,3734,1077,183,591,430,25.73,guerv001,Vladimir Guerrero,Son
+Vladimir Guerrero Jr.,guerv002,1999-03-16,Montreal,QC,CAN,R,R,74,240,,7,0.861,975,3734,1077,183,591,430,25.73,guerw001,Wilton Guerrero,Nephew
+Wallace Johnson,johnw901,1956-12-25,Gary,IN,USA,B,R,72,173,,9,0.665,428,569,145,5,59,52,0.17,johnt104,Tim Johnson,Brother
+Walt Williams,willw103,1943-12-19,Brownwood,TX,USA,R,R,66,165,,8,0.683,728,2089,574,30,158,109,2.39,willm007,Mark Williams,Grandfather
+Wander Franco,franw002,2001-03-01,Bani,Peravia,D.R.,B,R,70,189,,3,0.794,265,1037,292,30,130,92,11.25,aybae001,Erick Aybar,Nephew
+Wander Franco,franw002,2001-03-01,Bani,Peravia,D.R.,B,R,70,189,,3,0.794,265,1037,292,30,130,92,11.25,aybaw001,Willy Aybar,Nephew
+Wayne Garrett,garrw101,1947-12-03,Brooksville,FL,USA,L,R,71,175,,10,0.805,1092,3285,786,61,340,561,19.55,garra101,Adrian Garrett,Brother
+Wayne Nordhagen,nordw101,1948-07-04,Thief River Falls,MN,USA,R,R,74,205,,8,0.947,502,1423,401,39,205,54,-3.62,millk005,Keith Miller,Uncle
+Wayne Tolleson,tollw001,1955-11-22,Spartanburg,SC,USA,B,R,69,160,,10,0.739,863,2322,559,9,133,219,5.02,tolls001,Steven Tolleson,Father
+Wayne Tyrone,tyrow101,1950-08-01,Alice,TX,USA,R,R,73,185,,1,0.56,30,57,13,1,8,3,-0.44,tyroj101,Jim Tyrone,Brother
+Wes Helms,helmw001,1976-05-12,Gastonia,NC,USA,R,R,76,230,,13,0.723,1212,2711,694,75,374,220,-1.68,helmt101,Tommy Helms,Nephew
+Wil Nieves,nievw001,1977-09-25,San Juan,,P.R.,R,R,71,190,,12,0.649,427,1164,281,10,114,61,-2.39,nievm001,Melvin Nieves,Brother
+Will Clark,clarw102,1964-03-13,New Orleans,LA,USA,L,L,74,190,,15,0.941,1976,7173,2176,284,1205,937,60.44,hackm101,,Cousin
+Will Clark,clarw102,1964-03-13,New Orleans,LA,USA,L,L,74,190,,15,0.941,1976,7173,2176,284,1205,937,60.44,hackw101,,Cousin
+Will Clark,clarw102,1964-03-13,New Orleans,LA,USA,L,L,74,190,,15,0.941,1976,7173,2176,284,1205,937,60.44,clard102,Dave Clark,Brother
+Will Clark,clarw102,1964-03-13,New Orleans,LA,USA,L,L,74,190,,15,0.941,1976,7173,2176,284,1205,937,60.44,clarj102,Jack Clark,Brother
+Will Venable,venaw001,1982-10-29,Greenbrae,CA,USA,L,L,75,205,,9,0.791,967,2836,707,81,307,254,13.32,venam001,Max Venable,Son
+Will Wagner,wagnw001,1998-07-29,Houston,TX,USA,L,R,72,210,,2,0.924,79,211,54,2,18,21,-0.44,wagnb001,,Son
+William Contreras,contw002,1997-12-24,Puerto Cabello,Carabobo,Venezuela,R,R,72,180,,6,0.805,599,2208,602,85,315,283,15.23,contw001,Willson Contreras,Brother
+Willie Davis,daviw001,1940-04-15,Mineral Springs,AR,USA,L,L,74,180,,10,0.807,1371,5268,1514,99,617,240,35.09,davij001,Jody Davis,Cousin
+Willie Harris,harrw001,1978-06-22,Cairo,GA,USA,L,R,69,195,,12,0.673,1046,2441,580,39,212,306,3.33,rilee001,Ernie Riles,Nephew
+Willson Contreras,contw001,1992-05-13,Puerto Cabello,Carabobo,Venezuela,R,R,73,225,,10,0.811,1078,3700,954,172,548,419,29.34,contw002,William Contreras,Brother
+Willy Aybar,aybaw001,1983-03-09,Bani,Peravia,D.R.,B,R,71,205,,5,0.892,405,1219,315,33,157,142,3.27,aybae001,Erick Aybar,Brother
+Willy Aybar,aybaw001,1983-03-09,Bani,Peravia,D.R.,B,R,71,205,,5,0.892,405,1219,315,33,157,142,3.27,franw002,Wander Franco,Uncle
+Wilton Guerrero,guerw001,1974-10-24,Don Gregorio,Peravia,D.R.,B,R,71,145,,8,0.88,678,1678,473,11,127,64,-2.63,guerg001,Gabriel Guerrero,Uncle
+Wilton Guerrero,guerw001,1974-10-24,Don Gregorio,Peravia,D.R.,B,R,71,145,,8,0.88,678,1678,473,11,127,64,-2.63,guerv002,Vladimir Guerrero Jr.,Uncle
+Wilton Guerrero,guerw001,1974-10-24,Don Gregorio,Peravia,D.R.,B,R,71,145,,8,0.88,678,1678,473,11,127,64,-2.63,guerv001,Vladimir Guerrero,Brother
+Yadier Molina,moliy001,1982-07-13,Bayamon,,P.R.,R,R,71,225,,19,0.726,2226,7817,2168,176,1022,542,41.59,molib001,Bob Molinaro,Brother
+Yadier Molina,moliy001,1982-07-13,Bayamon,,P.R.,R,R,71,225,,19,0.726,2226,7817,2168,176,1022,542,41.59,molij001,Jose Molina,Brother
+Yan Gomes,gomey001,1987-07-19,Sao Paulo,Sao Paulo,Brazil,R,R,74,212,,13,0.77,1118,3756,923,137,517,216,20.83,hamma001,,Son-in-Law
+Yangervis Solarte,solay001,1987-07-03,Valencia,Carabobo,Venezuela,B,R,71,220,,6,0.862,670,2407,620,75,307,189,8.02,ceder001,Roger Cedeno,Nephew
+Yonder Alonso,alony001,1987-04-08,Havana,La Habana,Cuba,L,R,73,230,,10,0.915,1072,3362,872,100,426,366,9.82,machm001,Mike Macha,Brother-in-Law
+Yuli Gurriel,gurry001,1984-06-09,Sancti Spiritus,Sancti Spíritus,Cuba,R,R,72,215,,10,0.76,943,3434,956,98,471,227,12.31,gurrl001,Lourdes Gurriel Jr.,Brother
