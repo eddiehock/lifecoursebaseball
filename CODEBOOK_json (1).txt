@@ -1,0 +1,72 @@
+This is the codebook for the "mlb_1968_2025_relatives.json" file.
+
+A JSON object is organized into nested "keys." This codebook will go through each key level, down to the eventual "leaves" of data.
+
+The outermost keys are the "player" keys. Each unique player in the dataset has a corresponding key, labeled with a text string for his name. We will use "Barry Bonds" as an example. 
+
+The "player" keys contain three sub-keys: "bio," "career_summary," and "seasons."
+
+"bio": this key contains biographical data (collected from Retrosheet and Fangraphs). 
+    "birth_date": the date of the player's birth, recorded in character format (YYYY-MM-DD). For Bonds, "1964-07-24."
+    "birth_city": the municipality of the player's birth, recorded in character format. For Bonds, "Riverside."
+    "birth_state": the administrative division of the player's birth (if applicable), recorded in character format. For Bonds, "CA."
+    "birth_country": the country of the player's birth, recorded in character format. For Bonds, "USA."
+    "bats": does the player bat right-handed or left-handed, or is he a switch hitter? In character format, "R," "L," or "B" (for "both"). For Bonds, "L."
+    "throws": does the player throw with his right or left hand? In character format, "R" or "L." For Bonds, "L."
+    "height_in": the player's listed height in inches, recorded in integer format. For Bonds, 73.
+    "weight_lbs": the player's listed weight in pounds, recorded in integer format. For Bonds, 185.
+    "hall_of_fame": will be an indicator for HOF status. Currently not working correctly.
+
+"career_summary": this key contains summary information about the player's entire career (collected from Fangraphs).
+    "seasons_played": how many seasons the player played, recorded in double format. For Bonds, 22.
+    "career_ops": the player's OPS (on-base percentage plus slugging percentage) over his entire career, recorded in double format. For Bonds, 1.051. 
+       A common indicator of offensive success. Higher is better. Over 1.000 is elite.
+    "career_g": how many games the player played in during his career, recorded in integer format. For Bonds, 2986.
+    "career_ab": how many at-bats the player had during his career, recorded in integer format. For Bonds, 9847.
+    "career_h": how many hits the player had during his career, recorded in integer format. For Bonds, 2935.
+    "career_hr": how many home runs the player hit during his career, recorded in integer format. For Bonds, 762.
+    "career_rbi": how many runs the player batted in during his career, recorded in integer format. For Bonds, 1996.
+    "career_bb": how many times the player was walked during his career, recorded in integer format. For Bonds, 2558.
+        "Bases on balls" (BB) and "walks" are the same thing.
+    "career_war": how many wins above replacement the player accumulated during his career, recorded in double format. For Bonds, 162.78.
+        We use the Fangraphs-calculated WAR (fWAR). A metric of cumulative success over seasons and years, calculated by an algorithm.
+    "teams": a list of the teams the player played for, by three-letter code. For Bonds, "PIT" and "SFN."
+
+"seasons": this key contains information about every season the player played in (collected from Fangraphs and MLB). We will look at Bonds's key 16 (his sixteenth season in the league).
+    "season": what year was it? In integer format, YYYY. For this season, 2001.
+    "age": how old was the player when the season ended? In integer format, YY. For this season, 37.
+    "multi-team": did the player play for more than one team during this season? In logical format, TRUE or FALSE. For this season, FALSE.
+    "team": the team the player played for, in character format by three-letter code. For this season, "SFN."
+    "lg": whether the team was in the American or National League. In character format, "AL" or "NL." For this season, "NL."
+    "stats": a list of the player's numerical stats for this season. The counting stats are all in integer format, and the average stats are all in double format.
+
+        COUNTING STATS
+        "G": how many games did the player play in this season? For 2001 Bonds, 153.
+        "AB": how many at-bats did the player have this season? For 2001 Bonds, 476.  
+        "PA": how many plate appearances did the player have this season? For 2001 Bonds, 664.
+            A plate appearance that ends in a walk, hit-by-pitch, or sacrifice play is not recorded as an at-bat.
+        "H": how many hits did the player have this season? For 2001 Bonds, 156.
+        "2B": how many doubles did the player have this season? For 2001 Bonds, 32.
+        "3B": how many triples did the player have this season? For 2001 Bonds, 2.
+        "HR": how many doubles did the player have this season? For 2001 Bonds, 73.
+        "R": how many runs did the player score this season? For 2001 Bonds, 129.
+        "RBI": how many runs did the player bat in this season? For 2001 Bonds, 137.
+        "BB": how many times was the player walked this season? For 2001 Bonds, 177.
+        "SO": how many times did the player strike out this season? For 2001 Bonds, 93.
+
+        AVERAGE STATS
+        "BA": what was the player's batting average this season? For 2001 Bonds, 0.328.
+            The percentage of at-bats where the player got a hit is the batting average (or simply H/AB).
+        "OBP": what was the player's on-base percentage this season? For 2001 Bonds, 515.
+            The percentage of plate appearances where the player got on base is the on-base percentage.
+        "SLG": what was the player's slugging percentage this season? For 2001 Bonds, 0.863.
+            Slugging percentage is total bases (on hits) per at-bat (or (H+2*2B+3*3B+4*HR)/AB).
+        "OPS": what was the player's OPS this season? For 2001 Bonds, 1.378.
+            A common indicator of offensive success. Higher is better. Over 1.000 is elite. Simply calculated as OBP+SLG.
+        "WAR": how many wins above replacement did the player account for this season? For 2001 Bonds, 11.86.
+            A common indicator of overall player-season quality. A metric of cumulative success, calculated with the Fangraphs algorithm.
+
+"id1": an ID for player-matching, recorded in character format. For Bonds, "bondb101." (For his father Bobby Bonds, "bondb001.")
+
+
+
