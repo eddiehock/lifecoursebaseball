@@ -48,7 +48,7 @@ The "player" keys contain three sub-keys: "bio," "career_summary," and "seasons.
         "H": how many hits did the player have this season? For 2001 Bonds, 156.
         "2B": how many doubles did the player have this season? For 2001 Bonds, 32.
         "3B": how many triples did the player have this season? For 2001 Bonds, 2.
-        "HR": how many doubles did the player have this season? For 2001 Bonds, 73.
+        "HR": how many home runs did the player have this season? For 2001 Bonds, 73.
         "R": how many runs did the player score this season? For 2001 Bonds, 129.
         "RBI": how many runs did the player bat in this season? For 2001 Bonds, 137.
         "BB": how many times was the player walked this season? For 2001 Bonds, 177.
@@ -57,10 +57,10 @@ The "player" keys contain three sub-keys: "bio," "career_summary," and "seasons.
         AVERAGE STATS
         "BA": what was the player's batting average this season? For 2001 Bonds, 0.328.
             The percentage of at-bats where the player got a hit is the batting average (or simply H/AB).
-        "OBP": what was the player's on-base percentage this season? For 2001 Bonds, 515.
+        "OBP": what was the player's on-base percentage this season? For 2001 Bonds, 0.515.
             The percentage of plate appearances where the player got on base is the on-base percentage.
         "SLG": what was the player's slugging percentage this season? For 2001 Bonds, 0.863.
-            Slugging percentage is total bases (on hits) per at-bat (or (H+2*2B+3*3B+4*HR)/AB).
+            Slugging percentage is total bases (on hits) per at-bat (or (1B+2*2B+3*3B+4*HR)/AB).
         "OPS": what was the player's OPS this season? For 2001 Bonds, 1.378.
             A common indicator of offensive success. Higher is better. Over 1.000 is elite. Simply calculated as OBP+SLG.
         "WAR": how many wins above replacement did the player account for this season? For 2001 Bonds, 11.86.
